@@ -1,0 +1,320 @@
+{
+   "Profile": {
+      "Personal": {
+         "Title": "",
+         "FirstName": "Leo",
+         "LastName": "Valkonet",
+         "DateOfBirth": "1961-03-16",
+         "NationalityCode": "",
+         "NationalityCodeDescription": "",
+         "GenderCode": "1",
+         "GenderCodeDescription": "Man",
+         "DriversLicence": "",
+         "MaritalStatusCode": "1",
+         "MaritalStatusCodeDescription": "Getrouwd",
+         "Address": {
+            "StreetName": "e heidestraat",
+            "StreetNumberBase": "21",
+            "PostalCode": "1566 VP",
+            "City": "Assendelft",
+            "RegionCode": "NL-NH",
+            "RegionCodeDescription": "NL Noord-Holland",
+            "CountryCode": "NL",
+            "CountryCodeDescription": "Nederland"
+         },
+         "MobilePhones": {
+            "MobilePhone": ""
+         },
+         "HomePhones": {
+            "HomePhone": "0031(0)756873122"
+         },
+         "Emails": {
+            "Email": "l.valkonet@chello.nl"
+         },
+         "SocialMedia": {
+            "SocialMediaLink": {
+               "SocialMediaURL": "",
+               "SocialMediaType": ""
+            }
+         }
+      },
+      "EducationHistory": {
+         "EducationItem": [
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "",
+               "StartDate": "1985-09-01",
+               "EndDate": "2006-06-30",
+               "InstituteName": "VDR bouw Deventer",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "",
+               "StartDate": "2006-09-01",
+               "EndDate": "2007-06-30",
+               "InstituteName": "Ouwehand bouw Gorinchem",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "",
+               "StartDate": "2007-09-01",
+               "EndDate": "2009-06-30",
+               "InstituteName": "Heembouw Amersfoort",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "",
+               "StartDate": "2009-09-01",
+               "EndDate": "2011-06-30",
+               "InstituteName": "De Groep Bouw Zoeterwoude-Rijndijk",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "",
+               "StartDate": "2011-09-01",
+               "EndDate": "2012-06-30",
+               "InstituteName": "Van Wijnen Hoofddorp",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "Gerealiseerde projecten",
+               "StartDate": "",
+               "EndDate": "",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "Hotel Ascot Amsterdam",
+               "StartDate": "",
+               "EndDate": "",
+               "InstituteName": "drukkerij Jurriaans Amsterdam",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "bedrijvencentrum met stadsdeelraadkantoor oud west",
+               "StartDate": "",
+               "EndDate": "",
+               "InstituteName": "Amsterdam",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "bedrijfsverzamelgebouw cirkel office",
+               "StartDate": "",
+               "EndDate": "",
+               "InstituteName": "Alkmaar en Hoorn; bedrijfspand Hema Haarlem",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "bedrijfspand Meprotch Heerhugowaard",
+               "StartDate": "",
+               "EndDate": "",
+               "InstituteName": "bedrijfspand Carsjeans Amsterdam - bedrijfspand Dutch flowergroup Aalsmeer - bedrijfspand Dyna seal Alkmaar",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "bedrijfspand",
+               "StartDate": "",
+               "EndDate": "",
+               "InstituteName": "Salo Alkmaar; bedrijfspand Blumex Aalsmeer",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "appartementen nieuwbouw en restauratie Scheveningen",
+               "StartDate": "",
+               "EndDate": "",
+               "InstituteName": "Amstelveen",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "2",
+               "EducationLevelCodeDescription": "Beroepsonderwijs",
+               "DegreeDirection": "mts bouwkunde",
+               "StartDate": "",
+               "EndDate": "",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "bob cursus aannemers",
+               "StartDate": "",
+               "EndDate": "",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "1",
+               "DiplomaCodeDescription": "Ja"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "bob leidinggeven en organisatie 1 en 2",
+               "StartDate": "",
+               "EndDate": "",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "bhv vol",
+               "StartDate": "",
+               "EndDate": "",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "vca 1 en vca",
+               "StartDate": "",
+               "EndDate": "",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            }
+         ]
+      },
+      "EmploymentHistory": {
+         "EmploymentItem": {
+            "JobTitle": "",
+            "StartDate": "",
+            "EndDate": "",
+            "ExperienceYears": "",
+            "EmployerName": "",
+            "Description": ""
+         }
+      },
+      "Skills": {
+         "ComputerSkills": {
+            "ComputerSkill": {
+               "ComputerSkillName": "cirkel office",
+               "ComputerSkillDuration": ""
+            }
+         },
+         "LanguageSkills": {
+            "LanguageSkill": {
+               "LanguageSkillCode": "",
+               "LanguageSkillCodeDescription": "",
+               "LanguageProficiencyCode": "",
+               "LanguageProficiencyCodeDescription": ""
+            }
+         },
+         "SoftSkills": {
+            "SoftSkill": {
+               "SoftSkillName": ""
+            }
+         }
+      },
+      "Other": {
+         "Hobbies": {
+            "Hobby": [
+               "voetbal",
+               "waterpolo - formule 1",
+               "goed glas wijn"
+            ]
+         },
+         "References": {
+            "Reference": ""
+         }
+      },
+      "CustomArea": {
+         "CVTitle": "",
+         "TotalExperienceYears": "",
+         "CurrentJob": "",
+         "CurrentEmployer": "",
+         "Last3Experiences": "",
+         "HighestEducationLevelCode": "2",
+         "HighestEducationLevelCodeDescription": "Beroepsonderwijs",
+         "SalaryCode": "",
+         "SalaryCodeDescription": "",
+         "CandidateStatusCode": "",
+         "CandidateStatusCodeDescription": "",
+         "AvailabilityCode": "",
+         "AvailabilityCodeDescription": "",
+         "CVComment": "",
+         "CandidatePermission": "",
+         "ExternalID": "",
+         "ProfilePicture": {
+            "Base64Content": "",
+            "Filename": "",
+            "ContentType": ""
+         },
+         "ExtraInfo": {
+            "TrxmlID": "104453200",
+            "ExtraInfo1": "",
+            "ExtraInfo2": "",
+            "ExtraInfo3": "",
+            "ExtraInfo4": ""
+         }
+      },
+      "DocumentText": "Naam:                Leo Valkonet\nAdres:               2 e   heidestraat 21\nWoonplaats:          1566 VP Assendelft\nGeboortedatum:       16 maart 1961\nTelefoon             075-6873122\nE-mailadres:         l.valkonet@chello.nl\nBurgerlijke staat:   getrouwd met Miranda\nKinderen:            dochter Joelle en zoon Dion\n\n25 jaar ervaring als uitvoerder bij utiliteitsbouwprojecten\n1 jaar evaring met woning bouw\nErvaring met automatisering op de bouwplaats.\n1985 tot 2006 VDR bouw Deventer\n2006 tot 2007 Ouwehand bouw Gorinchem\n2007 tot 2009 Heembouw Amersfoort\n2009 tot 2011 De Groep Bouw Zoeterwoude-Rijndijk\n2011 tot 2012 Van Wijnen Hoofddorp\n\nGerealiseerde projecten onder andere,\n\n   -   Hotel Ascot Amsterdam\n   -   drukkerij Jurriaans Amsterdam\n   -   bedrijvencentrum met stadsdeelraadkantoor oud west Amsterdam\n   -   bedrijfsverzamelgebouw cirkel office Alkmaar en Hoorn\n   -   bedrijfspand Hema Haarlem\n   -   bedrijfspand Meprotch Heerhugowaard\n   -   bedrijfspand Carsjeans Amsterdam\n   -   bedrijfspand Dutch flowergroup Aalsmeer\n   -   bedrijfspand Dyna seal Alkmaar\n   -   bedrijfspand Salo Alkmaar\n   -   bedrijfspand Blumex Aalsmeer\n   -   appartementen nieuwbouw en restauratie Scheveningen\n   -  woningbouw 96 geschakelde woningen met 24 vrijstaande villa's Uitgeest\n   -    Hilverda de Boer bedrijfsruimte met kantoor te Aalsmeer\n   -   winkel, parkeergarage en 9 appartementen te Wouw\n   -   winkel met kelder en 8 appartementen centrum Haarlem\n   -   school met sporthal Amstelveen\n\nOpleidingen\n\n   -   mts bouwkunde\n   -   bob cursus aannemers diploma\n   -   bob leidinggeven en organisatie 1 en 2\n   -   bhv vol\n   -   vca 1 en vca 2\n   -   ehbo+aed\n\nHobby's\n\n   -   voetbal\n   -   waterpolo\n   -   formule 1\n   -   genieten van een goed glas wijn",
+      "DocumentHtml": "<div><div style=\"position: relative;\"><tk_metadata name=\"last_modified\" value=\"30/05/2014, 17:50\"> </tk_metadata><p> </p>\n<div style=\"position:absolute;top:97px;left:94px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-3\">Naam:            \n</span></div><span class=\"trxml-3\">\n\n</span><div style=\"position:absolute;top:97px;left:236px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-3\"><span class=\"trxml-161\"><span class=\"trxml-10\">Leo</span> Valkonet</span>\n</span></div><span class=\"trxml-3\">\n\n</span><div style=\"position:absolute;top:115px;left:94px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-3\">Adres:            \n</span></div><span class=\"trxml-3\">\n\n</span><div style=\"position:absolute;top:115px;left:236px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-18\"><span class=\"trxml-3\">2\n</span></span></div><span class=\"trxml-18\"><span class=\"trxml-3\">\n\n</span></span><div style=\"position:absolute;top:111px;left:244px;font-family:&apos;Times New Roman&apos;;font-size:8pt;white-space:nowrap;\"><span class=\"trxml-18\"><span class=\"trxml-3\">e\n</span></span></div><span class=\"trxml-18\"><span class=\"trxml-3\">\n\n</span></span><div style=\"position:absolute;top:115px;left:252px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-3\"><span class=\"trxml-18\">heidestraat 21</span>\n</span></div><span class=\"trxml-3\">\n\n</span><div style=\"position:absolute;top:133px;left:94px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-3\">Woonplaats:       \n</span></div><span class=\"trxml-3\">\n\n</span><div style=\"position:absolute;top:133px;left:236px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-3\"><span class=\"trxml-19\">1566 VP Assendelft</span>\n</span></div><span class=\"trxml-3\">\n\n</span><div style=\"position:absolute;top:152px;left:94px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-3\">Geboortedatum:    \n</span></div><span class=\"trxml-3\">\n\n</span><div style=\"position:absolute;top:152px;left:236px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-3\"><span class=\"trxml-20\">16 maart 1961</span>\n</span></div><span class=\"trxml-3\">\n\n</span><div style=\"position:absolute;top:170px;left:94px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-3\">Telefoon          \n</span></div><span class=\"trxml-3\">\n\n</span><div style=\"position:absolute;top:170px;left:236px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-3\"><span class=\"trxml-21\">075-6873122</span>\n</span></div><span class=\"trxml-3\">\n\n</span><div style=\"position:absolute;top:189px;left:94px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-3\">E-mailadres:       \n</span></div><span class=\"trxml-3\">\n\n</span><div style=\"position:absolute;top:189px;left:236px;font-family:&apos;Times New Roman&apos;;font-size:12pt;color:#0000ff;background-color:#ffffff;white-space:nowrap;\"><a href=\"mailto:l.valkonet@chello.nl\"><span class=\"trxml-164\"><span class=\"trxml-3\">l.valkonet@chello.nl</span></span></a><span class=\"trxml-3\">\n</span></div><span class=\"trxml-3\">\n\n</span><div style=\"position:absolute;top:207px;left:94px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-3\">Burgerlijke staat:   \n</span></div><span class=\"trxml-3\">\n\n</span><div style=\"position:absolute;top:207px;left:236px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-3\"><span class=\"trxml-12\">getrouwd</span> met Miranda\n</span></div><span class=\"trxml-3\">\n\n</span><div style=\"position:absolute;top:225px;left:94px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-3\">Kinderen:         \n</span></div><span class=\"trxml-3\">\n\n</span><div style=\"position:absolute;top:225px;left:236px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-3\">dochter Joelle en zoon Dion</span>\n</div>\n\n<div style=\"position:absolute;top:262px;left:94px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-5\">25 jaar ervaring als uitvoerder bij utiliteitsbouwprojecten\n</span></div><span class=\"trxml-5\">\n\n</span><div style=\"position:absolute;top:280px;left:94px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-5\"><span class=\"trxml-99\">1 jaar evaring met woning bouw\n</span></span></div><span class=\"trxml-5\"><span class=\"trxml-99\">\n\n</span></span><div style=\"position:absolute;top:299px;left:94px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-5\"><span class=\"trxml-99\">Ervaring met automatisering op de bouwplaats</span>.\n</span></div><span class=\"trxml-5\">\n\n</span><div style=\"position:absolute;top:317px;left:94px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-5\"><span class=\"trxml-100\"><span class=\"trxml-27\">1985 tot 2006</span> <span class=\"trxml-48\">VDR bouw Deventer</span></span>\n</span></div><span class=\"trxml-5\">\n\n</span><div style=\"position:absolute;top:336px;left:94px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-5\"><span class=\"trxml-101\"><span class=\"trxml-28\">2006 tot 2007</span> <span class=\"trxml-49\">Ouwehand bouw Gorinchem</span></span>\n</span></div><span class=\"trxml-5\">\n\n</span><div style=\"position:absolute;top:354px;left:94px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-5\"><span class=\"trxml-102\"><span class=\"trxml-29\">2007 tot 2009</span> <span class=\"trxml-50\">Heembouw Amersfoort</span></span>\n</span></div><span class=\"trxml-5\">\n\n</span><div style=\"position:absolute;top:373px;left:94px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-5\"><span class=\"trxml-103\"><span class=\"trxml-30\">2009 tot 2011</span> <span class=\"trxml-51\">De Groep Bouw Zoeterwoude-Rijndijk</span></span>\n</span></div><span class=\"trxml-5\">\n\n</span><div style=\"position:absolute;top:391px;left:94px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-5\"><span class=\"trxml-104\"><span class=\"trxml-31\">2011 tot 2012</span> <span class=\"trxml-52\">Van Wijnen Hoofddorp</span></span>\n</span></div><span class=\"trxml-5\">\n\n</span><div style=\"position:absolute;top:428px;left:94px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-5\"><span class=\"trxml-105\"><span class=\"trxml-34\">Gerealiseerde projecten</span> onder andere</span>,\n</span></div><span class=\"trxml-5\">\n\n</span><div style=\"position:absolute;top:465px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-5\">-  \n</span></div><span class=\"trxml-5\">\n\n</span><div style=\"position:absolute;top:465px;left:142px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-106\"><span class=\"trxml-5\"><span class=\"trxml-35\">Hotel Ascot Amsterdam</span>\n</span></span></div><span class=\"trxml-106\"><span class=\"trxml-5\">\n\n</span></span><div style=\"position:absolute;top:483px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-106\"><span class=\"trxml-5\">-  \n</span></span></div><span class=\"trxml-106\"><span class=\"trxml-5\">\n\n</span></span><div style=\"position:absolute;top:483px;left:142px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-5\"><span class=\"trxml-106\"><span class=\"trxml-53\">drukkerij Jurriaans Amsterdam</span></span>\n</span></div><span class=\"trxml-5\">\n\n</span><div style=\"position:absolute;top:501px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-5\">-  \n</span></div><span class=\"trxml-5\">\n\n</span><div style=\"position:absolute;top:501px;left:142px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-5\"><span class=\"trxml-107\"><span class=\"trxml-36\">bedrijvencentrum met stadsdeelraadkantoor oud west</span> <span class=\"trxml-54\">Amsterdam</span></span>\n</span></div><span class=\"trxml-5\">\n\n</span><div style=\"position:absolute;top:520px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-5\">-  \n</span></div><span class=\"trxml-5\">\n\n</span><div style=\"position:absolute;top:520px;left:142px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-108\"><span class=\"trxml-5\"><span class=\"trxml-37\">bedrijfsverzamelgebouw <span class=\"trxml-66\">cirkel office</span></span> <span class=\"trxml-55\">Alkmaar en Hoorn</span>\n</span></span></div><span class=\"trxml-108\"><span class=\"trxml-5\">\n\n</span></span><div style=\"position:absolute;top:538px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-108\"><span class=\"trxml-5\">-  \n</span></span></div><span class=\"trxml-108\"><span class=\"trxml-5\">\n\n</span></span><div style=\"position:absolute;top:538px;left:142px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-5\"><span class=\"trxml-108\"><span class=\"trxml-56\">bedrijfspand Hema Haarlem</span></span>\n</span></div><span class=\"trxml-5\">\n\n</span><div style=\"position:absolute;top:557px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-5\">-  \n</span></div><span class=\"trxml-5\">\n\n</span><div style=\"position:absolute;top:557px;left:142px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-109\"><span class=\"trxml-5\"><span class=\"trxml-38\">bedrijfspand Meprotch Heerhugowaard</span>\n</span></span></div><span class=\"trxml-109\"><span class=\"trxml-5\">\n\n</span></span><div style=\"position:absolute;top:575px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-109\"><span class=\"trxml-5\">-  \n</span></span></div><span class=\"trxml-109\"><span class=\"trxml-5\">\n\n</span></span><div style=\"position:absolute;top:575px;left:142px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-109\"><span class=\"trxml-5\"><span class=\"trxml-57\">bedrijfspand Carsjeans Amsterdam\n</span></span></span></div><span class=\"trxml-109\"><span class=\"trxml-5\"><span class=\"trxml-57\">\n\n</span></span></span><div style=\"position:absolute;top:593px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-109\"><span class=\"trxml-5\"><span class=\"trxml-57\">-  \n</span></span></span></div><span class=\"trxml-109\"><span class=\"trxml-5\"><span class=\"trxml-57\">\n\n</span></span></span><div style=\"position:absolute;top:593px;left:142px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-109\"><span class=\"trxml-5\"><span class=\"trxml-57\">bedrijfspand Dutch flowergroup Aalsmeer\n</span></span></span></div><span class=\"trxml-109\"><span class=\"trxml-5\"><span class=\"trxml-57\">\n\n</span></span></span><div style=\"position:absolute;top:612px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-109\"><span class=\"trxml-5\"><span class=\"trxml-57\">-  \n</span></span></span></div><span class=\"trxml-109\"><span class=\"trxml-5\"><span class=\"trxml-57\">\n\n</span></span></span><div style=\"position:absolute;top:612px;left:142px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-5\"><span class=\"trxml-109\"><span class=\"trxml-57\">bedrijfspand Dyna seal Alkmaar</span></span>\n</span></div><span class=\"trxml-5\">\n\n</span><div style=\"position:absolute;top:630px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-5\">-  \n</span></div><span class=\"trxml-5\">\n\n</span><div style=\"position:absolute;top:630px;left:142px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-110\"><span class=\"trxml-5\"><span class=\"trxml-39\">bedrijfspand</span> <span class=\"trxml-58\">Salo Alkmaar</span>\n</span></span></div><span class=\"trxml-110\"><span class=\"trxml-5\">\n\n</span></span><div style=\"position:absolute;top:649px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-110\"><span class=\"trxml-5\">-  \n</span></span></div><span class=\"trxml-110\"><span class=\"trxml-5\">\n\n</span></span><div style=\"position:absolute;top:649px;left:142px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-5\"><span class=\"trxml-110\"><span class=\"trxml-59\">bedrijfspand Blumex Aalsmeer</span></span>\n</span></div><span class=\"trxml-5\">\n\n</span><div style=\"position:absolute;top:667px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-5\">-  \n</span></div><span class=\"trxml-5\">\n\n</span><div style=\"position:absolute;top:667px;left:142px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-111\"><span class=\"trxml-5\"><span class=\"trxml-40\">appartementen nieuwbouw en restauratie Scheveningen</span>\n</span></span></div><span class=\"trxml-111\"><span class=\"trxml-5\">\n\n</span></span><div style=\"position:absolute;top:685px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-111\"><span class=\"trxml-5\">-  woningbouw 96 geschakelde woningen met 24 vrijstaande villa’s Uitgeest\n</span></span></div><span class=\"trxml-111\"><span class=\"trxml-5\">\n\n</span></span><div style=\"position:absolute;top:704px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-111\"><span class=\"trxml-5\">-  \n</span></span></div><span class=\"trxml-111\"><span class=\"trxml-5\">\n\n</span></span><div style=\"position:absolute;top:704px;left:146px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-111\"><span class=\"trxml-5\">Hilverda de Boer bedrijfsruimte met kantoor te Aalsmeer\n</span></span></div><span class=\"trxml-111\"><span class=\"trxml-5\">\n\n</span></span><div style=\"position:absolute;top:722px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-111\"><span class=\"trxml-5\">-  \n</span></span></div><span class=\"trxml-111\"><span class=\"trxml-5\">\n\n</span></span><div style=\"position:absolute;top:722px;left:142px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-111\"><span class=\"trxml-5\">winkel, parkeergarage en 9 appartementen te Wouw\n</span></span></div><span class=\"trxml-111\"><span class=\"trxml-5\">\n\n</span></span><div style=\"position:absolute;top:741px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-111\"><span class=\"trxml-5\">-  \n</span></span></div><span class=\"trxml-111\"><span class=\"trxml-5\">\n\n</span></span><div style=\"position:absolute;top:741px;left:142px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-111\"><span class=\"trxml-5\">winkel met kelder en 8 appartementen centrum Haarlem\n</span></span></div><span class=\"trxml-111\"><span class=\"trxml-5\">\n\n</span></span><div style=\"position:absolute;top:759px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-111\"><span class=\"trxml-5\">-  \n</span></span></div><span class=\"trxml-111\"><span class=\"trxml-5\">\n\n</span></span><div style=\"position:absolute;top:759px;left:142px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-111\"><span class=\"trxml-5\">school met sporthal <span class=\"trxml-60\">Amstelveen</span></span></span>\n</div>\n\n<div style=\"position:absolute;top:796px;left:94px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-7\">Opleidingen\n</span></div><span class=\"trxml-7\">\n\n</span><div style=\"position:absolute;top:833px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-7\">-  \n</span></div><span class=\"trxml-7\">\n\n</span><div style=\"position:absolute;top:833px;left:142px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-7\"><span class=\"trxml-112\"><span class=\"trxml-83\">mts bouwkunde</span></span>\n</span></div><span class=\"trxml-7\">\n\n</span><div style=\"position:absolute;top:851px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-7\">-  \n</span></div><span class=\"trxml-7\">\n\n</span><div style=\"position:absolute;top:851px;left:142px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-7\"><span class=\"trxml-113\"><span class=\"trxml-84\">bob cursus aannemers</span> <span class=\"trxml-93\">diploma</span></span>\n</span></div><span class=\"trxml-7\">\n\n</span><div style=\"position:absolute;top:869px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-7\">-  \n</span></div><span class=\"trxml-7\">\n\n</span><div style=\"position:absolute;top:869px;left:142px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-7\"><span class=\"trxml-114\"><span class=\"trxml-85\">bob leidinggeven en organisatie 1 en 2</span></span>\n</span></div><span class=\"trxml-7\">\n\n</span><div style=\"position:absolute;top:888px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-7\">-  \n</span></div><span class=\"trxml-7\">\n\n</span><div style=\"position:absolute;top:888px;left:142px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-7\"><span class=\"trxml-115\"><span class=\"trxml-86\">bhv vol</span></span>\n</span></div><span class=\"trxml-7\">\n\n</span><div style=\"position:absolute;top:906px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-7\">-  \n</span></div><span class=\"trxml-7\">\n\n</span><div style=\"position:absolute;top:906px;left:142px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-116\"><span class=\"trxml-7\"><span class=\"trxml-87\">vca 1 en vca</span> <span class=\"trxml-82\">2\n</span></span></span></div><span class=\"trxml-116\"><span class=\"trxml-7\"><span class=\"trxml-82\">\n\n</span></span></span><div style=\"position:absolute;top:925px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-116\"><span class=\"trxml-7\"><span class=\"trxml-82\">-  \n</span></span></span></div><span class=\"trxml-116\"><span class=\"trxml-7\"><span class=\"trxml-82\">\n\n</span></span></span><div style=\"position:absolute;top:925px;left:142px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-116\"><span class=\"trxml-7\"><span class=\"trxml-82\">ehbo+aed</span></span></span>\n</div>\n\n<div style=\"position:absolute;top:961px;left:94px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\">Hobby’s\n</div>\n\n<div style=\"position:absolute;top:998px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\">-  \n</div>\n\n<div style=\"position:absolute;top:998px;left:142px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-9\"><span class=\"trxml-166\">voetbal</span>\n</span></div><span class=\"trxml-9\">\n\n</span><div style=\"position:absolute;top:1017px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-9\">-  \n</span></div><span class=\"trxml-9\">\n\n</span><div style=\"position:absolute;top:1017px;left:142px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-167\"><span class=\"trxml-9\">waterpolo\n</span></span></div><span class=\"trxml-167\"><span class=\"trxml-9\">\n\n</span></span><div style=\"position:absolute;top:1035px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-167\"><span class=\"trxml-9\">-  \n</span></span></div><span class=\"trxml-167\"><span class=\"trxml-9\">\n\n</span></span><div style=\"position:absolute;top:1035px;left:142px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-9\"><span class=\"trxml-167\">formule 1</span>\n</span></div><span class=\"trxml-9\">\n\n</span><div style=\"position:absolute;top:1053px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-9\">-  \n</span></div><span class=\"trxml-9\">\n\n</span><div style=\"position:absolute;top:1053px;left:142px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><span class=\"trxml-9\">genieten van een <span class=\"trxml-80\">goed glas wijn</span></span> </div>\n\n </div></div>",
+      "Performance": {
+         "PreProcessingTime": "0.192",
+         "ProcessingTime": "1.739",
+         "NormalizationTime": "0.0",
+         "TemplatingTime": "0.343",
+         "TotalTime": "2.274"
+      },
+      "_xmlns": "http://home.textkernel.nl/2013-08-01",
+      "_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "_lang": "dutch",
+      "_file": "uploaded_file",
+      "_xsi:schemaLocation": "http://mx.textkernel.nl/xsd/tkprofile.xsd"
+   }
+}

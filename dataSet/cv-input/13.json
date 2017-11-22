@@ -1,0 +1,235 @@
+{
+    "Profile": {
+        "Personal": {
+            "Title": "",
+            "FirstName": "Martijn",
+            "LastName": "van der Linden",
+            "DateOfBirth": "1991-05-11",
+            "NationalityCode": "",
+            "NationalityCodeDescription": "",
+            "GenderCode": "1",
+            "GenderCodeDescription": "Man",
+            "DriversLicence": "B + BE",
+            "MaritalStatusCode": "",
+            "MaritalStatusCodeDescription": "",
+            "Address": {
+                "StreetName": "",
+                "StreetNumberBase": "",
+                "PostalCode": "",
+                "City": "Mierlo",
+                "RegionCode": "NL-NB",
+                "RegionCodeDescription": "NL Noord-Brabant",
+                "CountryCode": "NL",
+                "CountryCodeDescription": "Nederland"
+            },
+            "MobilePhones": {
+                "MobilePhone": "0031(0)642837284"
+            },
+            "HomePhones": {
+                "HomePhone": ""
+            },
+            "Emails": {
+                "Email": "martijn.vdlinden@live.nl"
+            },
+            "SocialMedia": {
+                "SocialMediaLink": {
+                    "SocialMediaURL": "",
+                    "SocialMediaType": ""
+                }
+            }
+        },
+        "EducationHistory": {
+            "EducationItem": [
+                {
+                    "EducationLevelCode": "4",
+                    "EducationLevelCodeDescription": "HBO/Bachelor",
+                    "DegreeDirection": "Bouwtechnische bedrijfskunde",
+                    "StartDate": "2009-09-01",
+                    "EndDate": "2013-06-30",
+                    "InstituteName": "Avans hogeschool, Tilburg",
+                    "GradePointAverage": "",
+                    "DiplomaCode": "4",
+                    "DiplomaCodeDescription": "Onbekend"
+                },
+                {
+                    "EducationLevelCode": "1",
+                    "EducationLevelCodeDescription": "Voortgezet Onderwijs",
+                    "DegreeDirection": "HAVO Profile NG&NT",
+                    "StartDate": "2004-09-01",
+                    "EndDate": "2009-06-30",
+                    "InstituteName": "Strabrecht College, Geldrop",
+                    "GradePointAverage": "",
+                    "DiplomaCode": "4",
+                    "DiplomaCodeDescription": "Onbekend"
+                },
+                {
+                    "EducationLevelCode": "7",
+                    "EducationLevelCodeDescription": "Cursus",
+                    "DegreeDirection": "Veilig werken op hoogte",
+                    "StartDate": "",
+                    "EndDate": "2013-06-30",
+                    "InstituteName": "",
+                    "GradePointAverage": "",
+                    "DiplomaCode": "4",
+                    "DiplomaCodeDescription": "Onbekend"
+                },
+                {
+                    "EducationLevelCode": "7",
+                    "EducationLevelCodeDescription": "Cursus",
+                    "DegreeDirection": "VCA VOL",
+                    "StartDate": "",
+                    "EndDate": "2010-06-30",
+                    "InstituteName": "",
+                    "GradePointAverage": "",
+                    "DiplomaCode": "4",
+                    "DiplomaCodeDescription": "Onbekend"
+                }
+            ]
+        },
+        "EmploymentHistory": {
+            "EmploymentItem": [
+                {
+                    "JobTitle": "Site Control Engineer",
+                    "StartDate": "2013-01-01",
+                    "EndDate": "heden",
+                    "ExperienceYears": "4",
+                    "EmployerName": "Ericsson Netwerk Services Nederland, Maastricht",
+                    "Description": "Werkzaamheden:\n\n    *   Het beoordelen van de tekeningen en aangeboden offertes vanuit de onderaannemer dit op basis van\n        kwaliteit, veiligheid, ontwerp en financiën.\n    *   Verantwoordelijk voor de te bestellen materialen en het in acht nemen van bij behorende levertijden\n        van derden.\n    *   Offertes maken richting de klant.\n    *   Coördineren van inkomende en uitgaande site verzoeken van providers, mast eigenaren en\n        landlords.\n    *   Analyseren van doorlooptijden en kosten op basis van rapportages."
+                },
+                {
+                    "JobTitle": "",
+                    "StartDate": "2010-01-01",
+                    "EndDate": "heden",
+                    "ExperienceYears": "7",
+                    "EmployerName": "De Braok', Mierlo",
+                    "Description": "Leidinggevende in transport en mechanisatie, Biologisch tuinbouwbedrijf '\nWerkzaamheden:\n\n    *   Verantwoordelijk voor kwaliteit en orde op de zaterdagen.\n    *   Inplannen van werknemers die noodzakelijk zijn voor de werkzaamheden\n    *   Aansturen van werknemers gedurende de dag"
+                }
+            ]
+        },
+        "Skills": {
+            "ComputerSkills": {
+                "ComputerSkill": [
+                    {
+                        "ComputerSkillName": "NG&NT",
+                        "ComputerSkillDuration": "5"
+                    },
+                    {
+                        "ComputerSkillName": "Autocad Uitgebreid",
+                        "ComputerSkillDuration": ""
+                    },
+                    {
+                        "ComputerSkillName": "MS Word",
+                        "ComputerSkillDuration": ""
+                    },
+                    {
+                        "ComputerSkillName": "MS Excel Uitgebreid",
+                        "ComputerSkillDuration": ""
+                    },
+                    {
+                        "ComputerSkillName": "MS Powerpoint Uitgebreid",
+                        "ComputerSkillDuration": ""
+                    },
+                    {
+                        "ComputerSkillName": "Revit",
+                        "ComputerSkillDuration": ""
+                    }
+                ]
+            },
+            "LanguageSkills": {
+                "LanguageSkill": [
+                    {
+                        "LanguageSkillCode": "NL",
+                        "LanguageSkillCodeDescription": "Nederlands",
+                        "LanguageProficiencyCode": "6",
+                        "LanguageProficiencyCodeDescription": "Moedertaalniveau"
+                    },
+                    {
+                        "LanguageSkillCode": "EN",
+                        "LanguageSkillCodeDescription": "Engels",
+                        "LanguageProficiencyCode": "4",
+                        "LanguageProficiencyCodeDescription": "Gevorderd"
+                    },
+                    {
+                        "LanguageSkillCode": "DE",
+                        "LanguageSkillCodeDescription": "Duits",
+                        "LanguageProficiencyCode": "3",
+                        "LanguageProficiencyCodeDescription": "Intermediate"
+                    }
+                ]
+            },
+            "SoftSkills": {
+                "SoftSkill": [
+                    {
+                        "SoftSkillName": "Persoonlijk"
+                    },
+                    {
+                        "SoftSkillName": "Resultaatgericht"
+                    },
+                    {
+                        "SoftSkillName": "Teamspeler"
+                    },
+                    {
+                        "SoftSkillName": "Flexibel"
+                    }
+                ]
+            }
+        },
+        "Other": {
+            "Hobbies": {
+                "Hobby": [
+                    "Voetbal",
+                    "hardlopen",
+                    "mountainbiken",
+                    "skiën"
+                ]
+            },
+            "References": {
+                "Reference": ""
+            }
+        },
+        "CustomArea": {
+            "CVTitle": "",
+            "TotalExperienceYears": "7",
+            "CurrentJob": "Site Control Engineer",
+            "CurrentEmployer": "Ericsson Netwerk Services Nederland, Maastricht",
+            "Last3Experiences": "",
+            "HighestEducationLevelCode": "4",
+            "HighestEducationLevelCodeDescription": "HBO/Bachelor",
+            "SalaryCode": "",
+            "SalaryCodeDescription": "",
+            "CandidateStatusCode": "",
+            "CandidateStatusCodeDescription": "",
+            "AvailabilityCode": "",
+            "AvailabilityCodeDescription": "",
+            "CVComment": "",
+            "CandidatePermission": "",
+            "ExternalID": "",
+            "ProfilePicture": {
+                "Base64Content": "",
+                "Filename": "",
+                "ContentType": ""
+            },
+            "ExtraInfo": {
+                "TrxmlID": "99628444",
+                "ExtraInfo1": "",
+                "ExtraInfo2": "",
+                "ExtraInfo3": "",
+                "ExtraInfo4": ""
+            }
+        },
+        "DocumentText": "Curriculum Vitae\n\nPersoonlijke Gegevens\n\nNaam                          Martijn van der Linden\nGeboortedatum                 11-05-1991\nWoonplaats                    Mierlo\nTelefoon                      0642837284\nE-mail                        martijn.vdlinden@live.nl\nRijbewijs                     B + BE\n\n\nWerkervaring\nJan. 2013 - Heden             Site Control Engineer, Ericsson Netwerk Services Nederland, Maastricht\nWerkzaamheden:\n\n    *   Het beoordelen van de tekeningen en aangeboden offertes vanuit de onderaannemer dit op basis van\n        kwaliteit, veiligheid, ontwerp en financiën.\n    *   Verantwoordelijk voor de te bestellen materialen en het in acht nemen van bij behorende levertijden\n        van derden.\n    *   Offertes maken richting de klant.\n    *   Coördineren van inkomende en uitgaande site verzoeken van providers, mast eigenaren en\n        landlords.\n    *   Analyseren van doorlooptijden en kosten op basis van rapportages.\n\n\nJan. 2010- Heden              Leidinggevende in transport en mechanisatie, Biologisch tuinbouwbedrijf 'De\nBraok', Mierlo\nWerkzaamheden:\n\n    *   Verantwoordelijk voor kwaliteit en orde op de zaterdagen.\n    *   Inplannen van werknemers die noodzakelijk zijn voor de werkzaamheden\n    *   Aansturen van werknemers gedurende de dag\n\n\nOpleidingen\n2009 - 2013                   Bouwtechnische bedrijfskunde, Avans hogeschool, Tilburg\n2004 - 2009                   HAVO Profile NG&NT, Strabrecht College, Geldrop\n\n\nCursussen en Trainingen\n2013                          Veilig werken op hoogte\n2010                          VCA VOL\n\n\n\nVaardigheden\nTaal                          Mondeling                  Schriftelijk\nNederlands                    Moedertaal                 Moedertaal\nEngels                        Goed                       Goed\n\n\n\n\nDuits                         Matig                      Matig\n\n\nVaktechnisch\nAutocad                       Uitgebreid\nMS Word                       Uitgebreid\nMS Excel                      Uitgebreid\nMS Powerpoint                 Uitgebreid\nRevit                         Basis kennis\n\n\nPersoonlijk\nResultaatgericht\nTeamspeler\nFlexibel\n\n\nHobby's\nVoetbal, hardlopen, mountainbiken en skiën.",
+        "DocumentHtml": "<div><div style=\"position: relative;\"><tk_metadata name=\"last_modified\" value=\"12/10/2016, 17:11\"> </tk_metadata><p> </p>\n<div style=\"position:absolute;top:100px;left:63px;font-family:&apos;Arial&apos;;font-size:16pt;color:#172771;background-color:#ffffff;white-space:nowrap;\"><b><i>Curriculum Vitae</i></b></div>\n\n\n<div style=\"position:absolute;top:149px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;color:#172771;background-color:#ffffff;white-space:nowrap;\"><b><span class=\"trxml-3\">Persoonlijke Gegevens</span></b><span class=\"trxml-3\">\n</span></div><span class=\"trxml-3\">\n\n</span><div style=\"position:absolute;top:173px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;color:#172771;background-color:#ffffff;white-space:nowrap;\"><span class=\"trxml-3\">Naam                   \n</span></div><span class=\"trxml-3\">\n\n</span><div style=\"position:absolute;top:173px;left:242px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-3\"><span class=\"trxml-186\"><span class=\"trxml-59\">Martijn</span> van der Linden</span>\n</span></div><span class=\"trxml-3\">\n\n</span><div style=\"position:absolute;top:196px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;color:#172771;background-color:#ffffff;white-space:nowrap;\"><span class=\"trxml-3\">Geboortedatum           \n</span></div><span class=\"trxml-3\">\n\n</span><div style=\"position:absolute;top:196px;left:242px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-3\"><span class=\"trxml-66\">11-05-1991</span>\n</span></div><span class=\"trxml-3\">\n\n</span><div style=\"position:absolute;top:219px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;color:#172771;background-color:#ffffff;white-space:nowrap;\"><span class=\"trxml-3\">Woonplaats              \n</span></div><span class=\"trxml-3\">\n\n</span><div style=\"position:absolute;top:219px;left:242px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-3\"><span class=\"trxml-65\">Mierlo</span>\n</span></div><span class=\"trxml-3\">\n\n</span><div style=\"position:absolute;top:242px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;color:#172771;background-color:#ffffff;white-space:nowrap;\"><span class=\"trxml-3\">Telefoon                 \n</span></div><span class=\"trxml-3\">\n\n</span><div style=\"position:absolute;top:242px;left:242px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-3\"><span class=\"trxml-67\">0642837284</span>\n</span></div><span class=\"trxml-3\">\n\n</span><div style=\"position:absolute;top:265px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;color:#172771;background-color:#ffffff;white-space:nowrap;\"><span class=\"trxml-3\">E-mail                   \n</span></div><span class=\"trxml-3\">\n\n</span><div style=\"position:absolute;top:265px;left:242px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-3\"><span class=\"trxml-190\">martijn.vdlinden@live.nl</span>\n</span></div><span class=\"trxml-3\">\n\n</span><div style=\"position:absolute;top:288px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;color:#172771;background-color:#ffffff;white-space:nowrap;\"><span class=\"trxml-3\">Rijbewijs                 \n</span></div><span class=\"trxml-3\">\n\n</span><div style=\"position:absolute;top:288px;left:242px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-3\"><span class=\"trxml-62\">B + BE</span></span></div>\n\n\n<div style=\"position:absolute;top:339px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;color:#172771;background-color:#ffffff;white-space:nowrap;\"><b><span class=\"trxml-5\">Werkervaring</span></b><span class=\"trxml-5\">\n</span></div><span class=\"trxml-5\">\n\n</span><div style=\"position:absolute;top:362px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;color:#172771;background-color:#ffffff;white-space:nowrap;\"><span class=\"trxml-43\"><span class=\"trxml-5\"><span class=\"trxml-99\">Jan. 2013 – Heden</span>         \n</span></span></div><span class=\"trxml-43\"><span class=\"trxml-5\">\n\n</span></span><div style=\"position:absolute;top:362px;left:242px;font-family:&apos;Arial&apos;;font-size:10pt;color:#172771;background-color:#ffffff;white-space:nowrap;\"><span class=\"trxml-43\"><span class=\"trxml-5\"><span class=\"trxml-101\">Site Control Engineer</span>, <span class=\"trxml-102\">Ericsson Netwerk Services Nederland, Maastricht</span>\n</span></span></div><span class=\"trxml-43\"><span class=\"trxml-5\">\n\n</span></span><div style=\"position:absolute;top:385px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-43\"><span class=\"trxml-5\">Werkzaamheden:\n</span></span></div><span class=\"trxml-43\"><span class=\"trxml-5\">\n\n</span></span><div style=\"position:absolute;top:410px;left:87px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-43\"><span class=\"trxml-5\">● \n</span></span></div><span class=\"trxml-43\"><span class=\"trxml-5\">\n\n</span></span><div style=\"position:absolute;top:409px;left:110px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-104\"><span class=\"trxml-43\"><span class=\"trxml-5\">Het beoordelen van de tekeningen en aangeboden offertes vanuit de onderaannemer dit op basis van\n</span></span></span></div><span class=\"trxml-104\"><span class=\"trxml-43\"><span class=\"trxml-5\">\n\n</span></span></span><div style=\"position:absolute;top:425px;left:110px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-43\"><span class=\"trxml-5\"><span class=\"trxml-104\">kwaliteit, veiligheid, ontwerp en financiën</span>.\n</span></span></div><span class=\"trxml-43\"><span class=\"trxml-5\">\n\n</span></span><div style=\"position:absolute;top:441px;left:87px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-43\"><span class=\"trxml-5\">● \n</span></span></div><span class=\"trxml-43\"><span class=\"trxml-5\">\n\n</span></span><div style=\"position:absolute;top:441px;left:110px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-105\"><span class=\"trxml-43\"><span class=\"trxml-5\">Verantwoordelijk voor de te bestellen materialen en het in acht nemen van bij behorende levertijden\n</span></span></span></div><span class=\"trxml-105\"><span class=\"trxml-43\"><span class=\"trxml-5\">\n\n</span></span></span><div style=\"position:absolute;top:456px;left:110px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-105\"><span class=\"trxml-43\"><span class=\"trxml-5\">van derden.\n</span></span></span></div><span class=\"trxml-105\"><span class=\"trxml-43\"><span class=\"trxml-5\">\n\n</span></span></span><div style=\"position:absolute;top:473px;left:87px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-105\"><span class=\"trxml-43\"><span class=\"trxml-5\">● \n</span></span></span></div><span class=\"trxml-105\"><span class=\"trxml-43\"><span class=\"trxml-5\">\n\n</span></span></span><div style=\"position:absolute;top:472px;left:110px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-105\"><span class=\"trxml-43\"><span class=\"trxml-5\">Offertes maken richting de klant.\n</span></span></span></div><span class=\"trxml-105\"><span class=\"trxml-43\"><span class=\"trxml-5\">\n\n</span></span></span><div style=\"position:absolute;top:489px;left:87px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-105\"><span class=\"trxml-43\"><span class=\"trxml-5\">● \n</span></span></span></div><span class=\"trxml-105\"><span class=\"trxml-43\"><span class=\"trxml-5\">\n\n</span></span></span><div style=\"position:absolute;top:489px;left:110px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-105\"><span class=\"trxml-43\"><span class=\"trxml-5\">Coördineren van inkomende en uitgaande site verzoeken van providers, mast eigenaren en\n</span></span></span></div><span class=\"trxml-105\"><span class=\"trxml-43\"><span class=\"trxml-5\">\n\n</span></span></span><div style=\"position:absolute;top:504px;left:110px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-105\"><span class=\"trxml-43\"><span class=\"trxml-5\">landlords.\n</span></span></span></div><span class=\"trxml-105\"><span class=\"trxml-43\"><span class=\"trxml-5\">\n\n</span></span></span><div style=\"position:absolute;top:520px;left:87px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-105\"><span class=\"trxml-43\"><span class=\"trxml-5\">● \n</span></span></span></div><span class=\"trxml-105\"><span class=\"trxml-43\"><span class=\"trxml-5\">\n\n</span></span></span><div style=\"position:absolute;top:520px;left:110px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-5\"><span class=\"trxml-105\"><span class=\"trxml-43\">Analyseren van doorlooptijden en kosten op basis van rapportages</span></span>.\n</span></div><span class=\"trxml-5\">\n\n</span><div style=\"position:absolute;top:564px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;color:#172771;background-color:#ffffff;white-space:nowrap;\"><span class=\"trxml-45\"><span class=\"trxml-5\"><span class=\"trxml-100\">Jan. 2010– Heden</span>         \n</span></span></div><span class=\"trxml-45\"><span class=\"trxml-5\">\n\n</span></span><div style=\"position:absolute;top:564px;left:242px;font-family:&apos;Arial&apos;;font-size:10pt;color:#172771;background-color:#ffffff;white-space:nowrap;\"><span class=\"trxml-45\"><span class=\"trxml-5\"><span class=\"trxml-106\">Leidinggevende in transport en mechanisatie, Biologisch tuinbouwbedrijf</span> ‘<span class=\"trxml-103\">De\n</span></span></span></div><span class=\"trxml-103\"><span class=\"trxml-45\"><span class=\"trxml-5\">\n\n</span></span></span><div style=\"position:absolute;top:587px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;color:#172771;background-color:#ffffff;white-space:nowrap;\"><span class=\"trxml-45\"><span class=\"trxml-5\"><span class=\"trxml-103\">Braok’, Mierlo</span>\n</span></span></div><span class=\"trxml-45\"><span class=\"trxml-5\">\n\n</span></span><div style=\"position:absolute;top:610px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-45\"><span class=\"trxml-5\">Werkzaamheden:\n</span></span></div><span class=\"trxml-45\"><span class=\"trxml-5\">\n\n</span></span><div style=\"position:absolute;top:634px;left:87px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-45\"><span class=\"trxml-5\">● \n</span></span></div><span class=\"trxml-45\"><span class=\"trxml-5\">\n\n</span></span><div style=\"position:absolute;top:634px;left:111px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-107\"><span class=\"trxml-45\"><span class=\"trxml-5\">Verantwoordelijk voor kwaliteit en orde op de zaterdagen.\n</span></span></span></div><span class=\"trxml-107\"><span class=\"trxml-45\"><span class=\"trxml-5\">\n\n</span></span></span><div style=\"position:absolute;top:651px;left:87px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-107\"><span class=\"trxml-45\"><span class=\"trxml-5\">● \n</span></span></span></div><span class=\"trxml-107\"><span class=\"trxml-45\"><span class=\"trxml-5\">\n\n</span></span></span><div style=\"position:absolute;top:650px;left:111px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-107\"><span class=\"trxml-45\"><span class=\"trxml-5\">Inplannen van werknemers die noodzakelijk zijn voor de werkzaamheden\n</span></span></span></div><span class=\"trxml-107\"><span class=\"trxml-45\"><span class=\"trxml-5\">\n\n</span></span></span><div style=\"position:absolute;top:667px;left:87px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-107\"><span class=\"trxml-45\"><span class=\"trxml-5\">● \n</span></span></span></div><span class=\"trxml-107\"><span class=\"trxml-45\"><span class=\"trxml-5\">\n\n</span></span></span><div style=\"position:absolute;top:667px;left:111px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-107\"><span class=\"trxml-45\"><span class=\"trxml-5\">Aansturen van werknemers gedurende de dag</span></span></span></div>\n\n\n<div style=\"position:absolute;top:720px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;color:#172771;background-color:#ffffff;white-space:nowrap;\"><b><span class=\"trxml-7\">Opleidingen</span></b><span class=\"trxml-7\">\n</span></div><span class=\"trxml-7\">\n\n</span><div style=\"position:absolute;top:743px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;color:#172771;background-color:#ffffff;white-space:nowrap;\"><span class=\"trxml-112\"><span class=\"trxml-7\"><span class=\"trxml-79\">2009 – 2013</span>              \n</span></span></div><span class=\"trxml-112\"><span class=\"trxml-7\">\n\n</span></span><div style=\"position:absolute;top:743px;left:242px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-7\"><span class=\"trxml-112\"><span class=\"trxml-81\">Bouwtechnische bedrijfskunde</span>, <span class=\"trxml-84\">Avans hogeschool, Tilburg</span></span>\n</span></div><span class=\"trxml-7\">\n\n</span><div style=\"position:absolute;top:766px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;color:#172771;background-color:#ffffff;white-space:nowrap;\"><span class=\"trxml-113\"><span class=\"trxml-7\"><span class=\"trxml-80\">2004 – 2009</span>              \n</span></span></div><span class=\"trxml-113\"><span class=\"trxml-7\">\n\n</span></span><div style=\"position:absolute;top:766px;left:242px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-113\"><span class=\"trxml-7\"><span class=\"trxml-82\">HAVO Profile <span class=\"trxml-108\">NG&amp;NT</span></span>, <span class=\"trxml-85\">Strabrecht College, Geldrop</span></span></span></div>\n\n\n<div style=\"position:absolute;top:818px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;color:#172771;background-color:#ffffff;white-space:nowrap;\"><b><span class=\"trxml-9\">Cursussen en Trainingen</span></b><span class=\"trxml-9\">\n</span></div><span class=\"trxml-9\">\n\n</span><div style=\"position:absolute;top:841px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;color:#172771;background-color:#ffffff;white-space:nowrap;\"><span class=\"trxml-114\"><span class=\"trxml-9\"><span class=\"trxml-72\">2013</span>                    \n</span></span></div><span class=\"trxml-114\"><span class=\"trxml-9\">\n\n</span></span><div style=\"position:absolute;top:841px;left:242px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-9\"><span class=\"trxml-114\"><span class=\"trxml-74\">Veilig werken op hoogte</span></span>\n</span></div><span class=\"trxml-9\">\n\n</span><div style=\"position:absolute;top:864px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;color:#172771;background-color:#ffffff;white-space:nowrap;\"><span class=\"trxml-115\"><span class=\"trxml-9\"><span class=\"trxml-73\">2010</span>                    \n</span></span></div><span class=\"trxml-115\"><span class=\"trxml-9\">\n\n</span></span><div style=\"position:absolute;top:864px;left:242px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-115\"><span class=\"trxml-75\"><span class=\"trxml-9\">VCA VOL</span></span></span></div>\n\n\n<div style=\"position:absolute;top:933px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;color:#172771;background-color:#ffffff;white-space:nowrap;\"><b><span class=\"trxml-11\">Vaardigheden</span></b><span class=\"trxml-11\">\n</span></div><span class=\"trxml-11\">\n\n</span><div style=\"position:absolute;top:956px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;color:#172771;background-color:#ffffff;white-space:nowrap;\"><span class=\"trxml-11\">Taal                    \n</span></div><span class=\"trxml-11\">\n\n</span><div style=\"position:absolute;top:956px;left:242px;font-family:&apos;Arial&apos;;font-size:10pt;color:#172771;background-color:#ffffff;white-space:nowrap;\"><span class=\"trxml-11\">Mondeling            \n</span></div><span class=\"trxml-11\">\n\n</span><div style=\"position:absolute;top:956px;left:394px;font-family:&apos;Arial&apos;;font-size:10pt;color:#172771;background-color:#ffffff;white-space:nowrap;\"><span class=\"trxml-11\">Schriftelijk\n</span></div><span class=\"trxml-11\">\n\n</span><div style=\"position:absolute;top:979px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-11\"><span class=\"trxml-33\">Nederlands</span>               \n</span></div><span class=\"trxml-11\">\n\n</span><div style=\"position:absolute;top:979px;left:242px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-11\"><span class=\"trxml-35\">Moedertaal</span>           \n</span></div><span class=\"trxml-11\">\n\n</span><div style=\"position:absolute;top:979px;left:394px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-11\">Moedertaal\n</span></div><span class=\"trxml-11\">\n\n</span><div style=\"position:absolute;top:1002px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-11\"><span class=\"trxml-34\">Engels</span>                  \n</span></div><span class=\"trxml-11\">\n\n</span><div style=\"position:absolute;top:1002px;left:242px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-11\"><span class=\"trxml-37\">Goed</span>                \n</span></div><span class=\"trxml-11\">\n\n</span><div style=\"position:absolute;top:1002px;left:394px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-11\">Goed</span> \n</div>\n\n<div style=\"position:absolute;top:1122px;left:12px;white-space:nowrap;\"><hr> </hr>\n</div>\n\n<div style=\"position:absolute;top:1177px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-13\"><span class=\"trxml-46\">Duits</span>                    \n</span></div><span class=\"trxml-13\">\n\n</span><div style=\"position:absolute;top:1177px;left:242px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-13\"><span class=\"trxml-47\">Matig</span>                \n</span></div><span class=\"trxml-13\">\n\n</span><div style=\"position:absolute;top:1177px;left:394px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-13\">Matig\n</span></div><span class=\"trxml-13\">\n\n</span><div style=\"position:absolute;top:1223px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;color:#172771;background-color:#ffffff;white-space:nowrap;\"><span class=\"trxml-13\">Vaktechnisch\n</span></div><span class=\"trxml-13\">\n\n</span><div style=\"position:absolute;top:1246px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-13\"><span class=\"trxml-55\">Autocad                 \n</span></span></div><span class=\"trxml-13\"><span class=\"trxml-55\">\n\n</span></span><div style=\"position:absolute;top:1246px;left:242px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-13\"><span class=\"trxml-176\"><span class=\"trxml-55\">Uitgebreid</span></span>\n</span></div><span class=\"trxml-13\">\n\n</span><div style=\"position:absolute;top:1269px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-13\"><span class=\"trxml-56\">MS Word</span>                \n</span></div><span class=\"trxml-13\">\n\n</span><div style=\"position:absolute;top:1269px;left:242px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-13\"><span class=\"trxml-177\">Uitgebreid</span>\n</span></div><span class=\"trxml-13\">\n\n</span><div style=\"position:absolute;top:1292px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-13\"><span class=\"trxml-57\">MS Excel                \n</span></span></div><span class=\"trxml-13\"><span class=\"trxml-57\">\n\n</span></span><div style=\"position:absolute;top:1292px;left:242px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-13\"><span class=\"trxml-178\"><span class=\"trxml-57\">Uitgebreid</span></span>\n</span></div><span class=\"trxml-13\">\n\n</span><div style=\"position:absolute;top:1315px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-13\"><span class=\"trxml-58\">MS Powerpoint            \n</span></span></div><span class=\"trxml-13\"><span class=\"trxml-58\">\n\n</span></span><div style=\"position:absolute;top:1315px;left:242px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-13\"><span class=\"trxml-179\"><span class=\"trxml-58\">Uitgebreid</span></span>\n</span></div><span class=\"trxml-13\">\n\n</span><div style=\"position:absolute;top:1338px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-13\"><span class=\"trxml-111\">Revit</span>                    \n</span></div><span class=\"trxml-13\">\n\n</span><div style=\"position:absolute;top:1338px;left:242px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-13\"><span class=\"trxml-180\">Basis kennis</span>\n</span></div><span class=\"trxml-13\">\n\n</span><div style=\"position:absolute;top:1384px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;color:#172771;background-color:#ffffff;white-space:nowrap;\"><span class=\"trxml-13\"><span class=\"trxml-51\">Persoonlijk</span>\n</span></div><span class=\"trxml-13\">\n\n</span><div style=\"position:absolute;top:1407px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-13\"><span class=\"trxml-52\">Resultaatgericht</span>\n</span></div><span class=\"trxml-13\">\n\n</span><div style=\"position:absolute;top:1430px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-13\"><span class=\"trxml-53\">Teamspeler</span>\n</span></div><span class=\"trxml-13\">\n\n</span><div style=\"position:absolute;top:1453px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-13\"><span class=\"trxml-54\">Flexibel</span></span></div>\n\n\n<div style=\"position:absolute;top:1499px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;color:#172771;background-color:#ffffff;white-space:nowrap;\"><b>Hobby’s</b>\n</div>\n\n<div style=\"position:absolute;top:1522px;left:63px;font-family:&apos;Arial&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-90\">Voetbal</span>, <span class=\"trxml-91\">hardlopen</span>, <span class=\"trxml-92\">mountainbiken</span> en <span class=\"trxml-93\">skiën</span></span>. </div>\n\n </div></div>",
+        "Performance": {
+            "PreProcessingTime": "0.232",
+            "ProcessingTime": "1.612",
+            "NormalizationTime": "0.0",
+            "TemplatingTime": "0.372",
+            "TotalTime": "2.216"
+        },
+        "_xmlns": "http://home.textkernel.nl/2013-08-01",
+        "_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "_lang": "dutch",
+        "_file": "uploaded_file",
+        "_xsi:schemaLocation": "http://mx.textkernel.nl/xsd/tkprofile.xsd"
+    }
+}

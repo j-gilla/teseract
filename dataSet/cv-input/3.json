@@ -1,0 +1,315 @@
+{
+   "Profile": {
+      "Personal": {
+         "Title": "",
+         "FirstName": "Erik",
+         "LastName": "van der Windt",
+         "DateOfBirth": "1977-02-04",
+         "NationalityCode": "NL",
+         "NationalityCodeDescription": "Nederlandse",
+         "GenderCode": "1",
+         "GenderCodeDescription": "Man",
+         "DriversLicence": "A B BE",
+         "MaritalStatusCode": "",
+         "MaritalStatusCodeDescription": "",
+         "Address": {
+            "StreetName": "Hargsingel",
+            "StreetNumberBase": "29",
+            "PostalCode": "3121 VH",
+            "City": "Schiedam",
+            "RegionCode": "NL-ZH",
+            "RegionCodeDescription": "NL Zuid-Holland",
+            "CountryCode": "NL",
+            "CountryCodeDescription": "Nederland"
+         },
+         "MobilePhones": {
+            "MobilePhone": "0031(0)651993280"
+         },
+         "HomePhones": {
+            "HomePhone": "0031(0)104700436"
+         },
+         "Emails": {
+            "Email": "Windt232@planet.nl"
+         },
+         "SocialMedia": {
+            "SocialMediaLink": {
+               "SocialMediaURL": "",
+               "SocialMediaType": ""
+            }
+         }
+      },
+      "EducationHistory": {
+         "EducationItem": [
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "VCA, VCA",
+               "StartDate": "",
+               "EndDate": "2012-06-30",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "BHV",
+               "StartDate": "",
+               "EndDate": "2011-06-30",
+               "InstituteName": "NIBHV",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "Allround uitvoerder Burger- & Utiliteitsbouw",
+               "StartDate": "",
+               "EndDate": "2008-06-30",
+               "InstituteName": "BOB",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "Training",
+               "StartDate": "",
+               "EndDate": "2005-06-30",
+               "InstituteName": "Business School",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "Actiegericht Leidinggeven",
+               "StartDate": "",
+               "EndDate": "2005-06-30",
+               "InstituteName": "Schouten & Nelissen",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "Leidinggeven 1 BOB",
+               "StartDate": "",
+               "EndDate": "2002-06-30",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "Uitvoerder Burger- & Utiliteitsbouw",
+               "StartDate": "",
+               "EndDate": "2001-06-30",
+               "InstituteName": "BOB",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "2",
+               "EducationLevelCodeDescription": "Beroepsonderwijs",
+               "DegreeDirection": "Assistent uitvoerder Burger- & Utiliteitsbouw",
+               "StartDate": "",
+               "EndDate": "2000-06-30",
+               "InstituteName": "ROC Zadkine",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "Doorstroom Kwalificatie assistent uitvoerder",
+               "StartDate": "",
+               "EndDate": "1998-06-30",
+               "InstituteName": "BOB",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "Leerlingwezen Timmerkracht voortgezet",
+               "StartDate": "",
+               "EndDate": "1997-06-30",
+               "InstituteName": "SVB Rijnmond-Bouw",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "2",
+               "EducationLevelCodeDescription": "Beroepsonderwijs",
+               "DegreeDirection": "Timmerkracht primair; SVB Rijnmond-Bouw",
+               "StartDate": "",
+               "EndDate": "1995-06-30",
+               "InstituteName": "Leerlingwezen",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "1",
+               "EducationLevelCodeDescription": "Voortgezet Onderwijs",
+               "DegreeDirection": "LTS",
+               "StartDate": "1991-09-01",
+               "EndDate": "1993-06-30",
+               "InstituteName": "De Burcht Schiedam",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            }
+         ]
+      },
+      "EmploymentHistory": {
+         "EmploymentItem": [
+            {
+               "JobTitle": "",
+               "StartDate": "2002-01-01",
+               "EndDate": "2013-12-31",
+               "ExperienceYears": "12",
+               "EmployerName": "Uitvoerder B&U Bam Woningbouw",
+               "Description": "Functietypering:      Verantwoordelijk voor de dagelijkse leiding op de bouwplaats en voor de realisatie\n                 van het bouwwerk binnen de vastgestelde kaders op het gebied van tijd, kwaliteit\n                 en kosten. Verantwoordelijk voor het op efficiënte en veilige wijze waarmaken van\n                 de met de klant afgesproken prestatieafspraken.\n\nHoofdtaken:      * De inzet van productiemiddelen bepalen en bewaken - in overleg met de hoofduitvoerder\n                    en de werkvoorbereider - en zorgdragen voor tijdige aanwezigheid van alle\n                    productiemiddelen.\n      * De bouwplaatsmedewerkers instrueren en coachen.\n      * De voortgang van het bouwwerk binnen de vastgestelde tijdsafspraken bewaken.\n      * Verantwoordelijk voor een optimaal kwaliteitsniveau van het bouwwerk conform de\n                    contractafspraken met opdrachtgevers.\n      * Zorgdragen voor de effectuering van beheersmaatregelen m.b.t de als risicovol aangemerkte\n                    onderdelen.\n      * Als gedelegeerd V&G-coördinator uitvoeringsfase toezien op de naleving van arbo-, veiligheids-\n                    en milieuvoorschriften."
+            },
+            {
+               "JobTitle": "",
+               "StartDate": "1998-01-01",
+               "EndDate": "2002-01-01",
+               "ExperienceYears": "4",
+               "EmployerName": "Deeluitvoerder B&U Wilma Bouw",
+               "Description": "Functietypering:      Zorgdragen voor de realisatie van een deel van het bouwwerk binnen vastgestelde\n                 kaders op het gebied van tijd, kwaliteit en kosten.\nHoofdtaken:\n      * De inzet van productiemiddelen bepalen en bewaken - in overleg met de (hoofd)uitvoerder en\n                    werkvoorbereider - en zorgdragen voor tijdige aanwezigheid van de\n                    productiemiddelen.\n      * De bouwplaatsmedewerkers instrueren.\n      * De voortgang van het bouwdeel binnen de vastgestelde tijdsafspraken bewaken.\n      * Verantwoordelijk voor een optimaal kwaliteitsniveau van het bouwdeel conform de\n                    contractafspraken met opdrachtgevers.\n      * Zorgdragen voor de effectuering van beheersmaatregelen m.b.t. de als risicovol aangemerkte\n                    onderdelen.\n      * Toezien op de naleving van arbo-, veiligheids- en milieuvoorschriften."
+            },
+            {
+               "JobTitle": "Leerling",
+               "StartDate": "1995-01-01",
+               "EndDate": "1998-01-01",
+               "ExperienceYears": "3",
+               "EmployerName": "Timmerman B&U Rijnmond Bouw",
+               "Description": "Werkzaamheden:      Ervaring opdoen in diverse onderdelen voor het maken van een praktijktoets: kappen &\n                 daken, trappen, aftimmeren, kozijnen, ramen en deuren, uitzetten, stellen,\n                 balklagen en plafonds, afhangen en sluitbaar maken, machinale houtbewerking e.d."
+            }
+         ]
+      },
+      "Skills": {
+         "ComputerSkills": {
+            "ComputerSkill": [
+               {
+                  "ComputerSkillName": "Microsoft Office",
+                  "ComputerSkillDuration": ""
+               },
+               {
+                  "ComputerSkillName": "Word",
+                  "ComputerSkillDuration": ""
+               },
+               {
+                  "ComputerSkillName": "Excel",
+                  "ComputerSkillDuration": ""
+               },
+               {
+                  "ComputerSkillName": "Outlook",
+                  "ComputerSkillDuration": ""
+               }
+            ]
+         },
+         "LanguageSkills": {
+            "LanguageSkill": [
+               {
+                  "LanguageSkillCode": "NL",
+                  "LanguageSkillCodeDescription": "Nederlands",
+                  "LanguageProficiencyCode": "",
+                  "LanguageProficiencyCodeDescription": ""
+               },
+               {
+                  "LanguageSkillCode": "EN",
+                  "LanguageSkillCodeDescription": "Engels",
+                  "LanguageProficiencyCode": "",
+                  "LanguageProficiencyCodeDescription": ""
+               }
+            ]
+         },
+         "SoftSkills": {
+            "SoftSkill": [
+               {
+                  "SoftSkillName": "Integer"
+               },
+               {
+                  "SoftSkillName": "communicatief"
+               },
+               {
+                  "SoftSkillName": "motiverend"
+               },
+               {
+                  "SoftSkillName": "coachend"
+               },
+               {
+                  "SoftSkillName": "initiatiefrijk"
+               }
+            ]
+         }
+      },
+      "Other": {
+         "Hobbies": {
+            "Hobby": ""
+         },
+         "References": {
+            "Reference": ""
+         }
+      },
+      "CustomArea": {
+         "CVTitle": "",
+         "TotalExperienceYears": "19",
+         "CurrentJob": "Leerling",
+         "CurrentEmployer": "Uitvoerder B&U Bam Woningbouw",
+         "Last3Experiences": "Leerling",
+         "HighestEducationLevelCode": "2",
+         "HighestEducationLevelCodeDescription": "Beroepsonderwijs",
+         "SalaryCode": "",
+         "SalaryCodeDescription": "",
+         "CandidateStatusCode": "",
+         "CandidateStatusCodeDescription": "",
+         "AvailabilityCode": "",
+         "AvailabilityCodeDescription": "",
+         "CVComment": "",
+         "CandidatePermission": "",
+         "ExternalID": "",
+         "ProfilePicture": {
+            "Base64Content": "",
+            "Filename": "",
+            "ContentType": ""
+         },
+         "ExtraInfo": {
+            "TrxmlID": "98281200",
+            "ExtraInfo1": "",
+            "ExtraInfo2": "",
+            "ExtraInfo3": "",
+            "ExtraInfo4": ""
+         }
+      },
+      "DocumentText": "Curriculum Vitae      Erik van der Windt\nPag. 2\n\n\n\n\nCurriculum Vitae      Erik van der Windt\n\n\nPersonalia\n\nNaam:      E. van der Windt\nVoornaam:      Erik\nAdres:      Hargsingel 29, 3121 VH Schiedam\nNationaliteit:      Nederlandse\nGeboortedatum:      04-02-1977\nGeboorteplaats:      Schiedam\nTelefoon:      06 51993280 / 010 4700436\nE-mail:      Windt232@planet.nl\n Rijbewijs:      A B BE\n\n\nOpleidingen\n\n 2012      Vol VCA, VCA\n 2011      BHV, NIBHV\n 2008      Allround uitvoerder Burger- & Utiliteitsbouw, BOB\n 2005      Training vergadertechniek en besluitvorming, Bam Business School\n 2005      Actiegericht Leidinggeven, Schouten & Nelissen\n 2002      Leidinggeven 1 BOB\n 2001      Uitvoerder Burger- & Utiliteitsbouw, BOB\n 2000      Assistent uitvoerder Burger- & Utiliteitsbouw, ROC Zadkine\n 1998      Doorstroom Kwalificatie assistent uitvoerder, BOB\n 1997      Leerlingwezen Timmerkracht voortgezet, SVB Rijnmond-Bouw\n 1995      Leerlingwezen Timmerkracht primair, SVB Rijnmond-Bouw\n 1991 - 1993      LTS, De Burcht Schiedam\n\n Computervaardigheden      Microsoft Office: Word, Excel, Outlook\n Talenkennis      Nederlands, Engels\n\n\nWerkervaring\n\n 2002-2013      Uitvoerder B&U Bam Woningbouw\n Functietypering:      Verantwoordelijk voor de dagelijkse leiding op de bouwplaats en voor de realisatie\n                  van het bouwwerk binnen de vastgestelde kaders op het gebied van tijd, kwaliteit\n                  en kosten. Verantwoordelijk voor het op efficiënte en veilige wijze waarmaken van\n                  de met de klant afgesproken prestatieafspraken.\n\n Hoofdtaken:      * De inzet van productiemiddelen bepalen en bewaken - in overleg met de hoofduitvoerder\n                     en de werkvoorbereider - en zorgdragen voor tijdige aanwezigheid van alle\n                     productiemiddelen.\n       * De bouwplaatsmedewerkers instrueren en coachen.\n       * De voortgang van het bouwwerk binnen de vastgestelde tijdsafspraken bewaken.\n       * Verantwoordelijk voor een optimaal kwaliteitsniveau van het bouwwerk conform de\n                     contractafspraken met opdrachtgevers.\n       * Zorgdragen voor de effectuering van beheersmaatregelen m.b.t de als risicovol aangemerkte\n                     onderdelen.\n       * Als gedelegeerd V&G-coördinator uitvoeringsfase toezien op de naleving van arbo-, veiligheids-\n                     en milieuvoorschriften.\n\n\n\n 1998 - 2002      Deeluitvoerder B&U Wilma Bouw\n Functietypering:      Zorgdragen voor de realisatie van een deel van het bouwwerk binnen vastgestelde\n                  kaders op het gebied van tijd, kwaliteit en kosten.\n Hoofdtaken:\n       * De inzet van productiemiddelen bepalen en bewaken - in overleg met de (hoofd)uitvoerder en\n                     werkvoorbereider - en zorgdragen voor tijdige aanwezigheid van de\n                     productiemiddelen.\n       * De bouwplaatsmedewerkers instrueren.\n       * De voortgang van het bouwdeel binnen de vastgestelde tijdsafspraken bewaken.\n       * Verantwoordelijk voor een optimaal kwaliteitsniveau van het bouwdeel conform de\n                     contractafspraken met opdrachtgevers.\n       * Zorgdragen voor de effectuering van beheersmaatregelen m.b.t. de als risicovol aangemerkte\n                     onderdelen.\n       * Toezien op de naleving van arbo-, veiligheids- en milieuvoorschriften.\n\n\n 1995 - 1998      Leerling Timmerman B&U Rijnmond Bouw\n Werkzaamheden:      Ervaring opdoen in diverse onderdelen voor het maken van een praktijktoets: kappen &\n                  daken, trappen, aftimmeren, kozijnen, ramen en deuren, uitzetten, stellen,\n                  balklagen en plafonds, afhangen en sluitbaar maken, machinale houtbewerking e.d.\n\n\n Eigenschappen\n\nInteger, communicatief, motiverend, coachend, initiatiefrijk, vooruitstrevend. inzicht, overzicht en\noverwicht",
+      "DocumentHtml": "<div><div style=\"position: relative;\"><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n<span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\">Curriculum Vitae \t Erik van der Windt</span>\n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n<span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\">Pag. 2</span>\n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n \n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n \n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n \n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n \n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n </p>\n<tk_metadata name=\"last_modified\" value=\"08/02/2013, 22:32\"> </tk_metadata><p> </p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n<span style=\"font-family:&apos;Arial&apos;;font-size:12pt;\"><b>Curriculum Vitae \t Erik van der Windt</b></span>\n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n \n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n \n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n<span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><b><span class=\"trxml-3\">Personalia </span></b></span><span class=\"trxml-3\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-3\"> </span></span><span class=\"trxml-3\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-3\">Naam: \t <span class=\"trxml-219\">E. van der Windt</span> </span></span><span class=\"trxml-3\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-3\">Voornaam: \t <span class=\"trxml-220\"><span class=\"trxml-65\">Erik</span></span></span></span><span class=\"trxml-3\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-3\">Adres: \t <span class=\"trxml-74\">Hargsingel 29, 3121 VH Schiedam</span></span></span><span class=\"trxml-3\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-3\">Nationaliteit: \t <span class=\"trxml-85\">Nederlandse</span> </span></span><span class=\"trxml-3\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-3\">Geboortedatum: \t <span class=\"trxml-75\">04-02-1977</span></span></span><span class=\"trxml-3\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-3\">Geboorteplaats: \t <span class=\"trxml-71\">Schiedam</span></span></span><span class=\"trxml-3\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-3\">Telefoon: \t <span class=\"trxml-76\">06 51993280</span> / <span class=\"trxml-77\">010 4700436</span></span></span><span class=\"trxml-3\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-3\">E-mail: \t <span class=\"trxml-224\">Windt232@planet.nl</span></span></span><span class=\"trxml-3\">\n</span></p><p style=\"margin-left:1.67in;text-indent:-1.67in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-3\">Rijbewijs: \t <span class=\"trxml-70\">A B BE</span></span></span>\n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n \n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n \n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n<span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><b><span class=\"trxml-5\">Opleidingen</span></b></span><span class=\"trxml-5\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-5\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-5\"> </span></span><span class=\"trxml-5\">\n</span></p><p style=\"margin-left:1.67in;text-indent:-1.67in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-5\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-165\"><span class=\"trxml-5\"><span class=\"trxml-86\">2012</span>\t Vol <span class=\"trxml-99\">VCA, VCA</span></span></span></span><span class=\"trxml-5\">\n</span></p><p style=\"margin-left:1.67in;text-indent:-1.67in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-5\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-166\"><span class=\"trxml-5\"><span class=\"trxml-87\">2011</span>\t <span class=\"trxml-100\">BHV</span>, <span class=\"trxml-114\">NIBHV</span></span></span></span><span class=\"trxml-5\">\n</span></p><p style=\"margin-left:1.67in;text-indent:-1.67in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-5\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-167\"><span class=\"trxml-5\"><span class=\"trxml-88\">2008</span>\t <span class=\"trxml-101\">Allround uitvoerder Burger- &amp; Utiliteitsbouw</span>, <span class=\"trxml-115\">BOB</span></span></span></span><span class=\"trxml-5\">\n</span></p><p style=\"margin-left:1.67in;text-indent:-1.67in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-5\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-5\"><span class=\"trxml-168\"><span class=\"trxml-89\">2005</span>\t <span class=\"trxml-102\">Training</span> <span class=\"trxml-98\">vergadertechniek en besluitvorming, Bam</span> <span class=\"trxml-116\">Business School</span></span> </span></span><span class=\"trxml-5\">\n</span></p><p style=\"margin-left:1.67in;text-indent:-1.67in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-5\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-169\"><span class=\"trxml-5\"><span class=\"trxml-90\">2005</span>\t <span class=\"trxml-103\">Actiegericht Leidinggeven</span>, <span class=\"trxml-117\">Schouten &amp; Nelissen</span></span></span></span><span class=\"trxml-5\">\n</span></p><p style=\"margin-left:1.67in;text-indent:-1.67in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-5\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-170\"><span class=\"trxml-5\"><span class=\"trxml-91\">2002</span>\t <span class=\"trxml-104\">Leidinggeven 1 BOB</span></span></span></span><span class=\"trxml-5\">\n</span></p><p style=\"margin-left:1.67in;text-indent:-1.67in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-5\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-171\"><span class=\"trxml-5\"><span class=\"trxml-92\">2001</span>\t <span class=\"trxml-105\">Uitvoerder Burger- &amp; Utiliteitsbouw</span>, <span class=\"trxml-118\">BOB</span></span></span></span><span class=\"trxml-5\">\n</span></p><p style=\"margin-left:1.67in;text-indent:-1.67in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-5\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-172\"><span class=\"trxml-5\"><span class=\"trxml-93\">2000</span>\t <span class=\"trxml-106\">Assistent uitvoerder Burger- &amp; Utiliteitsbouw</span>, <span class=\"trxml-119\">ROC Zadkine</span></span></span></span><span class=\"trxml-5\">\n</span></p><p style=\"margin-left:1.67in;text-indent:-1.67in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-5\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-5\"><span class=\"trxml-173\"><span class=\"trxml-94\">1998</span>\t <span class=\"trxml-107\">Doorstroom Kwalificatie assistent uitvoerder</span>, <span class=\"trxml-120\">BOB</span></span>\t \t </span></span><span class=\"trxml-5\">\n</span></p><p style=\"margin-left:1.67in;text-indent:-1.67in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-5\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-174\"><span class=\"trxml-5\"><span class=\"trxml-95\">1997</span>\t <span class=\"trxml-108\">Leerlingwezen Timmerkracht voortgezet</span>, <span class=\"trxml-121\">SVB Rijnmond-Bouw</span></span></span></span><span class=\"trxml-5\">\n</span></p><p style=\"margin-left:1.67in;text-indent:-1.67in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-5\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-175\"><span class=\"trxml-5\"><span class=\"trxml-96\">1995</span>\t <span class=\"trxml-122\">Leerlingwezen</span> <span class=\"trxml-109\">Timmerkracht primair</span>, <span class=\"trxml-110\">SVB Rijnmond-Bouw</span></span></span></span><span class=\"trxml-5\">\n</span></p><p style=\"margin-left:1.67in;text-indent:-1.67in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-5\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-176\"><span class=\"trxml-5\"><span class=\"trxml-97\">1991 - 1993</span>\t <span class=\"trxml-111\">LTS</span>, <span class=\"trxml-123\">De Burcht Schiedam</span></span></span></span>\n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n \n</p><p style=\"margin-left:1.67in;text-indent:-1.67in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n<span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-7\">Computervaardigheden\t <span class=\"trxml-55\">Microsoft Office</span>: <span class=\"trxml-56\">Word</span>, <span class=\"trxml-57\">Excel</span>, <span class=\"trxml-58\">Outlook</span></span></span><span class=\"trxml-7\">\n</span></p><p style=\"margin-left:1.67in;text-indent:-1.67in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-7\">Talenkennis\t <span class=\"trxml-47\">Nederlands</span>, <span class=\"trxml-48\">Engels</span></span></span>\n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n \n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n \n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n<span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><b><span class=\"trxml-9\">Werkervaring </span></b></span><span class=\"trxml-9\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-9\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-9\"> </span></span><span class=\"trxml-9\">\n</span></p><p style=\"margin-left:1.67in;text-indent:-1.67in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-9\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><b><span class=\"trxml-60\"><span class=\"trxml-9\"><span class=\"trxml-144\">2002-2013</span>\t <span class=\"trxml-148\">Uitvoerder B&amp;U Bam Woningbouw</span></span></span></b></span><span class=\"trxml-60\"><span class=\"trxml-9\">\n</span></span></p><p style=\"margin-left:1.67in;text-indent:-1.67in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-60\"><span class=\"trxml-9\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-60\"><span class=\"trxml-9\">Functietypering:\t <span class=\"trxml-151\">Verantwoordelijk voor de dagelijkse leiding op de bouwplaats en voor de realisatie van het bouwwerk binnen de vastgestelde kaders op het gebied van tijd, kwaliteit en kosten. Verantwoordelijk voor het op efficiënte en veilige wijze waarmaken van de met de klant afgesproken prestatieafspraken</span>.</span></span></span><span class=\"trxml-60\"><span class=\"trxml-9\">\n</span></span></p><p style=\"margin-left:1.67in;text-indent:-1.67in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-60\"><span class=\"trxml-9\">\n \n</span></span></p><p style=\"margin-left:1.97in;text-indent:-1.97in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-60\"><span class=\"trxml-9\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-60\"><span class=\"trxml-9\">Hoofdtaken: \t -\t <span class=\"trxml-152\">De inzet van productiemiddelen bepalen en bewaken - in overleg met de hoofduitvoerder en de werkvoorbereider - en zorgdragen voor tijdige aanwezigheid van alle productiemiddelen</span>.</span></span></span><span class=\"trxml-60\"><span class=\"trxml-9\">\n</span></span></p><p style=\"margin-left:1.97in;text-indent:-1.97in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-60\"><span class=\"trxml-9\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-60\"><span class=\"trxml-9\">\t -\t <span class=\"trxml-153\">De bouwplaatsmedewerkers instrueren en coachen</span>.</span></span></span><span class=\"trxml-60\"><span class=\"trxml-9\">\n</span></span></p><p style=\"margin-left:1.97in;text-indent:-1.97in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-60\"><span class=\"trxml-9\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-60\"><span class=\"trxml-9\">\t -\t <span class=\"trxml-154\">De voortgang van het bouwwerk binnen de vastgestelde tijdsafspraken bewaken</span>.</span></span></span><span class=\"trxml-60\"><span class=\"trxml-9\">\n</span></span></p><p style=\"margin-left:1.97in;text-indent:-1.97in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-60\"><span class=\"trxml-9\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-60\"><span class=\"trxml-9\">\t -\t <span class=\"trxml-155\">Verantwoordelijk voor een optimaal kwaliteitsniveau van het bouwwerk conform de contractafspraken met opdrachtgevers.</span></span></span></span><span class=\"trxml-155\"><span class=\"trxml-60\"><span class=\"trxml-9\">\n</span></span></span></p><p style=\"margin-left:1.97in;text-indent:-1.97in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-155\"><span class=\"trxml-60\"><span class=\"trxml-9\">\n</span></span></span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-155\"><span class=\"trxml-60\"><span class=\"trxml-9\">\t -\t Zorgdragen voor de effectuering van beheersmaatregelen m.b.t de als risicovol aangemerkte onderdelen.</span></span></span></span><span class=\"trxml-155\"><span class=\"trxml-60\"><span class=\"trxml-9\">\n</span></span></span></p><p style=\"margin-left:1.97in;text-indent:-1.97in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-155\"><span class=\"trxml-60\"><span class=\"trxml-9\">\n</span></span></span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-9\"><span class=\"trxml-155\"><span class=\"trxml-60\">\t -\t Als gedelegeerd V&amp;G-coördinator uitvoeringsfase toezien op de naleving van arbo-, veiligheids- en milieuvoorschriften</span></span>.</span></span><span class=\"trxml-9\">\n</span></p><p style=\"margin-left:1.97in;text-indent:-1.97in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-9\">\n \n</span></p><p style=\"margin-left:1.97in;text-indent:-1.97in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-9\">\n \n</span></p><p style=\"margin-left:1.97in;text-indent:-1.97in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-9\">\n \n</span></p><p style=\"margin-left:1.67in;text-indent:-1.67in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-9\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><b><span class=\"trxml-62\"><span class=\"trxml-9\"><span class=\"trxml-145\">1998 - 2002</span> \t <span class=\"trxml-149\">Deeluitvoerder B&amp;U Wilma Bouw</span></span></span></b></span><span class=\"trxml-62\"><span class=\"trxml-9\">\n</span></span></p><p style=\"margin-left:1.67in;text-indent:-1.67in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-62\"><span class=\"trxml-9\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-62\"><span class=\"trxml-9\">Functietypering:\t <span class=\"trxml-156\">Zorgdragen voor de realisatie van een deel van het bouwwerk binnen vastgestelde kaders op het gebied van tijd, kwaliteit en kosten</span>.</span></span></span><span class=\"trxml-62\"><span class=\"trxml-9\">\n</span></span></p><p style=\"margin-left:1.67in;text-indent:-1.67in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-62\"><span class=\"trxml-9\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-62\"><span class=\"trxml-9\">Hoofdtaken: \t \t </span></span></span><span class=\"trxml-62\"><span class=\"trxml-9\">\n</span></span></p><p style=\"margin-left:1.97in;text-indent:-1.97in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-62\"><span class=\"trxml-9\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-62\"><span class=\"trxml-9\">\t -\t <span class=\"trxml-157\">De inzet van productiemiddelen bepalen en bewaken - in overleg met de (hoofd)uitvoerder en werkvoorbereider - en zorgdragen voor tijdige aanwezigheid van de productiemiddelen</span>.</span></span></span><span class=\"trxml-62\"><span class=\"trxml-9\">\n</span></span></p><p style=\"margin-left:1.97in;text-indent:-1.97in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-62\"><span class=\"trxml-9\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-62\"><span class=\"trxml-9\">\t -\t <span class=\"trxml-158\">De bouwplaatsmedewerkers instrueren.</span></span></span></span><span class=\"trxml-158\"><span class=\"trxml-62\"><span class=\"trxml-9\">\n</span></span></span></p><p style=\"margin-left:1.97in;text-indent:-1.97in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-158\"><span class=\"trxml-62\"><span class=\"trxml-9\">\n</span></span></span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-62\"><span class=\"trxml-9\"><span class=\"trxml-158\">\t -\t De voortgang van het bouwdeel binnen de vastgestelde tijdsafspraken bewaken</span>.</span></span></span><span class=\"trxml-62\"><span class=\"trxml-9\">\n</span></span></p><p style=\"margin-left:1.97in;text-indent:-1.97in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-62\"><span class=\"trxml-9\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-62\"><span class=\"trxml-9\">\t -\t <span class=\"trxml-159\">Verantwoordelijk voor een optimaal kwaliteitsniveau van het bouwdeel conform de contractafspraken met opdrachtgevers.</span></span></span></span><span class=\"trxml-159\"><span class=\"trxml-62\"><span class=\"trxml-9\">\n</span></span></span></p><p style=\"margin-left:1.97in;text-indent:-1.97in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-159\"><span class=\"trxml-62\"><span class=\"trxml-9\">\n</span></span></span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-159\"><span class=\"trxml-62\"><span class=\"trxml-9\">\t -\t Zorgdragen voor de effectuering van beheersmaatregelen m.b.t. de als risicovol aangemerkte onderdelen.</span></span></span></span><span class=\"trxml-159\"><span class=\"trxml-62\"><span class=\"trxml-9\">\n</span></span></span></p><p style=\"margin-left:1.97in;text-indent:-1.97in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-159\"><span class=\"trxml-62\"><span class=\"trxml-9\">\n</span></span></span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-9\"><span class=\"trxml-159\"><span class=\"trxml-62\">\t -\t Toezien op de naleving van arbo-, veiligheids- en milieuvoorschriften</span></span>. </span></span><span class=\"trxml-9\">\n</span></p><p style=\"margin-left:1.67in;text-indent:-1.67in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-9\">\n \n</span></p><p style=\"margin-left:1.67in;text-indent:-1.67in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-9\">\n \n</span></p><p style=\"margin-left:1.67in;text-indent:-1.67in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-9\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><b><span class=\"trxml-64\"><span class=\"trxml-9\"><span class=\"trxml-146\">1995 - 1998</span>\t <span class=\"trxml-147\">Leerling</span> <span class=\"trxml-150\">Timmerman B&amp;U Rijnmond Bouw</span></span></span></b></span><span class=\"trxml-64\"><span class=\"trxml-9\">\n</span></span></p><p style=\"margin-left:1.67in;text-indent:-1.67in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-64\"><span class=\"trxml-9\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-64\"><span class=\"trxml-9\">Werkzaamheden: \t <span class=\"trxml-160\">Ervaring opdoen in diverse onderdelen voor het maken van een praktijktoets: kappen &amp; daken, trappen, aftimmeren, kozijnen, ramen en deuren, uitzetten, stellen, balklagen en plafonds, afhangen en sluitbaar maken, machinale houtbewerking</span> e.d.</span></span></span>\n</p><p style=\"margin-left:1.67in;text-indent:-1.67in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n \n</p><p style=\"margin-left:1.67in;text-indent:-1.67in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n \n</p><p style=\"margin-left:1.67in;text-indent:-1.67in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n<span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><b><span class=\"trxml-11\">Eigenschappen</span></b></span><span class=\"trxml-11\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-11\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-11\"> </span></span><span class=\"trxml-11\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-11\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:9pt;\"><span class=\"trxml-11\"><span class=\"trxml-248\">Integer</span>, <span class=\"trxml-249\">communicatief</span>, <span class=\"trxml-250\">motiverend</span>, <span class=\"trxml-251\">coachend</span>, <span class=\"trxml-252\">initiatiefrijk</span>, vooruitstrevend. inzicht, overzicht en overwicht</span></span>\n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n \n</p><p style=\"margin-left:1.67in;text-indent:-1.67in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n \n</p><p style=\"margin-left:1.67in;text-indent:-1.67in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n </p>\n </div></div>",
+      "Performance": {
+         "PreProcessingTime": "0.607",
+         "ProcessingTime": "1.901",
+         "NormalizationTime": "0.0",
+         "TemplatingTime": "0.471",
+         "TotalTime": "2.979"
+      },
+      "_xmlns": "http://home.textkernel.nl/2013-08-01",
+      "_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "_lang": "dutch",
+      "_file": "uploaded_file",
+      "_xsi:schemaLocation": "http://mx.textkernel.nl/xsd/tkprofile.xsd"
+   }
+}

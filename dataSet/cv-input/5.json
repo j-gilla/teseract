@@ -1,0 +1,246 @@
+{
+   "Profile": {
+      "Personal": {
+         "Title": "",
+         "FirstName": "Robin",
+         "LastName": "Soulier",
+         "DateOfBirth": "1976-09-12",
+         "NationalityCode": "NL",
+         "NationalityCodeDescription": "Nederlandse",
+         "GenderCode": "1",
+         "GenderCodeDescription": "Man",
+         "DriversLicence": "B",
+         "MaritalStatusCode": "3",
+         "MaritalStatusCodeDescription": "Samenwonend",
+         "Address": {
+            "StreetName": "Fleminghstraat",
+            "StreetNumberBase": "32",
+            "PostalCode": "6532 XG",
+            "City": "Nijmegen",
+            "RegionCode": "NL-GE",
+            "RegionCodeDescription": "NL Gelderland",
+            "CountryCode": "NL",
+            "CountryCodeDescription": "Nederland"
+         },
+         "MobilePhones": {
+            "MobilePhone": "0031(0)613277267"
+         },
+         "HomePhones": {
+            "HomePhone": ""
+         },
+         "Emails": {
+            "Email": "robinenelfke@upcmail.nl"
+         },
+         "SocialMedia": {
+            "SocialMediaLink": {
+               "SocialMediaURL": "",
+               "SocialMediaType": ""
+            }
+         }
+      },
+      "EducationHistory": {
+         "EducationItem": [
+            {
+               "EducationLevelCode": "1",
+               "EducationLevelCodeDescription": "Voortgezet Onderwijs",
+               "DegreeDirection": "Mavo",
+               "StartDate": "",
+               "EndDate": "",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "Autotechniek",
+               "StartDate": "",
+               "EndDate": "",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "Bakkersopleiding",
+               "StartDate": "",
+               "EndDate": "",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "Bijscholing Flexo drukker",
+               "StartDate": "",
+               "EndDate": "",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "Basistraining praktijkopleider",
+               "StartDate": "",
+               "EndDate": "",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "Cursus opleider op de werkvloer",
+               "StartDate": "",
+               "EndDate": "",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "BHV cursus",
+               "StartDate": "",
+               "EndDate": "",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            }
+         ]
+      },
+      "EmploymentHistory": {
+         "EmploymentItem": [
+            {
+               "JobTitle": "Productieplanner/Voorman",
+               "StartDate": "2011-01-01",
+               "EndDate": "2013-10-31",
+               "ExperienceYears": "3",
+               "EmployerName": "Sinopel B.V",
+               "Description": "Functieomschrijving:\n * Aansturen en coachen personeel op de werkvloer\n * Verantwoordelijk voor juiste planning van materiaal, orders en personeel\n * Kwaliteitscontrole\n * Magazijn beheer\n * Onderhoud machines"
+            },
+            {
+               "JobTitle": "Voorman",
+               "StartDate": "2005-01-01",
+               "EndDate": "2011-01-01",
+               "ExperienceYears": "6",
+               "EmployerName": "Herald Speciaal drukkerij B.V",
+               "Description": "Functieomschrijving:\n * Aansturen en coachen personeel op de werkvloer\n * Kwaliteitscontrole\n * Magazijn beheer\n * Onderhoud machines"
+            },
+            {
+               "JobTitle": "Machinevoerder",
+               "StartDate": "1996-01-01",
+               "EndDate": "2005-01-01",
+               "ExperienceYears": "9",
+               "EmployerName": "Herald Speciaal Drukkerij B.V",
+               "Description": ""
+            },
+            {
+               "JobTitle": "",
+               "StartDate": "2011-01-01",
+               "EndDate": "",
+               "ExperienceYears": "1",
+               "EmployerName": "B.V. Sinopel",
+               "Description": "was nieuw in de markt en mede met\nmijn hulp zijn wij dit bedrijf opgestart, en hebben we een succesvolle drukkerij opgebouwd. Helaas\nbleek de crisis te sterk en was Sinopel nog te zwak om hier bovenop te komen.\nIn de afgelopen jaren heb ik mij ontwikkeld tot een zelfstandige en flexibele medewerker. Ik ben een\nenthousiaste en gemotiveerde collega, ik werk accuraa en resultaatgericht. Ik geef leiding op\ncoachende wijze, om zo met het team de beste resultaten te behalen.\nIk ben bereid om in mijzelf te investeren door hard te werken, maar ook door het volgen van\naanvullende opleidingen en trainingen."
+            }
+         ]
+      },
+      "Skills": {
+         "ComputerSkills": {
+            "ComputerSkill": {
+               "ComputerSkillName": "",
+               "ComputerSkillDuration": ""
+            }
+         },
+         "LanguageSkills": {
+            "LanguageSkill": {
+               "LanguageSkillCode": "",
+               "LanguageSkillCodeDescription": "",
+               "LanguageProficiencyCode": "",
+               "LanguageProficiencyCodeDescription": ""
+            }
+         },
+         "SoftSkills": {
+            "SoftSkill": [
+               {
+                  "SoftSkillName": "enthousiaste"
+               },
+               {
+                  "SoftSkillName": "gemotiveerde"
+               },
+               {
+                  "SoftSkillName": "accuraa"
+               },
+               {
+                  "SoftSkillName": "resultaatgericht"
+               },
+               {
+                  "SoftSkillName": "bereid"
+               }
+            ]
+         }
+      },
+      "Other": {
+         "Hobbies": {
+            "Hobby": ""
+         },
+         "References": {
+            "Reference": ""
+         }
+      },
+      "CustomArea": {
+         "CVTitle": "",
+         "TotalExperienceYears": "18",
+         "CurrentJob": "Productieplanner/Voorman",
+         "CurrentEmployer": "Sinopel B.V",
+         "Last3Experiences": "Voorman, Machinevoerder",
+         "HighestEducationLevelCode": "1",
+         "HighestEducationLevelCodeDescription": "Voortgezet Onderwijs",
+         "SalaryCode": "",
+         "SalaryCodeDescription": "",
+         "CandidateStatusCode": "",
+         "CandidateStatusCodeDescription": "",
+         "AvailabilityCode": "",
+         "AvailabilityCodeDescription": "",
+         "CVComment": "",
+         "CandidatePermission": "",
+         "ExternalID": "",
+         "ProfilePicture": {
+            "Base64Content": "",
+            "Filename": "",
+            "ContentType": ""
+         },
+         "ExtraInfo": {
+            "TrxmlID": "101758022",
+            "ExtraInfo1": "",
+            "ExtraInfo2": "",
+            "ExtraInfo3": "",
+            "ExtraInfo4": ""
+         }
+      },
+      "DocumentText": "Curriculum Vitae\n\nPersoonlijke gegevens:\n*Naam:                        Soulier\n*Voornamen:                  Robin Johannes Jacobus\n*Roepnaam:                  Robin\n*Geboortedatum:            12 september 1976\n*Nationaliteit:                  Nederlandse\n*Sekse:                        Man\n*Burgelijke staat:            Samenwonend\n*Rijbewijs:                  B\n*Adres:                        Fleminghstraat 32\n                        6532 XG Nijmegen\n*Telefoonnummer:            06 13277267\n*E-mail:                  robinenelfke@upcmail.nl\n\n\nOpleidingen en cursussen:\nMavo\nAutotechniek\nBakkersopleiding\nBijscholing Flexo drukker\nBasistraining praktijkopleider\nCursus opleider op de werkvloer\nBHV cursus\n\n\nWerkervaring:\n- 2011 - oktober 2013:      Sinopel B.V.\n                        Functie: Productieplanner/Voorman\n                     Functieomschrijving:\n                      * Aansturen en coachen personeel op de werkvloer\n                      * Verantwoordelijk voor juiste planning van materiaal, orders en personeel\n                      * Kwaliteitscontrole\n                      * Magazijn beheer\n                      * Onderhoud machines\n\n- 2005 -2011:                  Herald Speciaal drukkerij B.V.\n                     Functie: Voorman\n                     Functieomschrijving:\n                      * Aansturen en coachen personeel op de werkvloer\n                      * Kwaliteitscontrole\n                      * Magazijn beheer\n                      * Onderhoud machines\n\n- 1996 - 2005:            Herald Speciaal Drukkerij B.V.\n                        Functie: Machinevoerder\n\n\nOver mij:\nIn 2011 ben ik de uitdaging aangegaan bij Sinopel B.V. Sinopel was nieuw in de markt en mede met\nmijn hulp zijn wij dit bedrijf opgestart, en hebben we een succesvolle drukkerij opgebouwd. Helaas\nbleek de crisis te sterk en was Sinopel nog te zwak om hier bovenop te komen.\nIn de afgelopen jaren heb ik mij ontwikkeld tot een zelfstandige en flexibele medewerker. Ik ben een\nenthousiaste en gemotiveerde collega, ik werk accuraa en resultaatgericht. Ik geef leiding op\ncoachende wijze, om zo met het team de beste resultaten te behalen.\nIk ben bereid om in mijzelf te investeren door hard te werken, maar ook door het volgen van\naanvullende opleidingen en trainingen.",
+      "DocumentHtml": "<div><div style=\"position: relative;\"><tk_metadata name=\"last_modified\" value=\"25/03/2014,  9:05\"> </tk_metadata><p> </p><p style=\"text-align:center;margin-top:0.00in;margin-bottom:0.00in;\">\n<span style=\"font-family:&apos;Times New Roman&apos;;font-size:14pt;\"><b>Curriculum Vitae</b></span>\n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n \n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n<span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><b><u><span class=\"trxml-3\">Persoonlijke gegevens:</span></u></b></span><span class=\"trxml-3\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><b><span class=\"trxml-3\">-Naam:\t \t \t \t </span></b><span class=\"trxml-142\"><span class=\"trxml-3\"><span class=\"trxml-62\">Soulier</span></span></span></span><span class=\"trxml-3\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><b><span class=\"trxml-3\">-Voornamen:\t \t \t </span></b><span class=\"trxml-143\"><span class=\"trxml-3\"><span class=\"trxml-63\">Robin</span> Johannes Jacobus</span></span></span><span class=\"trxml-3\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><b><span class=\"trxml-3\">-Roepnaam:\t \t \t </span></b><span class=\"trxml-171\"><span class=\"trxml-3\"><span class=\"trxml-64\">Robin</span></span></span></span><span class=\"trxml-3\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><b><span class=\"trxml-3\">-Geboortedatum:\t \t </span></b><span class=\"trxml-3\"><span class=\"trxml-79\">12 september 1976</span></span></span><span class=\"trxml-3\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><b><span class=\"trxml-3\">-Nationaliteit:\t \t \t </span></b><span class=\"trxml-3\"><span class=\"trxml-92\">Nederlandse</span></span></span><span class=\"trxml-3\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><b><span class=\"trxml-3\">-Sekse:\t \t \t \t </span></b><span class=\"trxml-3\"><span class=\"trxml-80\">Man</span></span></span><span class=\"trxml-3\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><b><span class=\"trxml-3\">-Burgelijke staat:\t \t </span></b><span class=\"trxml-3\"><span class=\"trxml-67\">Samenwonend</span></span></span><span class=\"trxml-3\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><b><span class=\"trxml-3\">-Rijbewijs:\t \t \t </span></b><span class=\"trxml-3\"><span class=\"trxml-74\">B</span></span></span><span class=\"trxml-3\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><b><span class=\"trxml-3\">-Adres:\t \t \t \t </span></b><span class=\"trxml-3\"><span class=\"trxml-77\">Fleminghstraat 32</span></span></span><span class=\"trxml-3\"><span class=\"trxml-77\">\n</span></span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\"><span class=\"trxml-77\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-3\"><span class=\"trxml-77\">\t \t \t \t 6532 XG Nijmegen</span></span></span><span class=\"trxml-3\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><b><span class=\"trxml-3\">-Telefoonnummer:\t \t </span></b><span class=\"trxml-3\"><span class=\"trxml-81\">06 13277267</span></span></span><span class=\"trxml-3\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><b><span class=\"trxml-3\">-E-mail:\t \t \t </span></b><a href=\"mailto:r.soulier@zonnet.nl\"><span class=\"trxml-147\"><span class=\"trxml-3\">robinen</span></span></a><span class=\"trxml-147\"><span class=\"trxml-3\">elfke@upcmail.nl</span></span></span>\n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n \n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n </p>\n<p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n<span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><b><u><span class=\"trxml-5\">Opleidingen en cursussen:</span></u></b></span><span class=\"trxml-5\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-5\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-130\"><span class=\"trxml-5\"><span class=\"trxml-93\">Mavo</span></span></span></span><span class=\"trxml-5\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-5\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-131\"><span class=\"trxml-5\"><span class=\"trxml-94\">Autotechniek</span></span></span></span><span class=\"trxml-5\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-5\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-132\"><span class=\"trxml-5\"><span class=\"trxml-95\">Bakkersopleiding</span></span></span></span><span class=\"trxml-5\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-5\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-133\"><span class=\"trxml-5\"><span class=\"trxml-96\">Bijscholing Flexo drukker</span></span></span></span><span class=\"trxml-5\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-5\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-134\"><span class=\"trxml-5\"><span class=\"trxml-97\">Basistraining praktijkopleider</span></span></span></span><span class=\"trxml-5\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-5\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-135\"><span class=\"trxml-5\"><span class=\"trxml-98\">Cursus opleider op de werkvloer</span></span></span></span><span class=\"trxml-5\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-5\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-136\"><span class=\"trxml-5\"><span class=\"trxml-99\">BHV cursus</span></span></span></span>\n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n \n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n </p>\n<p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n<span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><b><u><span class=\"trxml-7\">Werkervaring:</span></u></b></span></p><span class=\"trxml-7\">\n</span><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><b><span class=\"trxml-7\">- <span class=\"trxml-55\"><span class=\"trxml-108\">2011 – oktober 2013</span>:\t \n</span></span><span style=\"white-space:pre-wrap;\"><span class=\"trxml-55\"><span class=\"trxml-7\">             <span class=\"trxml-117\">Sinopel B.V.</span></span></span></span><span class=\"trxml-55\"><span class=\"trxml-7\">\n</span></span></b></span><span class=\"trxml-55\"><span class=\"trxml-7\">\n</span></span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-55\"><span class=\"trxml-7\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><b><span class=\"trxml-55\"><span class=\"trxml-7\">\t \t \t \t </span></span></b><span class=\"trxml-55\"><span class=\"trxml-7\">Functie: <span class=\"trxml-112\">Productieplanner/Voorman</span></span></span></span><span class=\"trxml-55\"><span class=\"trxml-7\">\n</span></span></p><p style=\"margin-left:2.00in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-55\"><span class=\"trxml-7\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-55\"><span class=\"trxml-7\">Functieomschrijving: </span></span></span><span class=\"trxml-55\"><span class=\"trxml-7\">\n</span></span></p><p style=\"margin-left:2.25in;text-indent:-0.25in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-55\"><span class=\"trxml-7\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-55\"><span class=\"trxml-7\">-\t <span class=\"trxml-121\">Aansturen en coachen personeel op de werkvloer</span>\t </span></span></span><span class=\"trxml-55\"><span class=\"trxml-7\">\n</span></span></p><p style=\"margin-left:2.25in;text-indent:-0.25in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-55\"><span class=\"trxml-7\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-55\"><span class=\"trxml-7\">-\t <span class=\"trxml-122\">Verantwoordelijk voor juiste planning van materiaal, orders en personeel</span> </span></span></span><span class=\"trxml-55\"><span class=\"trxml-7\">\n</span></span></p><p style=\"margin-left:2.25in;text-indent:-0.25in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-55\"><span class=\"trxml-7\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-55\"><span class=\"trxml-7\">-\t <span class=\"trxml-123\">Kwaliteitscontrole</span></span></span></span><span class=\"trxml-55\"><span class=\"trxml-7\">\n</span></span></p><p style=\"margin-left:2.25in;text-indent:-0.25in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-55\"><span class=\"trxml-7\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-55\"><span class=\"trxml-7\">-\t <span class=\"trxml-113\">Magazijn beheer</span> \t </span></span></span><span class=\"trxml-55\"><span class=\"trxml-7\">\n</span></span></p><p style=\"margin-left:2.25in;text-indent:-0.25in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-55\"><span class=\"trxml-7\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-55\"><span class=\"trxml-7\">-\t <span class=\"trxml-124\">Onderhoud machines</span></span></span></span><span class=\"trxml-7\">\n</span></p><p style=\"margin-left:2.25in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-7\">\t \t \t \t </span></span></p><span class=\"trxml-7\">\n</span><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><b><span class=\"trxml-7\">- <span class=\"trxml-57\"><span class=\"trxml-109\">2005 -2011</span>:\t \t \t <span class=\"trxml-118\">Herald Speciaal drukkerij B.V.</span></span></span></b></span><span class=\"trxml-57\"><span class=\"trxml-7\">\n</span></span></p><p style=\"margin-left:2.00in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-57\"><span class=\"trxml-7\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-57\"><span class=\"trxml-7\">Functie: <span class=\"trxml-114\">Voorman</span> </span></span></span><span class=\"trxml-57\"><span class=\"trxml-7\">\n</span></span></p><p style=\"margin-left:2.00in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-57\"><span class=\"trxml-7\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-57\"><span class=\"trxml-7\">Functieomschrijving: </span></span></span><span class=\"trxml-57\"><span class=\"trxml-7\">\n</span></span></p><p style=\"margin-left:2.25in;text-indent:-0.25in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-57\"><span class=\"trxml-7\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-57\"><span class=\"trxml-7\">-\t <span class=\"trxml-125\">Aansturen en coachen personeel op de werkvloer</span>\t </span></span></span><span class=\"trxml-57\"><span class=\"trxml-7\">\n</span></span></p><p style=\"margin-left:2.25in;text-indent:-0.25in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-57\"><span class=\"trxml-7\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-57\"><span class=\"trxml-7\">-\t <span class=\"trxml-126\">Kwaliteitscontrole</span></span></span></span><span class=\"trxml-57\"><span class=\"trxml-7\">\n</span></span></p><p style=\"margin-left:2.25in;text-indent:-0.25in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-57\"><span class=\"trxml-7\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-57\"><span class=\"trxml-7\">-\t <span class=\"trxml-115\">Magazijn beheer</span> </span></span></span><span class=\"trxml-57\"><span class=\"trxml-7\">\n</span></span></p><p style=\"margin-left:2.25in;text-indent:-0.25in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-57\"><span class=\"trxml-7\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-57\"><span class=\"trxml-7\">-\t <span class=\"trxml-127\">Onderhoud machines</span></span></span></span><span class=\"trxml-7\">\n</span></p><p style=\"margin-left:2.25in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-7\">\t \t \t \t </span></span></p><span class=\"trxml-7\">\n</span><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><b><span class=\"trxml-7\">- <span class=\"trxml-59\"><span class=\"trxml-110\">1996 – 2005</span>:\t \t \n</span></span><span style=\"white-space:pre-wrap;\"><span class=\"trxml-59\"><span class=\"trxml-7\">             <span class=\"trxml-119\">Herald Speciaal Drukkerij B.V.</span></span></span></span><span class=\"trxml-59\"><span class=\"trxml-7\">\n</span></span></b></span><span class=\"trxml-59\"><span class=\"trxml-7\">\n</span></span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-59\"><span class=\"trxml-7\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><b><span class=\"trxml-59\"><span class=\"trxml-7\">\t \t \t \t </span></span></b><span class=\"trxml-59\"><span class=\"trxml-7\">Functie: <span class=\"trxml-116\">Machinevoerder</span></span></span></span><span class=\"trxml-7\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n \n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n </span></p><span class=\"trxml-7\">\n</span><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><b><u><span class=\"trxml-61\"><span class=\"trxml-7\">Over mij:</span></span></u></b></span><span class=\"trxml-61\"><span class=\"trxml-7\">\n</span></span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-61\"><span class=\"trxml-7\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-61\"><span class=\"trxml-7\">In <span class=\"trxml-111\">2011</span> ben ik de uitdaging aangegaan bij Sinopel <span class=\"trxml-120\">B.V. Sinopel</span> <span class=\"trxml-128\">was nieuw in de markt en mede met mijn hulp zijn wij dit bedrijf opgestart, en hebben we een succesvolle drukkerij opgebouwd. Helaas bleek de crisis te sterk en was Sinopel nog te zwak om hier bovenop te komen</span>. </span></span></span><span class=\"trxml-61\"><span class=\"trxml-7\">\n</span></span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-61\"><span class=\"trxml-7\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-61\"><span class=\"trxml-7\">In de afgelopen jaren heb ik mij ontwikkeld tot een zelfstandige en flexibele <span class=\"trxml-129\">medewerker. Ik ben een <span class=\"trxml-166\">enthousiaste</span> en <span class=\"trxml-167\">gemotiveerde</span> collega, ik werk <span class=\"trxml-168\">accuraa</span> en <span class=\"trxml-169\">resultaatgericht</span>. Ik geef leiding op coachende wijze, om zo met het team de beste resultaten te behalen.</span></span></span></span><span class=\"trxml-129\"><span class=\"trxml-61\"><span class=\"trxml-7\">\n</span></span></span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-129\"><span class=\"trxml-61\"><span class=\"trxml-7\">\n</span></span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-129\"><span class=\"trxml-61\"><span class=\"trxml-7\">Ik ben <span class=\"trxml-170\">bereid</span> om in mijzelf te investeren door hard te werken, maar ook door het volgen van aanvullende opleidingen en trainingen</span></span></span>.</span></p>\n </div></div>",
+      "Performance": {
+         "PreProcessingTime": "0.17",
+         "ProcessingTime": "1.467",
+         "NormalizationTime": "0.0",
+         "TemplatingTime": "0.219",
+         "TotalTime": "1.856"
+      },
+      "_xmlns": "http://home.textkernel.nl/2013-08-01",
+      "_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "_lang": "dutch",
+      "_file": "uploaded_file",
+      "_xsi:schemaLocation": "http://mx.textkernel.nl/xsd/tkprofile.xsd"
+   }
+}

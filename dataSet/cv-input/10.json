@@ -1,0 +1,458 @@
+{
+   "Profile": {
+      "Personal": {
+         "Title": "",
+         "FirstName": "Chris",
+         "LastName": "van Contactpersonen Opdrachtgevers",
+         "DateOfBirth": "1965-04-15",
+         "NationalityCode": "",
+         "NationalityCodeDescription": "",
+         "GenderCode": "1",
+         "GenderCodeDescription": "Man",
+         "DriversLicence": "",
+         "MaritalStatusCode": "",
+         "MaritalStatusCodeDescription": "",
+         "Address": {
+            "StreetName": "",
+            "StreetNumberBase": "",
+            "PostalCode": "",
+            "City": "",
+            "RegionCode": "",
+            "RegionCodeDescription": "",
+            "CountryCode": "",
+            "CountryCodeDescription": ""
+         },
+         "MobilePhones": {
+            "MobilePhone": "0031(0)650419594"
+         },
+         "HomePhones": {
+            "HomePhone": [
+               "0031(0)735440999",
+               "0031(0)499360911",
+               "0031(0)411627282"
+            ]
+         },
+         "Emails": {
+            "Email": "chrisvanhoek@home.nl"
+         },
+         "SocialMedia": {
+            "SocialMediaLink": {
+               "SocialMediaURL": "",
+               "SocialMediaType": ""
+            }
+         }
+      },
+      "EducationHistory": {
+         "EducationItem": [
+            {
+               "EducationLevelCode": "2",
+               "EducationLevelCodeDescription": "Beroepsonderwijs",
+               "DegreeDirection": "Aannemersopleiding; Calculatie; Commerciële bedrijfsvoering",
+               "StartDate": "1996-09-01",
+               "EndDate": "2000-06-30",
+               "InstituteName": "Stichting KOB / AVBB",
+               "GradePointAverage": "",
+               "DiplomaCode": "1",
+               "DiplomaCodeDescription": "Ja"
+            },
+            {
+               "EducationLevelCode": "2",
+               "EducationLevelCodeDescription": "Beroepsonderwijs",
+               "DegreeDirection": "Algemene Ondernemersvaardigheden; en organisatie; Financiële administratie; Operationeel management en financieel management; Ondernemingsplan",
+               "StartDate": "1995-09-01",
+               "EndDate": "1996-06-30",
+               "InstituteName": "Stichting AVBB",
+               "GradePointAverage": "",
+               "DiplomaCode": "1",
+               "DiplomaCodeDescription": "Ja"
+            },
+            {
+               "EducationLevelCode": "2",
+               "EducationLevelCodeDescription": "Beroepsonderwijs",
+               "DegreeDirection": "SBW; Grond,- Water- en Wegbouwkunde",
+               "StartDate": "1988-09-01",
+               "EndDate": "1992-06-30",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "1",
+               "DiplomaCodeDescription": "Ja"
+            },
+            {
+               "EducationLevelCode": "1",
+               "EducationLevelCodeDescription": "Voortgezet Onderwijs",
+               "DegreeDirection": "Mavo- 4",
+               "StartDate": "1977-09-01",
+               "EndDate": "1981-06-30",
+               "InstituteName": "Sancta Maria Mavo",
+               "GradePointAverage": "",
+               "DiplomaCode": "1",
+               "DiplomaCodeDescription": "Ja"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "Bedrijfshulpverlening incl. AED en brandbestrijding",
+               "StartDate": "1996-09-01",
+               "EndDate": "heden",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "UAV 2012",
+               "StartDate": "",
+               "EndDate": "2012-06-30",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "V&G Plan (KPD)",
+               "StartDate": "",
+               "EndDate": "2009-06-30",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "Veilig werken aan / langs de weg (Vikamco) +",
+               "StartDate": "2001-09-01",
+               "EndDate": "2009-06-30",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "Veiligheid voor Operationeel Leidinggevenden",
+               "StartDate": "1999-09-01",
+               "EndDate": "2008-06-30",
+               "InstituteName": "Brabant) +",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "RI&E en Plan van Aanpak (Kwadraat)",
+               "StartDate": "",
+               "EndDate": "2006-06-30",
+               "InstituteName": "Arbo Duo",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "Preventiemedewerker (Kwadraat)",
+               "StartDate": "",
+               "EndDate": "2005-06-30",
+               "InstituteName": "Arbo Duo",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "Rekenen met RAW en UAV",
+               "StartDate": "",
+               "EndDate": "2003-06-30",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "Gww Calc Windows",
+               "StartDate": "1999-09-01",
+               "EndDate": "2001-06-30",
+               "InstituteName": "KPD",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "GWW Besteksadministratie Windows",
+               "StartDate": "",
+               "EndDate": "1998-06-30",
+               "InstituteName": "KPD Groep",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "Basisveiligheid vca",
+               "StartDate": "",
+               "EndDate": "1998-06-30",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "Bouwen",
+               "StartDate": "",
+               "EndDate": "1997-06-30",
+               "InstituteName": "Arbo; Stichting Vakopleiding Bouwbedrijf",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "RAW",
+               "StartDate": "",
+               "EndDate": "1994-06-30",
+               "InstituteName": "systematiek voor aannemers",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "Windows; Word en Excel cursussen",
+               "StartDate": "1991-09-01",
+               "EndDate": "2000-06-30",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "Gebruik laserapparatuur",
+               "StartDate": "",
+               "EndDate": "",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "Onderhoud klein materieel",
+               "StartDate": "",
+               "EndDate": "1990-06-30",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "2",
+               "EducationLevelCodeDescription": "Beroepsonderwijs",
+               "DegreeDirection": "MEAO vak Nederlands",
+               "StartDate": "1986-09-01",
+               "EndDate": "1987-06-30",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            }
+         ]
+      },
+      "EmploymentHistory": {
+         "EmploymentItem": [
+            {
+               "JobTitle": "Voorraadbeheer",
+               "StartDate": "2013-01-01",
+               "EndDate": "",
+               "ExperienceYears": "1",
+               "EmployerName": "Handelsonderneming",
+               "Description": ""
+            },
+            {
+               "JobTitle": "Verkoop particulieren en bedrijven / orderadministratie",
+               "StartDate": "2013-01-01",
+               "EndDate": "",
+               "ExperienceYears": "1",
+               "EmployerName": "Handelsonderneming",
+               "Description": ""
+            },
+            {
+               "JobTitle": "Bedrijfsbureau, Projectleiding en Algemene leiding",
+               "StartDate": "1998-01-01",
+               "EndDate": "2012-08-31",
+               "ExperienceYears": "15",
+               "EmployerName": "Aannemersbedrijf van Creij en van Hoek B.V",
+               "Description": "Eindverantwoordelijk voor het gehele proces van opdrachtwerving tot eindproduct:\n    *   Acquisitie en advies\n     *  Calculatie, aanbestedingen, werkvoorbereiding,\n     *  Inkoop\n     *  Organisatie en planning\n     *  Inkoop\n     *  Projectleiding en projectadministratie\n     *  ISO/VCA/V&G\n     *  Personeelszaken\n     *  Facturering"
+            },
+            {
+               "JobTitle": "Werkvoorbereider / Projectondersteuner",
+               "StartDate": "1987-01-01",
+               "EndDate": "1998-01-01",
+               "ExperienceYears": "11",
+               "EmployerName": "Aannemersbedrijf van Creij en van Hoek B.V",
+               "Description": "Eindverantwoordelijk voor het gehele productieproces\n     *   Uitvoering\n     *   Werkvoorbereiding\n     *   Organisatie en planning\n     *   Projectadministratie\n     *   Inkoop- en onderhoud materieel\n     *   ISO/VCA/V&G\n     *   Contacten met opdrachtgevers\n     *   Assistentie financiële administratie"
+            }
+         ]
+      },
+      "Skills": {
+         "ComputerSkills": {
+            "ComputerSkill": [
+               {
+                  "ComputerSkillName": "Word",
+                  "ComputerSkillDuration": "9"
+               },
+               {
+                  "ComputerSkillName": "Excel",
+                  "ComputerSkillDuration": ""
+               },
+               {
+                  "ComputerSkillName": "Windows",
+                  "ComputerSkillDuration": "10"
+               },
+               {
+                  "ComputerSkillName": "KPD",
+                  "ComputerSkillDuration": "2"
+               },
+               {
+                  "ComputerSkillName": "Excel cursussen",
+                  "ComputerSkillDuration": "9"
+               }
+            ]
+         },
+         "LanguageSkills": {
+            "LanguageSkill": {
+               "LanguageSkillCode": "",
+               "LanguageSkillCodeDescription": "",
+               "LanguageProficiencyCode": "",
+               "LanguageProficiencyCodeDescription": ""
+            }
+         },
+         "SoftSkills": {
+            "SoftSkill": [
+               {
+                  "SoftSkillName": "commercieel"
+               },
+               {
+                  "SoftSkillName": "kwaliteitgericht"
+               },
+               {
+                  "SoftSkillName": "Kwaliteitsgericht"
+               },
+               {
+                  "SoftSkillName": "nauwkeurigheid"
+               },
+               {
+                  "SoftSkillName": "plannen"
+               },
+               {
+                  "SoftSkillName": "organiseren"
+               },
+               {
+                  "SoftSkillName": "voortgangscontrole"
+               },
+               {
+                  "SoftSkillName": "resultaatgericht"
+               },
+               {
+                  "SoftSkillName": "zelfstandigheid"
+               },
+               {
+                  "SoftSkillName": "zorgzaamheid"
+               },
+               {
+                  "SoftSkillName": "leiding geven"
+               },
+               {
+                  "SoftSkillName": "overtuigen"
+               },
+               {
+                  "SoftSkillName": "overleggen"
+               }
+            ]
+         }
+      },
+      "Other": {
+         "Hobbies": {
+            "Hobby": [
+               "zelfstandigheid",
+               "zorgzaamheid",
+               "energie",
+               "volharding",
+               "onafhankelijkheid",
+               "ordelijkheid",
+               "ambitie",
+               "besluitvaardigheid",
+               "Tennis",
+               "Sport Algemeen",
+               "Techniek"
+            ]
+         },
+         "References": {
+            "Reference": ""
+         }
+      },
+      "CustomArea": {
+         "CVTitle": "",
+         "TotalExperienceYears": "27",
+         "CurrentJob": "Voorraadbeheer",
+         "CurrentEmployer": "Handelsonderneming",
+         "Last3Experiences": "Verkoop particulieren en bedrijven / orderadministratie, Bedrijfsbureau, Projectleiding en Algemene leiding, Werkvoorbereider / Projectondersteuner",
+         "HighestEducationLevelCode": "2",
+         "HighestEducationLevelCodeDescription": "Beroepsonderwijs",
+         "SalaryCode": "",
+         "SalaryCodeDescription": "",
+         "CandidateStatusCode": "",
+         "CandidateStatusCodeDescription": "",
+         "AvailabilityCode": "",
+         "AvailabilityCodeDescription": "",
+         "CVComment": "",
+         "CandidatePermission": "",
+         "ExternalID": "",
+         "ProfilePicture": {
+            "Base64Content": "",
+            "Filename": "",
+            "ContentType": ""
+         },
+         "ExtraInfo": {
+            "TrxmlID": "21087012",
+            "ExtraInfo1": "",
+            "ExtraInfo2": "",
+            "ExtraInfo3": "",
+            "ExtraInfo4": ""
+         }
+      },
+      "DocumentText": "Curriculum Vitae\n\n PERSOONLIJKE GEGEVENS\n\n Naam                                    :  Chris van Hoek\n Geslacht                                :  Mannelijk\n E- mailadres                            :  chrisvanhoek@home.nl\n Geboren                                 :  15 april 1965\n Mobiel                                  :  0031650419594\n\n PROFIEL\n\n Grote leidinggevende en praktische ervaring (25 medewerkers), commercieel, kwaliteitgericht.\n\n WERKERVARING\n\n 2013                     :  Voorraadbeheer   (tijdelijk werk)\n                             Swanenberg Handelsonderneming\n\n 2013                     :  Verkoop particulieren en bedrijven / orderadministratie (tijdelijk werk)\n                             Stonebase\n\n 1998 tot augustus 2012   :  Bedrijfsbureau, Projectleiding en Algemene leiding\n                             Aannemersbedrijf van Creij en van Hoek B.V.\n                             Eindverantwoordelijk voor het gehele proces van opdrachtwerving tot eindproduct:\n                                 *   Acquisitie en advies\n                                  *  Calculatie, aanbestedingen, werkvoorbereiding,\n                                  *  Inkoop\n                                  *  Organisatie en planning\n                                  *  Inkoop\n                                  *  Projectleiding en projectadministratie\n                                  *  ISO/VCA/V&G\n                                  *  Personeelszaken\n                                  *  Facturering\n\n 1987 tot 1998            :  Werkvoorbereider / Projectondersteuner\n                             Aannemersbedrijf van Creij en van Hoek B.V.\n                             Eindverantwoordelijk voor het gehele productieproces\n                                  *   Uitvoering\n                                  *   Werkvoorbereiding\n                                  *   Organisatie en planning\n                                  *   Projectadministratie\n                                  *   Inkoop- en onderhoud materieel\n                                  *   ISO/VCA/V&G\n                                  *   Contacten met opdrachtgevers\n                                  *   Assistentie financiële administratie\n\n OPLEIDINGEN\n\n 1996 - 2000:          Stichting KOB / AVBB: Aannemersopleiding (diploma: ja) bestaande uit:\n                       - Werkvoorbereiding en uitvoering\n                       - Communicatie\n                       - Calculatie\n                       - Commerciële bedrijfsvoering\n\n 1995 - 1996:          Stichting AVBB: Algemene Ondernemersvaardigheden (diploma: ja) bestaande uit:\n                       - Marketing\n                       - Personeel en organisatie\n                       - Financiële administratie\n                       - Operationeel management en financieel management\n                       - Ondernemingsplan\n\n 1988 - 1992:          SBW: Grond,- Water- en Wegbouwkunde (diploma: ja)\n\n 1977 - 1981:          Sancta Maria Mavo: Mavo- 4 (diploma: ja)\n\n\n\n\n VAARDIGHEDEN EN COMPETENTIES\n\n Computervaardigheden:\n      *   Word en Excel\n      *   GWW Voorcalculatie (KPD)\n      *   GWW Besteksadministratie (KPD)\n\n Competenties  (boven- en ver bovengemiddeld)\n Kwaliteitsgericht, nauwkeurigheid, plannen en organiseren, voortgangscontrole, resultaatgericht, zelfstandigheid, zorgzaamheid,\n energie, volharding, onafhankelijkheid, ordelijkheid, ambitie, besluitvaardigheid, doorzettingsvermogen, sturing geven aan\n individuen en groepen, motiveren, adviseren, leiding geven, overtuigen, overleggen, projecten opzetten, strategisch.\n\n\n CURSUSSEN EN OVERIGE OPLEIDINGEN\n\n 1996 - heden          Bedrijfshulpverlening incl. AED en brandbestrijding\n 2012                  UAV 2012 (Bouwend Nederland)\n 2009                  V&G Plan (KPD)\n 2009 + 2001           Veilig werken aan / langs de weg (Vikamco) + (SBW)\n 2008 + 1999           Veiligheid voor Operationeel Leidinggevenden (Examen Bureau Brabant) + (SBW)\n 2006                  RI&E en Plan van Aanpak (Kwadraat) (Arbo Duo)\n 2005                  Preventiemedewerker (Kwadraat) (Arbo Duo)\n 2003                  Rekenen met RAW en UAV (CROW)\n 2001 + 1999           Gww Calc Windows (KPD)\n 1998                  GWW Besteksadministratie Windows (KPD Groep)\n 1998                  Basisveiligheid vca (SBW)\n 1997                  Bouwen op Arbo (Stichting Vakopleiding Bouwbedrijf)\n 1994                  RAW- systematiek voor aannemers (CROW)\n 1991 - 2000           Windows, Word en Excel cursussen\n 1991                  Gebruik laserapparatuur (SBW)\n 1990                  Onderhoud klein materieel (SBW)\n 1986 - 1987           MEAO vak Nederlands\n\n\n PROJECTEN\n\n Gerealiseerde projecten:\n      *   Bouw- en woonrijp maken Plan Hulzebraak fase 1, 2 en 3 te Schijndel\n      *   Bouw- en woonrijp maken Industrieterrein \"Duin\" 2 en 3te Schijndel\n      *   Reconstructie riolering en verhardingen Boschweg/Hoofdstraat fase 1, 2 en 3 te Schijndel\n      *   Jaarlijks asfalt onderhoud koud- en warm asfalt Gemeente Best, Schijndel en Haaren\n      *   Oppervlakbehandelingen middels micro deklagen en slijtlagen gemeente Best en Schijndel\n      *   Reconstructie woonwijk omgeving Wilhelminaplein te Best\n      *   Reconstructie riolering en verhardingen diverse projecten te Vught\n      *   Onderhoud hoofdriolering en kolk- en huisaansluitingen gemeente Schijndel, Best, Haaren en Vught\n      *   Aanleg persriolering en plaatsen pompputten diverse plaatsen\n\n\n  CONTACTPERSONEN OPDRACHTGEVERS\n\n  Naam en telefoonnummer contactpersoon bij opdrachtgever:\n       *   Gemeente Schijndel: Dhr. Van der Lee of Dhr. Van Ravensteijn, telefoon 073-54 40 999\n       *   Gemeente Best: Dhr. Oomen, telefoon 0499-360 911\n       *   Gemeente Haaren: Dhr. Clement, telefoon 0411-627 282\n       *   Gemeente Vught: Dhr. Van Schijndel, telefoon 14073\n\n\n SPORT EN INTERESSES\n\n Sport en interesses:\n      *   Tennis\n      *   Sport Algemeen\n      *   Techniek",
+      "DocumentHtml": "<div><div style=\"position: relative;\"><p> </p><div style=\"position:absolute;top:40px;left:58px;font-family:&apos;Times New Roman&apos;;font-size:12pt;white-space:nowrap;\"><b>Curriculum Vitae</b></div>\n\n<div style=\"position:absolute;top:77px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-3\">PERSOONLIJKE GEGEVENS</span></b><span class=\"trxml-3\">\n</span></div><span class=\"trxml-3\">\n</span><div style=\"position:absolute;top:108px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-3\">Naam                              \n</span></div><span class=\"trxml-3\">\n</span><div style=\"position:absolute;top:108px;left:299px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-3\">:  \n</span></div><span class=\"trxml-3\">\n</span><div style=\"position:absolute;top:108px;left:317px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-3\"><span class=\"trxml-497\"><span class=\"trxml-32\">Chris</span> van Hoek</span>\n</span></div><span class=\"trxml-3\">\n</span><div style=\"position:absolute;top:124px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-3\">Geslacht                            \n</span></div><span class=\"trxml-3\">\n</span><div style=\"position:absolute;top:124px;left:299px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-3\">:  \n</span></div><span class=\"trxml-3\">\n</span><div style=\"position:absolute;top:124px;left:317px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-3\"><span class=\"trxml-37\">Mannelijk</span>\n</span></div><span class=\"trxml-3\">\n</span><div style=\"position:absolute;top:139px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-3\">E- mailadres                        \n</span></div><span class=\"trxml-3\">\n</span><div style=\"position:absolute;top:139px;left:299px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-3\">:  \n</span></div><span class=\"trxml-3\">\n</span><div style=\"position:absolute;top:139px;left:317px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-3\"><span class=\"trxml-35\">chrisvanhoek@home.nl</span>\n</span></div><span class=\"trxml-3\">\n</span><div style=\"position:absolute;top:154px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-3\">Geboren\n</span></div><span class=\"trxml-3\">\n</span><div style=\"position:absolute;top:170px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-3\">Mobiel\n</span></div><span class=\"trxml-3\">\n</span><div style=\"position:absolute;top:154px;left:299px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-3\">:\n</span></div><span class=\"trxml-3\">\n</span><div style=\"position:absolute;top:170px;left:299px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-3\">:\n</span></div><span class=\"trxml-3\">\n</span><div style=\"position:absolute;top:154px;left:317px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-3\"><span class=\"trxml-36\">15 april 1965</span>\n</span></div><span class=\"trxml-3\">\n</span><div style=\"position:absolute;top:170px;left:317px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-3\"><span class=\"trxml-38\">0031650419594</span></span></div>\n\n<div style=\"position:absolute;top:205px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-5\">PROFIEL</span></b><span class=\"trxml-5\">\n</span></div><span class=\"trxml-5\">\n</span><div style=\"position:absolute;top:235px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-5\">Grote leidinggevende en praktische ervaring (25 medewerkers), <span class=\"trxml-28\">commercieel</span>, <span class=\"trxml-29\">kwaliteitgericht</span></span>.</div>\n\n<div style=\"position:absolute;top:270px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-7\">WERKERVARING</span></b><span class=\"trxml-7\">\n</span></div><span class=\"trxml-7\">\n</span><div style=\"position:absolute;top:301px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-287\"><span class=\"trxml-7\"><span class=\"trxml-323\">2013</span>                 \n</span></span></div><span class=\"trxml-287\"><span class=\"trxml-7\">\n</span></span><div style=\"position:absolute;top:301px;left:209px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-287\"><span class=\"trxml-7\">:  \n</span></span></div><span class=\"trxml-287\"><span class=\"trxml-7\">\n</span></span><div style=\"position:absolute;top:301px;left:227px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-287\"><span class=\"trxml-7\"><span class=\"trxml-327\">Voorraadbeheer</span> </span></span></b><span class=\"trxml-287\"><span class=\"trxml-7\">\n</span></span></div><span class=\"trxml-287\"><span class=\"trxml-7\">\n</span></span><div style=\"position:absolute;top:301px;left:325px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-287\"><span class=\"trxml-7\">(tijdelijk werk)</span></span></div><span class=\"trxml-287\"><span class=\"trxml-7\">\n\n</span></span><div style=\"position:absolute;top:317px;left:227px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-287\"><span class=\"trxml-7\">Swanenberg <span class=\"trxml-333\">Handelsonderneming</span></span></span></b><span class=\"trxml-7\">\n</span></div><span class=\"trxml-7\">\n</span><div style=\"position:absolute;top:353px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-289\"><span class=\"trxml-7\"><span class=\"trxml-324\">2013</span>                 \n</span></span></div><span class=\"trxml-289\"><span class=\"trxml-7\">\n</span></span><div style=\"position:absolute;top:353px;left:209px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-289\"><span class=\"trxml-7\">:  \n</span></span></div><span class=\"trxml-289\"><span class=\"trxml-7\">\n</span></span><div style=\"position:absolute;top:353px;left:227px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-289\"><span class=\"trxml-7\"><span class=\"trxml-328\">Verkoop particulieren en bedrijven / orderadministratie</span> </span></span></b><span class=\"trxml-289\"><span class=\"trxml-7\">\n</span></span></div><span class=\"trxml-289\"><span class=\"trxml-7\">\n</span></span><div style=\"position:absolute;top:353px;left:551px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-289\"><span class=\"trxml-7\">(tijdelijk werk)\n</span></span></div><span class=\"trxml-289\"><span class=\"trxml-7\">\n</span></span><div style=\"position:absolute;top:369px;left:227px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-7\"><span class=\"trxml-289\">Stonebase</span>\n</span></div><span class=\"trxml-7\">\n</span><div style=\"position:absolute;top:396px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-291\"><span class=\"trxml-7\"><span class=\"trxml-325\">1998 tot augustus 2012</span>   \n</span></span></div><span class=\"trxml-291\"><span class=\"trxml-7\">\n</span></span><div style=\"position:absolute;top:396px;left:209px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-291\"><span class=\"trxml-7\">:  \n</span></span></div><span class=\"trxml-291\"><span class=\"trxml-7\">\n</span></span><div style=\"position:absolute;top:397px;left:227px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-291\"><span class=\"trxml-329\"><span class=\"trxml-7\">Bedrijfsbureau, Projectleiding en Algemene leiding</span></span></span></b><span class=\"trxml-291\"><span class=\"trxml-7\">\n</span></span></div><span class=\"trxml-291\"><span class=\"trxml-7\">\n</span></span><div style=\"position:absolute;top:412px;left:227px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-291\"><span class=\"trxml-7\"><span class=\"trxml-334\">Aannemersbedrijf van Creij en van Hoek B.V.</span>\n</span></span></div><span class=\"trxml-291\"><span class=\"trxml-7\">\n</span></span><div style=\"position:absolute;top:427px;left:227px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-291\"><span class=\"trxml-337\"><span class=\"trxml-7\">Eindverantwoordelijk voor het gehele proces van opdrachtwerving tot eindproduct:\n</span></span></span></div><span class=\"trxml-291\"><span class=\"trxml-337\"><span class=\"trxml-7\">\n</span></span></span><div style=\"position:absolute;top:443px;left:251px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-291\"><span class=\"trxml-337\"><span class=\"trxml-7\">●   \n</span></span></span></div><span class=\"trxml-291\"><span class=\"trxml-337\"><span class=\"trxml-7\">\n</span></span></span><div style=\"position:absolute;top:443px;left:277px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-291\"><span class=\"trxml-337\"><span class=\"trxml-7\">Acquisitie en advies\n</span></span></span></div><span class=\"trxml-291\"><span class=\"trxml-337\"><span class=\"trxml-7\">\n</span></span></span><div style=\"position:absolute;top:460px;left:256px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-291\"><span class=\"trxml-337\"><span class=\"trxml-7\">●  \n</span></span></span></div><span class=\"trxml-291\"><span class=\"trxml-337\"><span class=\"trxml-7\">\n</span></span></span><div style=\"position:absolute;top:459px;left:276px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-291\"><span class=\"trxml-337\"><span class=\"trxml-7\">Calculatie, aanbestedingen, werkvoorbereiding,\n</span></span></span></div><span class=\"trxml-291\"><span class=\"trxml-337\"><span class=\"trxml-7\">\n</span></span></span><div style=\"position:absolute;top:476px;left:256px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-291\"><span class=\"trxml-337\"><span class=\"trxml-7\">●  \n</span></span></span></div><span class=\"trxml-291\"><span class=\"trxml-337\"><span class=\"trxml-7\">\n</span></span></span><div style=\"position:absolute;top:475px;left:276px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-291\"><span class=\"trxml-337\"><span class=\"trxml-7\">Inkoop\n</span></span></span></div><span class=\"trxml-291\"><span class=\"trxml-337\"><span class=\"trxml-7\">\n</span></span></span><div style=\"position:absolute;top:492px;left:256px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-291\"><span class=\"trxml-337\"><span class=\"trxml-7\">●  \n</span></span></span></div><span class=\"trxml-291\"><span class=\"trxml-337\"><span class=\"trxml-7\">\n</span></span></span><div style=\"position:absolute;top:491px;left:276px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-291\"><span class=\"trxml-337\"><span class=\"trxml-7\">Organisatie en planning\n</span></span></span></div><span class=\"trxml-291\"><span class=\"trxml-337\"><span class=\"trxml-7\">\n</span></span></span><div style=\"position:absolute;top:509px;left:256px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-291\"><span class=\"trxml-337\"><span class=\"trxml-7\">●  \n</span></span></span></div><span class=\"trxml-291\"><span class=\"trxml-337\"><span class=\"trxml-7\">\n</span></span></span><div style=\"position:absolute;top:507px;left:276px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-291\"><span class=\"trxml-337\"><span class=\"trxml-7\">Inkoop\n</span></span></span></div><span class=\"trxml-291\"><span class=\"trxml-337\"><span class=\"trxml-7\">\n</span></span></span><div style=\"position:absolute;top:525px;left:256px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-291\"><span class=\"trxml-337\"><span class=\"trxml-7\">●  \n</span></span></span></div><span class=\"trxml-291\"><span class=\"trxml-337\"><span class=\"trxml-7\">\n</span></span></span><div style=\"position:absolute;top:524px;left:276px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-291\"><span class=\"trxml-337\"><span class=\"trxml-7\">Projectleiding en projectadministratie\n</span></span></span></div><span class=\"trxml-291\"><span class=\"trxml-337\"><span class=\"trxml-7\">\n</span></span></span><div style=\"position:absolute;top:541px;left:256px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-291\"><span class=\"trxml-337\"><span class=\"trxml-7\">●  \n</span></span></span></div><span class=\"trxml-291\"><span class=\"trxml-337\"><span class=\"trxml-7\">\n</span></span></span><div style=\"position:absolute;top:540px;left:276px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-291\"><span class=\"trxml-7\"><span class=\"trxml-337\">ISO/VCA</span>/<span class=\"trxml-335\">V&amp;G</span>\n</span></span></div><span class=\"trxml-291\"><span class=\"trxml-7\">\n</span></span><div style=\"position:absolute;top:557px;left:256px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-291\"><span class=\"trxml-7\">●  \n</span></span></div><span class=\"trxml-291\"><span class=\"trxml-7\">\n</span></span><div style=\"position:absolute;top:556px;left:276px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-291\"><span class=\"trxml-7\"><span class=\"trxml-330\">Personeelszaken</span>\n</span></span></div><span class=\"trxml-291\"><span class=\"trxml-7\">\n</span></span><div style=\"position:absolute;top:574px;left:256px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-291\"><span class=\"trxml-7\">●  \n</span></span></div><span class=\"trxml-291\"><span class=\"trxml-7\">\n</span></span><div style=\"position:absolute;top:573px;left:276px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-7\"><span class=\"trxml-291\"><span class=\"trxml-338\">Facturering</span></span>\n</span></div><span class=\"trxml-7\">\n</span><div style=\"position:absolute;top:603px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-293\"><span class=\"trxml-7\"><span class=\"trxml-326\">1987 tot 1998</span>          \n</span></span></div><span class=\"trxml-293\"><span class=\"trxml-7\">\n</span></span><div style=\"position:absolute;top:603px;left:209px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-293\"><span class=\"trxml-7\">:  \n</span></span></div><span class=\"trxml-293\"><span class=\"trxml-7\">\n</span></span><div style=\"position:absolute;top:604px;left:227px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-293\"><span class=\"trxml-331\"><span class=\"trxml-7\">Werkvoorbereider / Projectondersteuner</span></span></span></b><span class=\"trxml-293\"><span class=\"trxml-7\">\n</span></span></div><span class=\"trxml-293\"><span class=\"trxml-7\">\n</span></span><div style=\"position:absolute;top:619px;left:227px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-293\"><span class=\"trxml-7\"><span class=\"trxml-336\">Aannemersbedrijf van Creij en van Hoek B.V.</span>\n</span></span></div><span class=\"trxml-293\"><span class=\"trxml-7\">\n</span></span><div style=\"position:absolute;top:634px;left:227px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-293\"><span class=\"trxml-339\"><span class=\"trxml-7\">Eindverantwoordelijk voor het gehele productieproces\n</span></span></span></div><span class=\"trxml-293\"><span class=\"trxml-339\"><span class=\"trxml-7\">\n</span></span></span><div style=\"position:absolute;top:650px;left:256px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-293\"><span class=\"trxml-339\"><span class=\"trxml-7\">●  \n</span></span></span></div><span class=\"trxml-293\"><span class=\"trxml-339\"><span class=\"trxml-7\">\n</span></span></span><div style=\"position:absolute;top:650px;left:280px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-293\"><span class=\"trxml-339\"><span class=\"trxml-7\">Uitvoering\n</span></span></span></div><span class=\"trxml-293\"><span class=\"trxml-339\"><span class=\"trxml-7\">\n</span></span></span><div style=\"position:absolute;top:666px;left:256px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-293\"><span class=\"trxml-339\"><span class=\"trxml-7\">●  \n</span></span></span></div><span class=\"trxml-293\"><span class=\"trxml-339\"><span class=\"trxml-7\">\n</span></span></span><div style=\"position:absolute;top:665px;left:279px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-293\"><span class=\"trxml-339\"><span class=\"trxml-7\">Werkvoorbereiding\n</span></span></span></div><span class=\"trxml-293\"><span class=\"trxml-339\"><span class=\"trxml-7\">\n</span></span></span><div style=\"position:absolute;top:683px;left:256px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-293\"><span class=\"trxml-339\"><span class=\"trxml-7\">●  \n</span></span></span></div><span class=\"trxml-293\"><span class=\"trxml-339\"><span class=\"trxml-7\">\n</span></span></span><div style=\"position:absolute;top:682px;left:279px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-293\"><span class=\"trxml-339\"><span class=\"trxml-7\">Organisatie en planning\n</span></span></span></div><span class=\"trxml-293\"><span class=\"trxml-339\"><span class=\"trxml-7\">\n</span></span></span><div style=\"position:absolute;top:699px;left:256px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-293\"><span class=\"trxml-339\"><span class=\"trxml-7\">●  \n</span></span></span></div><span class=\"trxml-293\"><span class=\"trxml-339\"><span class=\"trxml-7\">\n</span></span></span><div style=\"position:absolute;top:698px;left:279px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-293\"><span class=\"trxml-339\"><span class=\"trxml-7\">Projectadministratie\n</span></span></span></div><span class=\"trxml-293\"><span class=\"trxml-339\"><span class=\"trxml-7\">\n</span></span></span><div style=\"position:absolute;top:715px;left:256px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-293\"><span class=\"trxml-339\"><span class=\"trxml-7\">●  \n</span></span></span></div><span class=\"trxml-293\"><span class=\"trxml-339\"><span class=\"trxml-7\">\n</span></span></span><div style=\"position:absolute;top:714px;left:279px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-293\"><span class=\"trxml-7\"><span class=\"trxml-339\">Inkoop- en onderhoud materieel</span>\n</span></span></div><span class=\"trxml-293\"><span class=\"trxml-7\">\n</span></span><div style=\"position:absolute;top:732px;left:256px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-293\"><span class=\"trxml-7\">●  \n</span></span></div><span class=\"trxml-293\"><span class=\"trxml-7\">\n</span></span><div style=\"position:absolute;top:731px;left:279px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-293\"><span class=\"trxml-7\"><span class=\"trxml-332\">ISO/VCA/V&amp;G</span>\n</span></span></div><span class=\"trxml-293\"><span class=\"trxml-7\">\n</span></span><div style=\"position:absolute;top:748px;left:256px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-293\"><span class=\"trxml-7\">●  \n</span></span></div><span class=\"trxml-293\"><span class=\"trxml-7\">\n</span></span><div style=\"position:absolute;top:747px;left:279px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-293\"><span class=\"trxml-7\"><span class=\"trxml-340\">Contacten met opdrachtgevers</span>\n</span></span></div><span class=\"trxml-293\"><span class=\"trxml-7\">\n</span></span><div style=\"position:absolute;top:764px;left:256px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-293\"><span class=\"trxml-7\">●  \n</span></span></div><span class=\"trxml-293\"><span class=\"trxml-7\">\n</span></span><div style=\"position:absolute;top:763px;left:279px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-293\"><span class=\"trxml-341\"><span class=\"trxml-7\">Assistentie financiële administratie</span></span></span></div>\n\n<div style=\"position:absolute;top:798px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-9\">OPLEIDINGEN</span></b><span class=\"trxml-9\">\n</span></div><span class=\"trxml-9\">\n</span><div style=\"position:absolute;top:829px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-302\"><span class=\"trxml-9\"><span class=\"trxml-122\">1996 – 2000</span>:         \n</span></span></div><span class=\"trxml-302\"><span class=\"trxml-9\">\n</span></span><div style=\"position:absolute;top:829px;left:197px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-302\"><span class=\"trxml-9\"><span class=\"trxml-159\">Stichting KOB / AVBB</span>: <span class=\"trxml-128\">Aannemersopleiding</span> (<span class=\"trxml-155\">diploma: ja</span>) bestaande uit:\n</span></span></div><span class=\"trxml-302\"><span class=\"trxml-9\">\n</span></span><div style=\"position:absolute;top:844px;left:197px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-302\"><span class=\"trxml-9\">- <span class=\"trxml-126\">Werkvoorbereiding en uitvoering\n</span></span></span></div><span class=\"trxml-126\"><span class=\"trxml-302\"><span class=\"trxml-9\">\n</span></span></span><div style=\"position:absolute;top:860px;left:197px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-302\"><span class=\"trxml-9\"><span class=\"trxml-126\">- Communicatie</span>\n</span></span></div><span class=\"trxml-302\"><span class=\"trxml-9\">\n</span></span><div style=\"position:absolute;top:875px;left:197px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-302\"><span class=\"trxml-9\">- <span class=\"trxml-129\">Calculatie</span>\n</span></span></div><span class=\"trxml-302\"><span class=\"trxml-9\">\n</span></span><div style=\"position:absolute;top:890px;left:197px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-9\"><span class=\"trxml-302\">- <span class=\"trxml-130\">Commerciële bedrijfsvoering</span></span>\n</span></div><span class=\"trxml-9\">\n</span><div style=\"position:absolute;top:921px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-303\"><span class=\"trxml-9\"><span class=\"trxml-123\">1995 – 1996</span>:         \n</span></span></div><span class=\"trxml-303\"><span class=\"trxml-9\">\n</span></span><div style=\"position:absolute;top:921px;left:197px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-303\"><span class=\"trxml-9\"><span class=\"trxml-160\">Stichting AVBB</span>: <span class=\"trxml-131\">Algemene Ondernemersvaardigheden</span> (<span class=\"trxml-156\">diploma: ja</span>) bestaande uit:\n</span></span></div><span class=\"trxml-303\"><span class=\"trxml-9\">\n</span></span><div style=\"position:absolute;top:936px;left:197px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-303\"><span class=\"trxml-9\">- <span class=\"trxml-127\">Marketing\n</span></span></span></div><span class=\"trxml-127\"><span class=\"trxml-303\"><span class=\"trxml-9\">\n</span></span></span><div style=\"position:absolute;top:952px;left:197px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-303\"><span class=\"trxml-9\"><span class=\"trxml-127\">- Personeel</span> <span class=\"trxml-132\">en organisatie</span>\n</span></span></div><span class=\"trxml-303\"><span class=\"trxml-9\">\n</span></span><div style=\"position:absolute;top:967px;left:197px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-303\"><span class=\"trxml-9\">- <span class=\"trxml-133\">Financiële administratie</span>\n</span></span></div><span class=\"trxml-303\"><span class=\"trxml-9\">\n</span></span><div style=\"position:absolute;top:982px;left:197px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-303\"><span class=\"trxml-9\">- <span class=\"trxml-134\">Operationeel management en financieel management</span>\n</span></span></div><span class=\"trxml-303\"><span class=\"trxml-9\">\n</span></span><div style=\"position:absolute;top:998px;left:197px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-9\"><span class=\"trxml-303\">- <span class=\"trxml-135\">Ondernemingsplan</span></span>\n</span></div><span class=\"trxml-9\">\n</span><div style=\"position:absolute;top:1028px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-304\"><span class=\"trxml-9\"><span class=\"trxml-124\">1988 – 1992</span>:         \n</span></span></div><span class=\"trxml-304\"><span class=\"trxml-9\">\n</span></span><div style=\"position:absolute;top:1028px;left:197px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-9\"><span class=\"trxml-304\"><span class=\"trxml-136\">SBW</span>: <span class=\"trxml-137\">Grond,- Water- en Wegbouwkunde</span> (<span class=\"trxml-157\">diploma: ja</span></span>)\n</span></div><span class=\"trxml-9\">\n</span><div style=\"position:absolute;top:1059px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-305\"><span class=\"trxml-9\"><span class=\"trxml-125\">1977 – 1981</span>:         \n</span></span></div><span class=\"trxml-305\"><span class=\"trxml-9\">\n</span></span><div style=\"position:absolute;top:1059px;left:197px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-305\"><span class=\"trxml-9\"><span class=\"trxml-161\">Sancta Maria Mavo</span>: <span class=\"trxml-138\">Mavo- 4</span> (<span class=\"trxml-158\">diploma: ja</span></span></span>) \n</div>\n<div style=\"position:absolute;top:1122px;left:12px;white-space:nowrap;\"><hr> </hr>\n</div>\n\n<div style=\"position:absolute;top:1218px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-11\">VAARDIGHEDEN EN COMPETENTIES</span></b></div><span class=\"trxml-11\">\n\n</span><div style=\"position:absolute;top:1250px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-11\">Computervaardigheden:</span></b><span class=\"trxml-11\">\n</span></div><span class=\"trxml-11\">\n</span><div style=\"position:absolute;top:1266px;left:94px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-11\">●  \n</span></div><span class=\"trxml-11\">\n</span><div style=\"position:absolute;top:1266px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-11\"><span class=\"trxml-25\">Word</span> en <span class=\"trxml-26\">Excel</span>\n</span></div><span class=\"trxml-11\">\n</span><div style=\"position:absolute;top:1282px;left:94px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-11\">●  \n</span></div><span class=\"trxml-11\">\n</span><div style=\"position:absolute;top:1282px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-11\">GWW Voorcalculatie (KPD)\n</span></div><span class=\"trxml-11\">\n</span><div style=\"position:absolute;top:1298px;left:94px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-11\">●  \n</span></div><span class=\"trxml-11\">\n</span><div style=\"position:absolute;top:1298px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-11\">GWW Besteksadministratie (KPD</span>)\n</div>\n<div style=\"position:absolute;top:1329px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-13\">Competenties </span></b><span class=\"trxml-13\">\n</span></div><span class=\"trxml-13\">\n</span><div style=\"position:absolute;top:1329px;left:146px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-13\">(boven- en ver bovengemiddeld)\n</span></div><span class=\"trxml-13\">\n</span><div style=\"position:absolute;top:1344px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-13\"><span class=\"trxml-62\">Kwaliteitsgericht</span>, <span class=\"trxml-63\">nauwkeurigheid</span>, <span class=\"trxml-64\">plannen</span> en <span class=\"trxml-65\">organiseren</span>, <span class=\"trxml-66\">voortgangscontrole</span>, <span class=\"trxml-67\">resultaatgericht</span>, <span class=\"trxml-44\"><span class=\"trxml-534\">zelfstandigheid</span></span>, <span class=\"trxml-45\"><span class=\"trxml-535\">zorgzaamheid</span></span>,\n</span></div><span class=\"trxml-13\">\n</span><div style=\"position:absolute;top:1360px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-13\"><span class=\"trxml-46\">energie</span>, <span class=\"trxml-47\">volharding</span>, <span class=\"trxml-48\">onafhankelijkheid</span>, <span class=\"trxml-49\">ordelijkheid</span>, <span class=\"trxml-50\">ambitie</span>, <span class=\"trxml-51\">besluitvaardigheid</span>, doorzettingsvermogen, sturing geven aan\n</span></div><span class=\"trxml-13\">\n</span><div style=\"position:absolute;top:1375px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-13\">individuen en groepen, motiveren, adviseren, <span class=\"trxml-68\">leiding geven</span>, <span class=\"trxml-69\">overtuigen</span>, <span class=\"trxml-70\">overleggen</span>, projecten opzetten, strategisch</span>.</div>\n\n<div style=\"position:absolute;top:1422px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-15\">CURSUSSEN EN OVERIGE OPLEIDINGEN</span></b><span class=\"trxml-15\">\n</span></div><span class=\"trxml-15\">\n</span><div style=\"position:absolute;top:1453px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-306\"><span class=\"trxml-184\">1996 - heden</span>         \n</span></span></div><span class=\"trxml-15\"><span class=\"trxml-306\">\n</span></span><div style=\"position:absolute;top:1453px;left:197px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-202\"><span class=\"trxml-306\">Bedrijfshulpverlening incl. AED en brandbestrijding</span></span>\n</span></div><span class=\"trxml-15\">\n</span><div style=\"position:absolute;top:1468px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-307\"><span class=\"trxml-185\">2012</span>               \n</span></span></div><span class=\"trxml-15\"><span class=\"trxml-307\">\n</span></span><div style=\"position:absolute;top:1468px;left:197px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-307\"><span class=\"trxml-203\">UAV 2012</span> (<span class=\"trxml-229\">Bouwend</span> Nederland</span>)\n</span></div><span class=\"trxml-15\">\n</span><div style=\"position:absolute;top:1484px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-308\"><span class=\"trxml-186\">2009</span>               \n</span></span></div><span class=\"trxml-15\"><span class=\"trxml-308\">\n</span></span><div style=\"position:absolute;top:1484px;left:197px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-204\"><span class=\"trxml-308\">V&amp;G Plan (KPD</span></span>)\n</span></div><span class=\"trxml-15\">\n</span><div style=\"position:absolute;top:1499px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-309\"><span class=\"trxml-187\">2009 + 2001</span>         \n</span></span></div><span class=\"trxml-15\"><span class=\"trxml-309\">\n</span></span><div style=\"position:absolute;top:1499px;left:197px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-309\"><span class=\"trxml-205\">Veilig werken aan / langs de weg (Vikamco</span>) + (<span class=\"trxml-230\">SBW</span></span>)\n</span></div><span class=\"trxml-15\">\n</span><div style=\"position:absolute;top:1514px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-310\"><span class=\"trxml-188\">2008 + 1999</span>         \n</span></span></div><span class=\"trxml-15\"><span class=\"trxml-310\">\n</span></span><div style=\"position:absolute;top:1514px;left:197px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-310\"><span class=\"trxml-206\">Veiligheid voor Operationeel Leidinggevenden</span> (Examen Bureau <span class=\"trxml-237\">Brabant</span>) + (<span class=\"trxml-231\">SBW</span></span>)\n</span></div><span class=\"trxml-15\">\n</span><div style=\"position:absolute;top:1530px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-311\"><span class=\"trxml-189\">2006</span>               \n</span></span></div><span class=\"trxml-15\"><span class=\"trxml-311\">\n</span></span><div style=\"position:absolute;top:1530px;left:197px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-311\"><span class=\"trxml-207\">RI&amp;E en Plan van Aanpak (Kwadraat</span>) (<span class=\"trxml-238\">Arbo Duo</span></span>)\n</span></div><span class=\"trxml-15\">\n</span><div style=\"position:absolute;top:1545px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-312\"><span class=\"trxml-190\">2005</span>               \n</span></span></div><span class=\"trxml-15\"><span class=\"trxml-312\">\n</span></span><div style=\"position:absolute;top:1545px;left:197px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-312\"><span class=\"trxml-208\">Preventiemedewerker (Kwadraat</span>) (<span class=\"trxml-239\">Arbo Duo</span></span>)\n</span></div><span class=\"trxml-15\">\n</span><div style=\"position:absolute;top:1560px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-313\"><span class=\"trxml-191\">2003</span>               \n</span></span></div><span class=\"trxml-15\"><span class=\"trxml-313\">\n</span></span><div style=\"position:absolute;top:1560px;left:197px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-313\"><span class=\"trxml-209\">Rekenen met RAW en UAV</span> (<span class=\"trxml-232\">CROW</span></span>)\n</span></div><span class=\"trxml-15\">\n</span><div style=\"position:absolute;top:1576px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-314\"><span class=\"trxml-192\">2001 + 1999</span>         \n</span></span></div><span class=\"trxml-15\"><span class=\"trxml-314\">\n</span></span><div style=\"position:absolute;top:1576px;left:197px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-314\"><span class=\"trxml-210\">Gww Calc <span class=\"trxml-296\">Windows</span></span> (<span class=\"trxml-240\"><span class=\"trxml-297\">KPD</span></span></span>)\n</span></div><span class=\"trxml-15\">\n</span><div style=\"position:absolute;top:1591px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-315\"><span class=\"trxml-193\">1998</span>               \n</span></span></div><span class=\"trxml-15\"><span class=\"trxml-315\">\n</span></span><div style=\"position:absolute;top:1591px;left:197px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-315\"><span class=\"trxml-211\">GWW Besteksadministratie <span class=\"trxml-298\">Windows</span></span> (<span class=\"trxml-241\">KPD Groep</span></span>)\n</span></div><span class=\"trxml-15\">\n</span><div style=\"position:absolute;top:1606px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-316\"><span class=\"trxml-194\">1998</span>               \n</span></span></div><span class=\"trxml-15\"><span class=\"trxml-316\">\n</span></span><div style=\"position:absolute;top:1606px;left:197px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-316\"><span class=\"trxml-212\">Basisveiligheid vca</span> (<span class=\"trxml-233\">SBW</span></span>)\n</span></div><span class=\"trxml-15\">\n</span><div style=\"position:absolute;top:1622px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-317\"><span class=\"trxml-195\">1997</span>               \n</span></span></div><span class=\"trxml-15\"><span class=\"trxml-317\">\n</span></span><div style=\"position:absolute;top:1622px;left:197px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-317\"><span class=\"trxml-213\">Bouwen</span> op <span class=\"trxml-242\">Arbo</span> (<span class=\"trxml-243\">Stichting Vakopleiding Bouwbedrijf</span></span>)\n</span></div><span class=\"trxml-15\">\n</span><div style=\"position:absolute;top:1637px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-318\"><span class=\"trxml-196\">1994</span>               \n</span></span></div><span class=\"trxml-15\"><span class=\"trxml-318\">\n</span></span><div style=\"position:absolute;top:1637px;left:197px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-318\"><span class=\"trxml-214\">RAW</span>- <span class=\"trxml-244\">systematiek voor aannemers</span> (<span class=\"trxml-234\">CROW</span></span>)\n</span></div><span class=\"trxml-15\">\n</span><div style=\"position:absolute;top:1652px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-319\"><span class=\"trxml-197\">1991 - 2000</span>          \n</span></span></div><span class=\"trxml-15\"><span class=\"trxml-319\">\n</span></span><div style=\"position:absolute;top:1652px;left:197px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-319\"><span class=\"trxml-215\"><span class=\"trxml-299\">Windows</span></span>, <span class=\"trxml-216\"><span class=\"trxml-266\">Word</span> en <span class=\"trxml-267\">Excel cursussen</span></span></span>\n</span></div><span class=\"trxml-15\">\n</span><div style=\"position:absolute;top:1668px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-320\">1991               \n</span></span></div><span class=\"trxml-15\"><span class=\"trxml-320\">\n</span></span><div style=\"position:absolute;top:1668px;left:197px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-320\"><span class=\"trxml-217\">Gebruik laserapparatuur</span> (<span class=\"trxml-235\">SBW</span></span>)\n</span></div><span class=\"trxml-15\">\n</span><div style=\"position:absolute;top:1683px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-321\"><span class=\"trxml-198\">1990</span>               \n</span></span></div><span class=\"trxml-15\"><span class=\"trxml-321\">\n</span></span><div style=\"position:absolute;top:1683px;left:197px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-321\"><span class=\"trxml-218\">Onderhoud klein materieel</span> (<span class=\"trxml-236\">SBW</span></span>)\n</span></div><span class=\"trxml-15\">\n</span><div style=\"position:absolute;top:1698px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-322\"><span class=\"trxml-199\">1986 - 1987</span>          \n</span></span></div><span class=\"trxml-15\"><span class=\"trxml-322\">\n</span></span><div style=\"position:absolute;top:1698px;left:197px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-15\"><span class=\"trxml-219\"><span class=\"trxml-322\">MEAO vak Nederlands</span></span></span></div>\n\n<div style=\"position:absolute;top:1745px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-17\">PROJECTEN</span></b></div><span class=\"trxml-17\">\n\n</span><div style=\"position:absolute;top:1777px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-17\">Gerealiseerde projecten:</span></b><span class=\"trxml-17\">\n</span></div><span class=\"trxml-17\">\n</span><div style=\"position:absolute;top:1793px;left:94px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-17\">●  \n</span></div><span class=\"trxml-17\">\n</span><div style=\"position:absolute;top:1793px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-17\">Bouw- en woonrijp maken Plan Hulzebraak fase 1, 2 en 3 te Schijndel\n</span></div><span class=\"trxml-17\">\n</span><div style=\"position:absolute;top:1809px;left:94px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-17\">●  \n</span></div><span class=\"trxml-17\">\n</span><div style=\"position:absolute;top:1809px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-17\">Bouw- en woonrijp maken Industrieterrein ”Duin” 2 en 3te Schijndel\n</span></div><span class=\"trxml-17\">\n</span><div style=\"position:absolute;top:1825px;left:94px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-17\">●  \n</span></div><span class=\"trxml-17\">\n</span><div style=\"position:absolute;top:1825px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-17\">Reconstructie riolering en verhardingen Boschweg/Hoofdstraat fase 1, 2 en 3 te Schijndel\n</span></div><span class=\"trxml-17\">\n</span><div style=\"position:absolute;top:1841px;left:94px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-17\">●  \n</span></div><span class=\"trxml-17\">\n</span><div style=\"position:absolute;top:1841px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-17\">Jaarlijks asfalt onderhoud koud- en warm asfalt Gemeente Best, Schijndel en Haaren\n</span></div><span class=\"trxml-17\">\n</span><div style=\"position:absolute;top:1858px;left:94px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-17\">●  \n</span></div><span class=\"trxml-17\">\n</span><div style=\"position:absolute;top:1858px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-17\">Oppervlakbehandelingen middels micro deklagen en slijtlagen gemeente Best en Schijndel\n</span></div><span class=\"trxml-17\">\n</span><div style=\"position:absolute;top:1874px;left:94px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-17\">●  \n</span></div><span class=\"trxml-17\">\n</span><div style=\"position:absolute;top:1874px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-17\">Reconstructie woonwijk omgeving Wilhelminaplein te Best\n</span></div><span class=\"trxml-17\">\n</span><div style=\"position:absolute;top:1890px;left:94px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-17\">●  \n</span></div><span class=\"trxml-17\">\n</span><div style=\"position:absolute;top:1890px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-17\">Reconstructie riolering en verhardingen diverse projecten te Vught\n</span></div><span class=\"trxml-17\">\n</span><div style=\"position:absolute;top:1907px;left:94px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-17\">●  \n</span></div><span class=\"trxml-17\">\n</span><div style=\"position:absolute;top:1907px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-17\">Onderhoud hoofdriolering en kolk- en huisaansluitingen gemeente Schijndel, Best, Haaren en Vught\n</span></div><span class=\"trxml-17\">\n</span><div style=\"position:absolute;top:1923px;left:94px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-17\">●  \n</span></div><span class=\"trxml-17\">\n</span><div style=\"position:absolute;top:1923px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-17\">Aanleg persriolering en plaatsen pompputten diverse plaatsen</span></div>\n\n<div style=\"position:absolute;top:1970px;left:73px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-19\"><span class=\"trxml-498\">CONTACTPERSONEN OPDRACHTGEVERS</span></span></b></div><span class=\"trxml-19\">\n\n</span><div style=\"position:absolute;top:2001px;left:72px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-19\">Naam en telefoonnummer contactpersoon bij opdrachtgever:</span></b><span class=\"trxml-19\">\n</span></div><span class=\"trxml-19\">\n</span><div style=\"position:absolute;top:2017px;left:101px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-19\">●  \n</span></div><span class=\"trxml-19\">\n</span><div style=\"position:absolute;top:2017px;left:125px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-19\">Gemeente Schijndel: <span class=\"trxml-499\">Dhr. Van der Lee of Dhr. Van Ravensteijn</span>, telefoon <span class=\"trxml-79\">073-54 40 999</span>\n</span></div><span class=\"trxml-19\">\n</span><div style=\"position:absolute;top:2033px;left:101px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-19\">●  \n</span></div><span class=\"trxml-19\">\n</span><div style=\"position:absolute;top:2033px;left:125px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-19\">Gemeente Best: Dhr. Oomen, telefoon <span class=\"trxml-80\">0499-360 911</span>\n</span></div><span class=\"trxml-19\">\n</span><div style=\"position:absolute;top:2050px;left:101px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-19\">●  \n</span></div><span class=\"trxml-19\">\n</span><div style=\"position:absolute;top:2050px;left:125px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-19\">Gemeente Haaren: Dhr. Clement, telefoon <span class=\"trxml-81\">0411-627 282</span>\n</span></div><span class=\"trxml-19\">\n</span><div style=\"position:absolute;top:2066px;left:101px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-19\">●  \n</span></div><span class=\"trxml-19\">\n</span><div style=\"position:absolute;top:2066px;left:125px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-19\">Gemeente Vught: Dhr. Van Schijndel, telefoon 14073</span></div>\n\n<div style=\"position:absolute;top:2113px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-21\">SPORT EN INTERESSES</span></b></div><span class=\"trxml-21\">\n\n</span><div style=\"position:absolute;top:2144px;left:65px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-21\">Sport en interesses:</span></b><span class=\"trxml-21\">\n</span></div><span class=\"trxml-21\">\n</span><div style=\"position:absolute;top:2160px;left:94px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-21\">●  \n</span></div><span class=\"trxml-21\">\n</span><div style=\"position:absolute;top:2160px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-21\"><span class=\"trxml-178\">Tennis</span>\n</span></div><span class=\"trxml-21\">\n</span><div style=\"position:absolute;top:2177px;left:94px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-21\">●  \n</span></div><span class=\"trxml-21\">\n</span><div style=\"position:absolute;top:2177px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-21\"><span class=\"trxml-179\">Sport Algemeen</span>\n</span></div><span class=\"trxml-21\">\n</span><div style=\"position:absolute;top:2193px;left:94px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-21\">●  \n</span></div><span class=\"trxml-21\">\n</span><div style=\"position:absolute;top:2193px;left:118px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-180\"><span class=\"trxml-21\">Techniek</span></span> </div>\n\n </div></div>",
+      "Performance": {
+         "PreProcessingTime": "1.324",
+         "ProcessingTime": "7.399",
+         "NormalizationTime": "1.174",
+         "TemplatingTime": "1.02",
+         "TotalTime": "10.917"
+      },
+      "_xmlns": "http://home.textkernel.nl/2013-08-01",
+      "_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "_lang": "dutch",
+      "_file": "/home/vanoort1/domains/eminentgroep.nl/public_html/crm/../uploads/efcv/5213410_Curriculum Vitae Chris van Hoek.pdf",
+      "_xsi:schemaLocation": "http://mx.textkernel.nl/xsd/tkprofile.xsd"
+   }
+}

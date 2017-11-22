@@ -1,0 +1,133 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 582,
+    "features": 2
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "PostgreSQL IBM Informix",
+      "relevance": 0.977396
+    },
+    {
+      "text": "Sinatra Django Rails",
+      "relevance": 0.904543
+    },
+    {
+      "text": "high-volume atmosphereRubyOnRails Python",
+      "relevance": 0.852106
+    },
+    {
+      "text": "IBM Informix database",
+      "relevance": 0.847463
+    },
+    {
+      "text": "output aggregate results",
+      "relevance": 0.818742
+    },
+    {
+      "text": "common web interface",
+      "relevance": 0.766502
+    },
+    {
+      "text": "RubyOnRails gem _Morsel_",
+      "relevance": 0.747669
+    },
+    {
+      "text": "high priority issues",
+      "relevance": 0.738939
+    },
+    {
+      "text": "JDBC client driver",
+      "relevance": 0.736691
+    },
+    {
+      "text": "active record trees",
+      "relevance": 0.717128
+    },
+    {
+      "text": "production database size",
+      "relevance": 0.705395
+    },
+    {
+      "text": "different datasets",
+      "relevance": 0.683763
+    },
+    {
+      "text": "new datasets",
+      "relevance": 0.678843
+    },
+    {
+      "text": "managing responsibilities",
+      "relevance": 0.603931
+    },
+    {
+      "text": "easy pluggability",
+      "relevance": 0.547537
+    },
+    {
+      "text": "old records",
+      "relevance": 0.524156
+    },
+    {
+      "text": "Apache",
+      "relevance": 0.358832
+    },
+    {
+      "text": "MySQL",
+      "relevance": 0.351391
+    },
+    {
+      "text": "JavaScript",
+      "relevance": 0.338547
+    },
+    {
+      "text": "C++",
+      "relevance": 0.338503
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Java",
+      "relevance": 0.949865,
+      "dbpedia_resource": "http://dbpedia.org/resource/Java_(programming_language)"
+    },
+    {
+      "text": "PHP",
+      "relevance": 0.887381,
+      "dbpedia_resource": "http://dbpedia.org/resource/PHP"
+    },
+    {
+      "text": "Informix",
+      "relevance": 0.6768,
+      "dbpedia_resource": "http://dbpedia.org/resource/Informix"
+    },
+    {
+      "text": "Object-oriented programming",
+      "relevance": 0.654943,
+      "dbpedia_resource": "http://dbpedia.org/resource/Object-oriented_programming"
+    },
+    {
+      "text": "Cross-platform",
+      "relevance": 0.62903,
+      "dbpedia_resource": "http://dbpedia.org/resource/Cross-platform"
+    },
+    {
+      "text": "C",
+      "relevance": 0.549556,
+      "dbpedia_resource": "http://dbpedia.org/resource/C_(programming_language)"
+    },
+    {
+      "text": "Web server",
+      "relevance": 0.513218,
+      "dbpedia_resource": "http://dbpedia.org/resource/Web_server"
+    },
+    {
+      "text": "IBM Informix",
+      "relevance": 0.508314,
+      "dbpedia_resource": "http://dbpedia.org/resource/IBM_Informix"
+    }
+  ],
+  "person": "Test"
+}

@@ -1,0 +1,125 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 565,
+    "features": 2
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "PostgreSQL IBM Informix",
+      "relevance": 0.99328
+    },
+    {
+      "text": "Sinatra Django Rails",
+      "relevance": 0.92453
+    },
+    {
+      "text": "IBM Informix database",
+      "relevance": 0.859708
+    },
+    {
+      "text": "output aggregate results",
+      "relevance": 0.838228
+    },
+    {
+      "text": "Python Java C++",
+      "relevance": 0.807304
+    },
+    {
+      "text": "common web interface",
+      "relevance": 0.786238
+    },
+    {
+      "text": "ruby gem _Morsel_",
+      "relevance": 0.78253
+    },
+    {
+      "text": "high priority issues",
+      "relevance": 0.756078
+    },
+    {
+      "text": "JDBC client driver",
+      "relevance": 0.753745
+    },
+    {
+      "text": "active record trees",
+      "relevance": 0.734776
+    },
+    {
+      "text": "production database size",
+      "relevance": 0.721008
+    },
+    {
+      "text": "different datasets",
+      "relevance": 0.692721
+    },
+    {
+      "text": "new datasets",
+      "relevance": 0.687686
+    },
+    {
+      "text": "managing responsibilities",
+      "relevance": 0.614774
+    },
+    {
+      "text": "easy pluggability",
+      "relevance": 0.557915
+    },
+    {
+      "text": "old records",
+      "relevance": 0.533554
+    },
+    {
+      "text": "Apache",
+      "relevance": 0.360257
+    },
+    {
+      "text": "MySQL",
+      "relevance": 0.352814
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Java",
+      "relevance": 0.970336,
+      "dbpedia_resource": "http://dbpedia.org/resource/Java_(programming_language)"
+    },
+    {
+      "text": "PHP",
+      "relevance": 0.903388,
+      "dbpedia_resource": "http://dbpedia.org/resource/PHP"
+    },
+    {
+      "text": "Object-oriented programming",
+      "relevance": 0.685738,
+      "dbpedia_resource": "http://dbpedia.org/resource/Object-oriented_programming"
+    },
+    {
+      "text": "Cross-platform",
+      "relevance": 0.683885,
+      "dbpedia_resource": "http://dbpedia.org/resource/Cross-platform"
+    },
+    {
+      "text": "Informix",
+      "relevance": 0.642114,
+      "dbpedia_resource": "http://dbpedia.org/resource/Informix"
+    },
+    {
+      "text": "C",
+      "relevance": 0.591023,
+      "dbpedia_resource": "http://dbpedia.org/resource/C_(programming_language)"
+    },
+    {
+      "text": "Class",
+      "relevance": 0.548313,
+      "dbpedia_resource": "http://dbpedia.org/resource/Class_(computer_science)"
+    },
+    {
+      "text": "Web server",
+      "relevance": 0.539967,
+      "dbpedia_resource": "http://dbpedia.org/resource/Web_server"
+    }
+  ],
+  "person": "Agarwal"
+}

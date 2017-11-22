@@ -1,0 +1,243 @@
+{
+    "Profile": {
+        "Personal": {
+            "Title": "",
+            "FirstName": "Peter",
+            "LastName": "Vrijkotte",
+            "DateOfBirth": "",
+            "NationalityCode": "",
+            "NationalityCodeDescription": "",
+            "GenderCode": "1",
+            "GenderCodeDescription": "Man",
+            "DriversLicence": "BE",
+            "MaritalStatusCode": "",
+            "MaritalStatusCodeDescription": "",
+            "Address": {
+                "StreetName": "Zwavertsweg",
+                "StreetNumberBase": "231",
+                "PostalCode": "7552 MK",
+                "City": "",
+                "RegionCode": "",
+                "RegionCodeDescription": "",
+                "CountryCode": "NL",
+                "CountryCodeDescription": "Nederland"
+            },
+            "MobilePhones": {
+                "MobilePhone": "0031(0)622747554"
+            },
+            "HomePhones": {
+                "HomePhone": ""
+            },
+            "Emails": {
+                "Email": "p_vrijkotte@hotmail.com"
+            },
+            "SocialMedia": {
+                "SocialMediaLink": {
+                    "SocialMediaURL": "",
+                    "SocialMediaType": ""
+                }
+            }
+        },
+        "EducationHistory": {
+            "EducationItem": [
+                {
+                    "EducationLevelCode": "1",
+                    "EducationLevelCodeDescription": "Voortgezet Onderwijs",
+                    "DegreeDirection": "Mavo",
+                    "StartDate": "1997-09-01",
+                    "EndDate": "2001-06-15",
+                    "InstituteName": "",
+                    "GradePointAverage": "",
+                    "DiplomaCode": "1",
+                    "DiplomaCodeDescription": "Ja"
+                },
+                {
+                    "EducationLevelCode": "7",
+                    "EducationLevelCodeDescription": "Cursus",
+                    "DegreeDirection": "Internationale groothandel",
+                    "StartDate": "2001-06-04",
+                    "EndDate": "2003-09-01",
+                    "InstituteName": "",
+                    "GradePointAverage": "",
+                    "DiplomaCode": "2",
+                    "DiplomaCodeDescription": "Nee"
+                },
+                {
+                    "EducationLevelCode": "7",
+                    "EducationLevelCodeDescription": "Cursus",
+                    "DegreeDirection": "Training klantgericht en commercieel handelen",
+                    "StartDate": "2001-09-10",
+                    "EndDate": "2001-11-06",
+                    "InstituteName": "",
+                    "GradePointAverage": "",
+                    "DiplomaCode": "4",
+                    "DiplomaCodeDescription": "Onbekend"
+                },
+                {
+                    "EducationLevelCode": "7",
+                    "EducationLevelCodeDescription": "Cursus",
+                    "DegreeDirection": "Monteur ( MSI)",
+                    "StartDate": "2011-06-01",
+                    "EndDate": "2012-07-31",
+                    "InstituteName": "",
+                    "GradePointAverage": "",
+                    "DiplomaCode": "1",
+                    "DiplomaCodeDescription": "Ja"
+                },
+                {
+                    "EducationLevelCode": "7",
+                    "EducationLevelCodeDescription": "Cursus",
+                    "DegreeDirection": "Monteur sterkstroom",
+                    "StartDate": "2014-02-06",
+                    "EndDate": "2015-07-31",
+                    "InstituteName": "1e",
+                    "GradePointAverage": "",
+                    "DiplomaCode": "1",
+                    "DiplomaCodeDescription": "Ja"
+                },
+                {
+                    "EducationLevelCode": "7",
+                    "EducationLevelCodeDescription": "Cursus",
+                    "DegreeDirection": "Installatiedeskundige Brandmeldinstallaties",
+                    "StartDate": "2016-03-09",
+                    "EndDate": "2016-03-29",
+                    "InstituteName": "",
+                    "GradePointAverage": "",
+                    "DiplomaCode": "4",
+                    "DiplomaCodeDescription": "Onbekend"
+                },
+                {
+                    "EducationLevelCode": "7",
+                    "EducationLevelCodeDescription": "Cursus",
+                    "DegreeDirection": "Vakbekwaam persoon, deelname",
+                    "StartDate": "",
+                    "EndDate": "2016-03-22",
+                    "InstituteName": "",
+                    "GradePointAverage": "",
+                    "DiplomaCode": "4",
+                    "DiplomaCodeDescription": "Onbekend"
+                },
+                {
+                    "EducationLevelCode": "7",
+                    "EducationLevelCodeDescription": "Cursus",
+                    "DegreeDirection": "Extra kwalificaties",
+                    "StartDate": "",
+                    "EndDate": "",
+                    "InstituteName": "",
+                    "GradePointAverage": "",
+                    "DiplomaCode": "4",
+                    "DiplomaCodeDescription": "Onbekend"
+                }
+            ]
+        },
+        "EmploymentHistory": {
+            "EmploymentItem": [
+                {
+                    "JobTitle": "",
+                    "StartDate": "2007-09-01",
+                    "EndDate": "2009-10-31",
+                    "ExperienceYears": "2",
+                    "EmployerName": "",
+                    "Description": "Bij Jongebloed installatietechniek gewerkt. Als monteur. In verband\n                met de recessie afscheid van elkaar moeten nemen."
+                },
+                {
+                    "JobTitle": "",
+                    "StartDate": "2009-11-01",
+                    "EndDate": "2010-10-31",
+                    "ExperienceYears": "1",
+                    "EmployerName": "",
+                    "Description": "Bij Pool koudetechniek gewerkt. Helaas was dit niet mijn                              vakgebied. En heb\nik na 1 jaar ontslag genomen."
+                },
+                {
+                    "JobTitle": "",
+                    "StartDate": "2010-11-01",
+                    "EndDate": "heden",
+                    "ExperienceYears": "6",
+                    "EmployerName": "",
+                    "Description": "Bij Lammerink installatie techniek. Tot op heden ben ik daar nog aan                        het werk."
+                }
+            ]
+        },
+        "Skills": {
+            "ComputerSkills": {
+                "ComputerSkill": {
+                    "ComputerSkillName": "",
+                    "ComputerSkillDuration": ""
+                }
+            },
+            "LanguageSkills": {
+                "LanguageSkill": [
+                    {
+                        "LanguageSkillCode": "NL",
+                        "LanguageSkillCodeDescription": "Nederlands",
+                        "LanguageProficiencyCode": "5",
+                        "LanguageProficiencyCodeDescription": "Bijna Moedertaalniveau"
+                    },
+                    {
+                        "LanguageSkillCode": "EN",
+                        "LanguageSkillCodeDescription": "Engels",
+                        "LanguageProficiencyCode": "4",
+                        "LanguageProficiencyCodeDescription": "Gevorderd"
+                    }
+                ]
+            },
+            "SoftSkills": {
+                "SoftSkill": {
+                    "SoftSkillName": ""
+                }
+            }
+        },
+        "Other": {
+            "Hobbies": {
+                "Hobby": ""
+            },
+            "References": {
+                "Reference": ""
+            }
+        },
+        "CustomArea": {
+            "CVTitle": "",
+            "TotalExperienceYears": "9",
+            "CurrentJob": "",
+            "CurrentEmployer": "",
+            "Last3Experiences": "",
+            "HighestEducationLevelCode": "1",
+            "HighestEducationLevelCodeDescription": "Voortgezet Onderwijs",
+            "SalaryCode": "",
+            "SalaryCodeDescription": "",
+            "CandidateStatusCode": "",
+            "CandidateStatusCodeDescription": "",
+            "AvailabilityCode": "",
+            "AvailabilityCodeDescription": "",
+            "CVComment": "",
+            "CandidatePermission": "",
+            "ExternalID": "",
+            "ProfilePicture": {
+                "Base64Content": "",
+                "Filename": "",
+                "ContentType": ""
+            },
+            "ExtraInfo": {
+                "TrxmlID": "98813796",
+                "ExtraInfo1": "",
+                "ExtraInfo2": "",
+                "ExtraInfo3": "",
+                "ExtraInfo4": ""
+            }
+        },
+        "DocumentText": "Persoonlijke gegevens\n\n\nPeter Vrijkotte\nZwavertsweg 231\n7552 MK Hengelo (ov)\n06-22747554\np_vrijkotte@hotmail.com\n\nBeroepservaring\n\nSinds            Tot\n\n 01-09-2007      31-10-2009      Bij Jongebloed installatietechniek gewerkt. Als monteur. In verband\n                      met de recessie afscheid van elkaar moeten nemen.\n\n01-11-2009      31-10-2010      Bij Pool koudetechniek gewerkt. Helaas was dit niet mijn                              vakgebied. En heb\nik na 1 jaar ontslag genomen.\n\n1-11-2010      Heden            Bij Lammerink installatie techniek. Tot op heden ben ik daar nog aan                        het werk.\n\nOpleidingen + Cursussen\n\nSinds                  Tot\n\n01-09-1997            15-06-2001            Mavo, behaald.\n\n04-06-2001            01-09-2003            Internationale groothandel, niet behaald.\n\n10-09-2001            06-11-2001            Training klantgericht en commercieel handelen.\n\n01-06-2011            31-07-2012            Monteur ( MSI) , behaald.\n\n06-02-2014            31-07-2015            1e Monteur sterkstroom, behaald.\n\n09-03-2016            29-03-2016            Installatiedeskundige Brandmeldinstallaties\n\n22-03-2016            22-03-2016            Vakbekwaam persoon, deelname\n\nExtra kwalificaties\n\nTalenkennis      Nederlands vloeiend. Duits redelijk. Engels goed.\nRijbewijzen      BE",
+        "DocumentHtml": "<div><div style=\"position: relative;\"><tk_metadata name=\"last_modified\" value=\"31/03/2016, 19:56\"> </tk_metadata><p> </p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;border-bottom-width:1pt;border-bottom-style:solid;\"><span style=\"font-family:&apos;Times New Roman&apos;;font-size:11pt;\"><b><span class=\"trxml-3\">Persoonlijke gegevens</span></b></span><span class=\"trxml-3\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n \n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Times New Roman&apos;;font-size:11pt;\"><span class=\"trxml-107\"><span class=\"trxml-3\"><span class=\"trxml-40\">Peter</span> Vrijkotte</span></span></span><span class=\"trxml-3\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Times New Roman&apos;;font-size:11pt;\"><span class=\"trxml-3\"><span class=\"trxml-43\">Zwavertsweg 231 </span></span></span><span class=\"trxml-3\"><span class=\"trxml-43\">\n</span></span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\"><span class=\"trxml-43\">\n</span></span><span style=\"font-family:&apos;Times New Roman&apos;;font-size:11pt;\"><span class=\"trxml-3\"><span class=\"trxml-43\">7552 MK</span> <span class=\"trxml-42\">Hengelo</span> (ov)</span></span><span class=\"trxml-3\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Times New Roman&apos;;font-size:11pt;\"><span class=\"trxml-3\"><span class=\"trxml-45\">06-22747554</span></span></span><span class=\"trxml-3\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#0000FF;\"><span class=\"trxml-3\">\n</span><a href=\"mailto:p_vrijkotte@hotmail.com\"><span style=\"font-family:&apos;Times New Roman&apos;;font-size:11pt;color:#0000ff;\"><u><span class=\"trxml-110\"><span class=\"trxml-3\">p_vrijkotte@hotmail.com</span></span></u></span></a>\n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#0000FF;\">\n </p>\n<p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n<span style=\"font-family:&apos;Times New Roman&apos;;font-size:11pt;color:#000000;\"><b><span class=\"trxml-5\">Beroepservaring</span></b></span><span class=\"trxml-5\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-5\">\n \n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-5\">\n</span><span style=\"font-family:&apos;Times New Roman&apos;;font-size:11pt;\"><b><span class=\"trxml-24\"><span class=\"trxml-5\">Sinds\t </span></span></b><span class=\"trxml-24\"><span class=\"trxml-5\">\t </span></span><b><span class=\"trxml-24\"><span class=\"trxml-5\">Tot</span></span></b><span class=\"trxml-24\"><span class=\"trxml-5\">\t </span></span></span><span class=\"trxml-24\"><span class=\"trxml-5\">\n</span></span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-24\"><span class=\"trxml-5\">\n \n</span></span></p><p style=\"margin-left:0.98in;text-indent:-0.98in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-24\"><span class=\"trxml-5\">\n</span></span><span style=\"font-family:&apos;Times New Roman&apos;;font-size:11pt;\"><span class=\"trxml-24\"><span class=\"trxml-5\"><span class=\"trxml-89\">01-09-2007\t 31-10-2009</span>\t <span class=\"trxml-92\">Bij Jongebloed installatietechniek gewerkt. Als monteur. In verband \n</span></span></span><span style=\"white-space:pre-wrap;\"><span class=\"trxml-24\"><span class=\"trxml-5\"><span class=\"trxml-92\"> </span></span></span></span><span class=\"trxml-24\"><span class=\"trxml-5\"><span class=\"trxml-92\">\n</span></span></span></span><span class=\"trxml-24\"><span class=\"trxml-5\"><span class=\"trxml-92\">\n</span></span></span></p><p style=\"margin-left:1.48in;text-indent:0.49in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-24\"><span class=\"trxml-5\"><span class=\"trxml-92\">\n</span></span></span><span style=\"font-family:&apos;Times New Roman&apos;;font-size:11pt;\"><span class=\"trxml-5\"><span class=\"trxml-24\"><span class=\"trxml-92\">met de recessie afscheid  van elkaar moeten nemen</span></span>.</span></span><span class=\"trxml-5\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-5\">\n</span><span style=\"font-family:&apos;Times New Roman&apos;;font-size:11pt;\"><span class=\"trxml-5\">\t \t </span></span><span class=\"trxml-5\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-5\">\n</span><span style=\"font-family:&apos;Times New Roman&apos;;font-size:11pt;\"><span class=\"trxml-5\"><span class=\"trxml-26\"><span class=\"trxml-90\">01-11-2009\t 31-10-2010</span>\t <span class=\"trxml-93\">Bij Pool koudetechniek gewerkt. Helaas was dit niet mijn \t \t \t \t \t vakgebied. En heb ik na 1 jaar</span> <span class=\"trxml-95\">ontslag genomen</span></span>.</span></span><span class=\"trxml-5\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-5\">\n \n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-5\">\n</span><span style=\"font-family:&apos;Times New Roman&apos;;font-size:11pt;\"><span class=\"trxml-28\"><span class=\"trxml-5\"><span class=\"trxml-91\">1-11-2010\t Heden</span>\t \t Bij Lammerink installatie techniek. Tot op heden ben ik daar nog <span class=\"trxml-94\">aan \t \t \t \t het werk</span></span></span>.</span>\n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n </p>\n<p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n<span style=\"font-family:&apos;Times New Roman&apos;;font-size:11pt;\"><b><span class=\"trxml-7\">Opleidingen + Cursussen</span></b></span><span class=\"trxml-7\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n </span></p><span class=\"trxml-7\">\n</span><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n</span><span style=\"font-family:&apos;Times New Roman&apos;;font-size:11pt;\"><b><span class=\"trxml-7\"><span class=\"trxml-96\"><span class=\"trxml-47\">Sinds</span> \t \t \t Tot</span></span></b></span><span class=\"trxml-7\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n \n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n</span><span style=\"font-family:&apos;Times New Roman&apos;;font-size:11pt;\"><span class=\"trxml-7\"><span class=\"trxml-97\"><span class=\"trxml-48\">01-09-1997</span>\t \t <span class=\"trxml-49\">15-06-2001</span>\t \t <span class=\"trxml-58\">Mavo</span>, <span class=\"trxml-70\">behaald</span></span>.</span></span><span class=\"trxml-7\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n \n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n</span><span style=\"font-family:&apos;Times New Roman&apos;;font-size:11pt;\"><span class=\"trxml-7\"><span class=\"trxml-98\"><span class=\"trxml-50\">04-06-2001\t \t 01-09-2003</span>\t \t <span class=\"trxml-59\">Internationale groothandel</span>, <span class=\"trxml-71\">niet behaald</span></span>.</span></span><span class=\"trxml-7\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n \n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n</span><span style=\"font-family:&apos;Times New Roman&apos;;font-size:11pt;\"><span class=\"trxml-7\"><span class=\"trxml-99\"><span class=\"trxml-51\">10-09-2001\t \t 06-11-2001</span>\t \t <span class=\"trxml-60\">Training klantgericht en commercieel handelen</span></span>.</span></span><span class=\"trxml-7\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n \n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n</span><span style=\"font-family:&apos;Times New Roman&apos;;font-size:11pt;\"><span class=\"trxml-7\"><span class=\"trxml-100\"><span class=\"trxml-52\">01-06-2011\t \t 31-07-2012</span>\t \t <span class=\"trxml-61\">Monteur ( MSI</span>) , <span class=\"trxml-72\">behaald</span></span>.</span></span><span class=\"trxml-7\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n \n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n</span><span style=\"font-family:&apos;Times New Roman&apos;;font-size:11pt;\"><span class=\"trxml-101\"><span class=\"trxml-7\"><span class=\"trxml-53\">06-02-2014\t \t 31-07-2015</span>\t \t <span class=\"trxml-74\">1</span></span></span><sup><span class=\"trxml-101\"><span class=\"trxml-7\"><span class=\"trxml-74\">e</span></span></span></sup><span class=\"trxml-7\"><span class=\"trxml-101\"> <span class=\"trxml-62\">Monteur sterkstroom</span>, <span class=\"trxml-73\">behaald</span></span>.</span></span><span class=\"trxml-7\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n \n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n</span><span style=\"font-family:&apos;Times New Roman&apos;;font-size:11pt;\"><span class=\"trxml-102\"><span class=\"trxml-7\"><span class=\"trxml-54\">09-03-2016</span>\t \t <span class=\"trxml-55\">29-03-2016</span>\t \t <span class=\"trxml-63\">Installatiedeskundige Brandmeldinstallaties</span></span></span></span><span class=\"trxml-7\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n \n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n</span><span style=\"font-family:&apos;Times New Roman&apos;;font-size:11pt;\"><span class=\"trxml-7\"><span class=\"trxml-103\"><span class=\"trxml-56\">22-03-2016\t \t 22-03-2016</span>\t \t <span class=\"trxml-64\">Vakbekwaam persoon, deelname</span></span> </span></span><span class=\"trxml-7\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n </span></p><span class=\"trxml-7\">\n</span><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n</span><span style=\"font-family:&apos;Times New Roman&apos;;font-size:11pt;\"><b><span class=\"trxml-104\"><span class=\"trxml-65\"><span class=\"trxml-7\">Extra kwalificaties</span></span></span></b></span>\n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n \n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n<span style=\"font-family:&apos;Times New Roman&apos;;font-size:11pt;\"><span class=\"trxml-9\">Talenkennis\t <span class=\"trxml-29\">Nederlands</span> <span class=\"trxml-31\">vloeiend</span>. Duits redelijk. <span class=\"trxml-30\">Engels</span> <span class=\"trxml-33\">goed</span>.</span></span><span class=\"trxml-9\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-9\">\n</span><span style=\"font-family:&apos;Times New Roman&apos;;font-size:11pt;\"><span class=\"trxml-9\">Rijbewijzen\t <span class=\"trxml-36\">BE</span></span></span></p>\n </div></div>",
+        "Performance": {
+            "PreProcessingTime": "0.182",
+            "ProcessingTime": "1.333",
+            "NormalizationTime": "0.0",
+            "TemplatingTime": "0.839",
+            "TotalTime": "2.354"
+        },
+        "_xmlns": "http://home.textkernel.nl/2013-08-01",
+        "_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "_lang": "dutch",
+        "_file": "uploaded_file",
+        "_xsi:schemaLocation": "http://mx.textkernel.nl/xsd/tkprofile.xsd"
+    }
+}

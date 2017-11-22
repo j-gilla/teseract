@@ -1,0 +1,265 @@
+{
+   "Profile": {
+      "Personal": {
+         "Title": "",
+         "FirstName": "Yeffrey",
+         "LastName": "Sondaar",
+         "DateOfBirth": "1971-12-10",
+         "NationalityCode": "",
+         "NationalityCodeDescription": "",
+         "GenderCode": "0",
+         "GenderCodeDescription": "Onbekend",
+         "DriversLicence": "B",
+         "MaritalStatusCode": "",
+         "MaritalStatusCodeDescription": "",
+         "Address": {
+            "StreetName": "Klokkengieterlaan",
+            "StreetNumberBase": "80",
+            "PostalCode": "8043 BT",
+            "City": "Zwolle",
+            "RegionCode": "NL-OV",
+            "RegionCodeDescription": "NL Overijssel",
+            "CountryCode": "NL",
+            "CountryCodeDescription": "Nederland"
+         },
+         "MobilePhones": {
+            "MobilePhone": ""
+         },
+         "HomePhones": {
+            "HomePhone": [
+               "0031(0)387851525",
+               "0031(0)387851188"
+            ]
+         },
+         "Emails": {
+            "Email": "starkwark11@hotmail.com"
+         },
+         "SocialMedia": {
+            "SocialMediaLink": {
+               "SocialMediaURL": "",
+               "SocialMediaType": ""
+            }
+         }
+      },
+      "EducationHistory": {
+         "EducationItem": [
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "interne cursus Kone Starlift",
+               "StartDate": "",
+               "EndDate": "1993-06-30",
+               "InstituteName": "Liftmonteur",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "Kone Starlift",
+               "StartDate": "",
+               "EndDate": "1993-06-30",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "VCA cursus",
+               "StartDate": "",
+               "EndDate": "2009-06-30",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "2",
+               "EducationLevelCodeDescription": "Beroepsonderwijs",
+               "DegreeDirection": "Middelbare detailhandel",
+               "StartDate": "1989-09-01",
+               "EndDate": "1991-06-30",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "1",
+               "EducationLevelCodeDescription": "Voortgezet Onderwijs",
+               "DegreeDirection": "Mavo",
+               "StartDate": "1983-09-01",
+               "EndDate": "1988-06-30",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "1",
+               "DiplomaCodeDescription": "Ja"
+            }
+         ]
+      },
+      "EmploymentHistory": {
+         "EmploymentItem": [
+            {
+               "JobTitle": "",
+               "StartDate": "2010-01-01",
+               "EndDate": "2013-12-31",
+               "ExperienceYears": "4",
+               "EmployerName": "",
+               "Description": "Verschillende uitzendbureaus, Allright uitzendbureau en Getwork Heerde waarvan ik gedetacheerd ben\nnaar verschillende projecten in de liftenbouw, stratenmaken, montage en heb daarbij meegenomen deze\nvaardigheden het bouwen en afstellen van (stalen) leiderconstructies ,\nkooiconstructies(stalen,aliminium,buis,frame),staalkabels, plaatsen van leidwielen(in schachten cq\nbuiten), electrisch klaarmaken van machine kamers,schachten,besturingen, motoren,\nverlichting,brandalarmen, pc besturingstechniek\nDe materialen waar ik mee gewerkt heb is van 10 kwadraat kabel trekken en aansluiten tot chemische\nankers en sleutelen, slijpen, sjouwen,takelen,opperen,lassen, boren, tappen,bouwputten,koper,\nrvs,hout, pvc,asbest,daken, ventilatie enz."
+            },
+            {
+               "JobTitle": "Liftmonteur",
+               "StartDate": "2008-01-01",
+               "EndDate": "2010-01-01",
+               "ExperienceYears": "2",
+               "EmployerName": "Skylift",
+               "Description": ",maken, repareren,renoveren van liften"
+            },
+            {
+               "JobTitle": "",
+               "StartDate": "2005-01-01",
+               "EndDate": "2008-01-01",
+               "ExperienceYears": "3",
+               "EmployerName": "ADS Laminair",
+               "Description": ", werkzaamheden installatie, reparati en onderhoud van filter\nTechniek voor labaratoria en hospitaals tevens het coordineren en begeleiden van medewerkers"
+            },
+            {
+               "JobTitle": "Liftmonteur",
+               "StartDate": "1993-01-01",
+               "EndDate": "1997-12-31",
+               "ExperienceYears": "5",
+               "EmployerName": "Isralift bouwen",
+               "Description": ", verplaatsen, repareren, demonteren van lift installaties\nLiftmonteur bij kone starlift ,plaatsen,repareren, demonteren en service aan liften."
+            }
+         ]
+      },
+      "Skills": {
+         "ComputerSkills": {
+            "ComputerSkill": [
+               {
+                  "ComputerSkillName": "ubuntu",
+                  "ComputerSkillDuration": ""
+               },
+               {
+                  "ComputerSkillName": "windows 98'/XP, 7",
+                  "ComputerSkillDuration": ""
+               }
+            ]
+         },
+         "LanguageSkills": {
+            "LanguageSkill": [
+               {
+                  "LanguageSkillCode": "NL",
+                  "LanguageSkillCodeDescription": "Nederlands",
+                  "LanguageProficiencyCode": "5",
+                  "LanguageProficiencyCodeDescription": "Bijna Moedertaalniveau"
+               },
+               {
+                  "LanguageSkillCode": "EN",
+                  "LanguageSkillCodeDescription": "Engels",
+                  "LanguageProficiencyCode": "",
+                  "LanguageProficiencyCodeDescription": ""
+               },
+               {
+                  "LanguageSkillCode": "DE",
+                  "LanguageSkillCodeDescription": "Duits",
+                  "LanguageProficiencyCode": "",
+                  "LanguageProficiencyCodeDescription": ""
+               },
+               {
+                  "LanguageSkillCode": "HE",
+                  "LanguageSkillCodeDescription": "Hebreeuws",
+                  "LanguageProficiencyCode": "",
+                  "LanguageProficiencyCodeDescription": ""
+               }
+            ]
+         },
+         "SoftSkills": {
+            "SoftSkill": [
+               {
+                  "SoftSkillName": "Persoonlijke eigenschappen"
+               },
+               {
+                  "SoftSkillName": "Hardwerkend"
+               },
+               {
+                  "SoftSkillName": "eerlijk"
+               },
+               {
+                  "SoftSkillName": "zelfstandig"
+               },
+               {
+                  "SoftSkillName": "nauwkeurig"
+               },
+               {
+                  "SoftSkillName": "direct"
+               },
+               {
+                  "SoftSkillName": "collegiaal"
+               }
+            ]
+         }
+      },
+      "Other": {
+         "Hobbies": {
+            "Hobby": [
+               "sleutelen",
+               "Pc kennis bouwen",
+               "installeren",
+               "repareren",
+               "moderniseren van terminals met xp"
+            ]
+         },
+         "References": {
+            "Reference": ""
+         }
+      },
+      "CustomArea": {
+         "CVTitle": "",
+         "TotalExperienceYears": "14",
+         "CurrentJob": "Liftmonteur",
+         "CurrentEmployer": "",
+         "Last3Experiences": "Liftmonteur, Liftmonteur",
+         "HighestEducationLevelCode": "1",
+         "HighestEducationLevelCodeDescription": "Voortgezet Onderwijs",
+         "SalaryCode": "",
+         "SalaryCodeDescription": "",
+         "CandidateStatusCode": "",
+         "CandidateStatusCodeDescription": "",
+         "AvailabilityCode": "",
+         "AvailabilityCodeDescription": "",
+         "CVComment": "",
+         "CandidatePermission": "",
+         "ExternalID": "",
+         "ProfilePicture": {
+            "Base64Content": "",
+            "Filename": "",
+            "ContentType": ""
+         },
+         "ExtraInfo": {
+            "TrxmlID": "101757765",
+            "ExtraInfo1": "",
+            "ExtraInfo2": "",
+            "ExtraInfo3": "",
+            "ExtraInfo4": ""
+         }
+      },
+      "DocumentText": "Curriculum Vitea\n\nPersoonlijke gegevens\nNaam: Sondaar\nVoornaam: Yeffrey\nGeboortedatum: 10 December 1971\nGeboorteplaats: Harderwijk\nAdres: Klokkengieterlaan 80\nWoonplaats: 8043BT Zwolle\nTelefoon: 0387851525/0387851188\nE-mail: starkwark11@hotmail.com\n\nCursussen\nIn 1993 interne cursus Kone Starlift: Liftmonteur\nIn 1993 cursus Kone Starlift: Electrisch schakelen\nVCA cursus 2009\n\nOpleiding\n1989-1991\nMiddelbare detailhandel\n1983-1988\nMavo -diploma 1988\nVakken: Nederlands, Engels,Natuurkunde,Scheikunde,Economie,Aarderijkskunde\n\n\n\nWerkervaring\n2010-2013\nVerschillende uitzendbureaus, Allright uitzendbureau en Getwork Heerde waarvan ik gedetacheerd ben\nnaar verschillende projecten in de liftenbouw, stratenmaken, montage en heb daarbij meegenomen deze\nvaardigheden het bouwen en afstellen van (stalen) leiderconstructies ,\nkooiconstructies(stalen,aliminium,buis,frame),staalkabels, plaatsen van leidwielen(in schachten cq\nbuiten), electrisch klaarmaken van machine kamers,schachten,besturingen, motoren,\nverlichting,brandalarmen, pc besturingstechniek\nDe materialen waar ik mee gewerkt heb is van 10 kwadraat kabel trekken en aansluiten tot chemische\nankers en sleutelen, slijpen, sjouwen,takelen,opperen,lassen, boren, tappen,bouwputten,koper,\nrvs,hout, pvc,asbest,daken, ventilatie enz.\n2008-2010\nLiftmonteur bij Skylift te Barneveld,maken, repareren,renoveren van liften\n2005-2008\nPloegbaas bij ADS Laminair in Israel, werkzaamheden installatie, reparati en onderhoud van filter\nTechniek voor labaratoria en hospitaals tevens het coordineren en begeleiden van medewerkers\n1998-2005\nLiftmonteur bij Isralift bouwen, verplaatsen, repareren, demonteren van lift installaties\n1993-1997\nLiftmonteur bij kone starlift ,plaatsen,repareren, demonteren en service aan liften.\nMotivatie\nPersoonlijke eigenschappen\nHardwerkend, eerlijk, zelfstandig, nauwkeurig, direct,collegiaal\nPc kennis bouwen, installeren,repareren, moderniseren van terminals met xp,ubuntu,windows 98'/XP, 7\nen 8, linux.\nIn bezit van rijbewijs B en spreekt vloeiend Nederlands, Engels, Duits, Hebreeuws",
+      "DocumentHtml": "<div><div style=\"position: relative;\"><tk_metadata name=\"last_modified\" value=\"26/05/2013, 12:21\"> </tk_metadata><p> </p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\">\n<span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\">Curriculum Vitea</span>\n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\">\n \n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\">\n<span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-3\">Persoonlijke gegevens</span></span><span class=\"trxml-3\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-3\">Naam: <span class=\"trxml-223\">Sondaar</span></span></span><span class=\"trxml-3\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-3\">Voornaam: <span class=\"trxml-224\"><span class=\"trxml-48\">Yeffrey</span></span></span></span><span class=\"trxml-3\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-3\">Geboortedatum: <span class=\"trxml-57\">10 December 1971</span></span></span><span class=\"trxml-3\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-3\">Geboorteplaats: <span class=\"trxml-52\">Harderwijk</span></span></span><span class=\"trxml-3\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-3\">Adres: <span class=\"trxml-55\">Klokkengieterlaan 80</span></span></span><span class=\"trxml-3\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-3\">Woonplaats: <span class=\"trxml-56\">8043BT Zwolle</span></span></span><span class=\"trxml-3\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-3\">Telefoon: <span class=\"trxml-58\">0387851525/0387851188</span></span></span><span class=\"trxml-3\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-3\">E-mail: <span class=\"trxml-228\">starkwark11@hotmail.com</span></span></span>\n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\">\n \n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\">\n<span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-5\">Cursussen</span></span><span class=\"trxml-5\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\"><span class=\"trxml-5\">\n</span><span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-140\"><span class=\"trxml-5\"><span class=\"trxml-65\">In 1993</span> <span class=\"trxml-68\">interne cursus Kone Starlift</span>: <span class=\"trxml-74\">Liftmonteur</span></span></span></span><span class=\"trxml-5\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\"><span class=\"trxml-5\">\n</span><span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-141\"><span class=\"trxml-5\"><span class=\"trxml-66\">In 1993</span> cursus <span class=\"trxml-69\">Kone Starlift</span>: <span class=\"trxml-73\">Electrisch schakelen</span></span></span></span><span class=\"trxml-5\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\"><span class=\"trxml-5\">\n</span><span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-142\"><span class=\"trxml-5\"><span class=\"trxml-70\">VCA cursus</span> <span class=\"trxml-67\">2009</span></span></span></span>\n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\">\n \n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\">\n<span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-7\">Opleiding</span></span><span class=\"trxml-7\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\"><span class=\"trxml-7\">\n</span><span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-112\"><span class=\"trxml-143\"><span class=\"trxml-7\">1989-1991</span></span></span></span><span class=\"trxml-143\"><span class=\"trxml-7\">\n</span></span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\"><span class=\"trxml-143\"><span class=\"trxml-7\">\n</span></span><span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-115\"><span class=\"trxml-143\"><span class=\"trxml-7\">Middelbare detailhandel</span></span></span></span><span class=\"trxml-7\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\"><span class=\"trxml-7\">\n</span><span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-113\"><span class=\"trxml-144\"><span class=\"trxml-7\">1983-1988</span></span></span></span><span class=\"trxml-144\"><span class=\"trxml-7\">\n</span></span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\"><span class=\"trxml-144\"><span class=\"trxml-7\">\n</span></span><span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-144\"><span class=\"trxml-7\"><span class=\"trxml-116\">Mavo</span> –<span class=\"trxml-120\">diploma</span> <span class=\"trxml-117\">1988</span></span></span></span><span class=\"trxml-144\"><span class=\"trxml-7\">\n</span></span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\"><span class=\"trxml-144\"><span class=\"trxml-7\">\n</span></span><span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-144\"><span class=\"trxml-7\">Vakken: <span class=\"trxml-114\">Nederlands, Engels,Natuurkunde,Scheikunde,Economie,Aarderijkskunde</span></span></span></span>\n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\">\n \n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\">\n \n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\">\n \n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\">\n<span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-9\">Werkervaring</span></span><span class=\"trxml-9\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\"><span class=\"trxml-9\">\n</span><span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-124\"><span class=\"trxml-43\"><span class=\"trxml-9\">2010-2013</span></span></span></span><span class=\"trxml-43\"><span class=\"trxml-9\">\n</span></span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\"><span class=\"trxml-43\"><span class=\"trxml-9\">\n</span></span><span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-43\"><span class=\"trxml-9\">Verschillende uitzendbureaus, Allright uitzendbureau en Getwork Heerde waarvan ik gedetacheerd ben naar  verschillende projecten in de liftenbouw, stratenmaken, montage en heb <span class=\"trxml-135\">daarbij  meegenomen deze vaardigheden het bouwen en afstellen van (stalen) leiderconstructies , kooiconstructies(stalen,aliminium,buis,frame),staalkabels, plaatsen van leidwielen(in schachten cq buiten), electrisch klaarmaken van machine kamers,schachten,besturingen, motoren, verlichting,brandalarmen, pc besturingstechniek </span></span></span></span><span class=\"trxml-135\"><span class=\"trxml-43\"><span class=\"trxml-9\">\n</span></span></span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\"><span class=\"trxml-135\"><span class=\"trxml-43\"><span class=\"trxml-9\">\n</span></span></span><span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-9\"><span class=\"trxml-135\"><span class=\"trxml-43\">De materialen waar ik mee gewerkt heb is van 10 kwadraat kabel trekken en aansluiten tot chemische ankers en <span class=\"trxml-231\">sleutelen</span>, slijpen, sjouwen,takelen,opperen,lassen, boren, tappen,bouwputten,koper, rvs,hout, pvc,asbest,daken, ventilatie enz</span></span>.</span></span><span class=\"trxml-9\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\"><span class=\"trxml-9\">\n</span><span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-125\"><span class=\"trxml-44\"><span class=\"trxml-9\">2008-2010</span></span></span></span><span class=\"trxml-44\"><span class=\"trxml-9\">\n</span></span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\"><span class=\"trxml-44\"><span class=\"trxml-9\">\n</span></span><span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-44\"><span class=\"trxml-9\"><span class=\"trxml-129\">Liftmonteur</span> bij <span class=\"trxml-132\">Skylift te Barneveld</span>,<span class=\"trxml-136\">maken, repareren,renoveren van liften</span></span></span></span><span class=\"trxml-9\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\"><span class=\"trxml-9\">\n</span><span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-126\"><span class=\"trxml-45\"><span class=\"trxml-9\">2005-2008</span></span></span></span><span class=\"trxml-45\"><span class=\"trxml-9\">\n</span></span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\"><span class=\"trxml-45\"><span class=\"trxml-9\">\n</span></span><span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-45\"><span class=\"trxml-9\">Ploegbaas bij <span class=\"trxml-133\">ADS Laminair in Israel</span>, <span class=\"trxml-137\">werkzaamheden installatie, reparati en onderhoud van filter </span></span></span></span><span class=\"trxml-137\"><span class=\"trxml-45\"><span class=\"trxml-9\">\n</span></span></span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\"><span class=\"trxml-137\"><span class=\"trxml-45\"><span class=\"trxml-9\">\n</span></span></span><span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-137\"><span class=\"trxml-45\"><span class=\"trxml-9\">Techniek voor labaratoria en hospitaals tevens het coordineren en begeleiden van medewerkers</span></span></span></span><span class=\"trxml-9\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\"><span class=\"trxml-9\">\n</span><span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-9\">1998-2005</span></span><span class=\"trxml-9\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\"><span class=\"trxml-9\">\n</span><span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-47\"><span class=\"trxml-9\"><span class=\"trxml-130\">Liftmonteur</span> bij <span class=\"trxml-134\">Isralift bouwen</span>,  <span class=\"trxml-138\">verplaatsen, repareren, demonteren van lift installaties</span></span></span></span><span class=\"trxml-47\"><span class=\"trxml-9\">\n</span></span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\"><span class=\"trxml-47\"><span class=\"trxml-9\">\n</span></span><span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-128\"><span class=\"trxml-47\"><span class=\"trxml-9\">1993-1997</span></span></span></span><span class=\"trxml-47\"><span class=\"trxml-9\">\n</span></span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\"><span class=\"trxml-47\"><span class=\"trxml-9\">\n</span></span><span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-47\"><span class=\"trxml-9\"><span class=\"trxml-131\">Liftmonteur</span> bij <span class=\"trxml-139\">kone starlift ,plaatsen,repareren, demonteren en service aan liften</span></span></span>.</span>\n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\">\n<span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-10\">Motivatie </span></span><span class=\"trxml-10\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\"><span class=\"trxml-10\">\n</span><span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-10\"><span class=\"trxml-97\">Persoonlijke eigenschappen</span></span></span><span class=\"trxml-10\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\"><span class=\"trxml-10\">\n</span><span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-10\"><span class=\"trxml-98\">Hardwerkend</span>, <span class=\"trxml-99\">eerlijk</span>, <span class=\"trxml-100\">zelfstandig</span>, <span class=\"trxml-101\">nauwkeurig</span>, <span class=\"trxml-102\">direct</span>,<span class=\"trxml-103\">collegiaal</span></span></span><span class=\"trxml-10\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\"><span class=\"trxml-10\">\n</span><span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-10\"><span class=\"trxml-88\">Pc kennis bouwen</span>, <span class=\"trxml-89\">installeren</span>,<span class=\"trxml-90\">repareren</span>,  <span class=\"trxml-91\">moderniseren van terminals met xp</span>,<span class=\"trxml-104\">ubuntu</span>,<span class=\"trxml-105\">windows 98’/XP, 7</span> en 8, linux.</span></span><span class=\"trxml-10\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\"><span class=\"trxml-10\">\n</span><span style=\"font-family:&apos;Calibri&apos;;font-size:11pt;\"><span class=\"trxml-10\">In bezit van rijbewijs <span class=\"trxml-240\">B</span> en spreekt <span class=\"trxml-87\">vloeiend</span> <span class=\"trxml-80\">Nederlands</span>, <span class=\"trxml-81\">Engels</span>, <span class=\"trxml-82\">Duits</span>, <span class=\"trxml-83\">Hebreeuws</span></span></span>\n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\">\n \n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\">\n \n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.14in;\">\n </p>\n </div></div>",
+      "Performance": {
+         "PreProcessingTime": "0.2",
+         "ProcessingTime": "1.501",
+         "NormalizationTime": "0.0",
+         "TemplatingTime": "0.306",
+         "TotalTime": "2.0069999999999997"
+      },
+      "_xmlns": "http://home.textkernel.nl/2013-08-01",
+      "_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "_lang": "dutch",
+      "_file": "uploaded_file",
+      "_xsi:schemaLocation": "http://mx.textkernel.nl/xsd/tkprofile.xsd"
+   }
+}

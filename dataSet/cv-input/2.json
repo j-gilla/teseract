@@ -1,0 +1,424 @@
+{
+   "Profile": {
+      "Personal": {
+         "Title": "",
+         "FirstName": "Maikel",
+         "LastName": "Lindsen",
+         "DateOfBirth": "1972-05-15",
+         "NationalityCode": "",
+         "NationalityCodeDescription": "",
+         "GenderCode": "0",
+         "GenderCodeDescription": "Onbekend",
+         "DriversLicence": "B.",
+         "MaritalStatusCode": "1",
+         "MaritalStatusCodeDescription": "Getrouwd",
+         "Address": {
+            "StreetName": "Tjasker",
+            "StreetNumberBase": "18",
+            "PostalCode": "4007 RN",
+            "City": "Tiel",
+            "RegionCode": "NL-GE",
+            "RegionCodeDescription": "NL Gelderland",
+            "CountryCode": "NL",
+            "CountryCodeDescription": "Nederland"
+         },
+         "MobilePhones": {
+            "MobilePhone": "0031(0)615956670"
+         },
+         "HomePhones": {
+            "HomePhone": "0031(0)344614822"
+         },
+         "Emails": {
+            "Email": "m.lindsen@index4u.nl"
+         },
+         "SocialMedia": {
+            "SocialMediaLink": {
+               "SocialMediaURL": "",
+               "SocialMediaType": ""
+            }
+         }
+      },
+      "EducationHistory": {
+         "EducationItem": [
+            {
+               "EducationLevelCode": "1",
+               "EducationLevelCodeDescription": "Voortgezet Onderwijs",
+               "DegreeDirection": "M.A.V.O",
+               "StartDate": "",
+               "EndDate": "1989-06-30",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "1",
+               "DiplomaCodeDescription": "Ja"
+            },
+            {
+               "EducationLevelCode": "1",
+               "EducationLevelCodeDescription": "Voortgezet Onderwijs",
+               "DegreeDirection": "M.T.S. Werktuigbouwkunde",
+               "StartDate": "",
+               "EndDate": "1993-06-30",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "1",
+               "DiplomaCodeDescription": "Ja"
+            },
+            {
+               "EducationLevelCode": "2",
+               "EducationLevelCodeDescription": "Beroepsonderwijs",
+               "DegreeDirection": "S.O.I. Diploma Service Monteur cv; Service Technicus cv; R.O.V.C",
+               "StartDate": "",
+               "EndDate": "1997-06-30",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "N.B.B.E. Bedrijfs Hulp Verlening",
+               "StartDate": "",
+               "EndDate": "",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "reanimatie en AED",
+               "StartDate": "",
+               "EndDate": "",
+               "InstituteName": "Van den Boom Basale",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "1",
+               "EducationLevelCodeDescription": "Voortgezet Onderwijs",
+               "DegreeDirection": "S.V.H. Diploma Sociale",
+               "StartDate": "",
+               "EndDate": "2000-06-30",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "4",
+               "EducationLevelCodeDescription": "HBO/Bachelor",
+               "DegreeDirection": "SKO; Post-HBO keramiek Cum-Laude",
+               "StartDate": "",
+               "EndDate": "2006-06-30",
+               "InstituteName": "Fontys",
+               "GradePointAverage": "",
+               "DiplomaCode": "1",
+               "DiplomaCodeDescription": "Ja"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "Huisman PLC opfris cursus siemens S5 & S7",
+               "StartDate": "",
+               "EndDate": "",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "Opfris cursus service monteur koeltechniek",
+               "StartDate": "",
+               "EndDate": "",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "CenterView Veiligheid voor Operationeel Leidinggevenden, VCA",
+               "StartDate": "",
+               "EndDate": "",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "Wienerberger Interne cursus OEE; introductie training GMP voor technisch ondersteunende diensten; Commerciële training 4 dagen",
+               "StartDate": "",
+               "EndDate": "",
+               "InstituteName": "Kenneth Smith",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "7",
+               "EducationLevelCodeDescription": "Cursus",
+               "DegreeDirection": "ICM Effectief beïnvloeden 3 dagen",
+               "StartDate": "",
+               "EndDate": "",
+               "InstituteName": "",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            },
+            {
+               "EducationLevelCode": "4",
+               "EducationLevelCodeDescription": "HBO/Bachelor",
+               "DegreeDirection": "Veraart Werkend Ontwikkelen Persoonlijk coachingstraject; Technische Bedrijfskunde; bezig",
+               "StartDate": "",
+               "EndDate": "heden",
+               "InstituteName": "Hogeschool Utrecht",
+               "GradePointAverage": "",
+               "DiplomaCode": "4",
+               "DiplomaCodeDescription": "Onbekend"
+            }
+         ]
+      },
+      "EmploymentHistory": {
+         "EmploymentItem": [
+            {
+               "JobTitle": "",
+               "StartDate": "1994-08-01",
+               "EndDate": "",
+               "ExperienceYears": "0",
+               "EmployerName": "Ziekenhuis Rivierenland Tiel",
+               "Description": "als onderhoudstechnicus\n      tot            Hier was ik oa verantwoordelijk voor de technische en medische gassen, de apparatuur\n      Nov 1996      van de CSA en de bedpan spoelers op de afdelingen"
+            },
+            {
+               "JobTitle": "service technicus cv/lb",
+               "StartDate": "1996-11-01",
+               "EndDate": "",
+               "ExperienceYears": "0",
+               "EmployerName": "GDW van Harn",
+               "Description": "tot            Naast de installaties in de woningbouw heb ik het grootste deel van de tijd doorgebracht\nJan 1999      binnen de utiliteitsbouw, voornamelijk onderhoud en service werkzaamheden."
+            },
+            {
+               "JobTitle": "Manager",
+               "StartDate": "1999-01-01",
+               "EndDate": "2000-04-01",
+               "ExperienceYears": "1",
+               "EmployerName": "Indoor Karting Den Bosch",
+               "Description": "tot            en 20 parttime krachten. Begonnen met de racetrack, korte tijd daarna ook de Horeca\nApr 2000      overgenomen."
+            },
+            {
+               "JobTitle": "Project engineer / project leider",
+               "StartDate": "2000-04-01",
+               "EndDate": "",
+               "ExperienceYears": "1",
+               "EmployerName": "Sparkler Filters International",
+               "Description": "tot            Verantwoordelijk voor het totale projectmanagement, van oriënterend gesprek met de klant\nFeb 2004      naar engineering, calculatie, volgen van uitbesteed werk tot afname en in bedrijfstelling."
+            },
+            {
+               "JobTitle": "Technisch Bedrijfsleider",
+               "StartDate": "2004-02-01",
+               "EndDate": "",
+               "ExperienceYears": "1",
+               "EmployerName": "Korevaar Steenfabrieken",
+               "Description": "Het rendement was mijn KPI"
+            },
+            {
+               "JobTitle": "Projectleider",
+               "StartDate": "2006-08-01",
+               "EndDate": "",
+               "ExperienceYears": "0",
+               "EmployerName": "Van Kempen Koudetechniek Tiel BV",
+               "Description": "Hier was ik verantwoordelijk voor de totale afdeling koel- en vriescellenbouw."
+            },
+            {
+               "JobTitle": "",
+               "StartDate": "2008-09-01",
+               "EndDate": "",
+               "ExperienceYears": "0",
+               "EmployerName": "Van Kempen Koudetechniek Tiel BV",
+               "Description": "Ik stuurde 11 mensen aan waaronder 10 monteurs en één werkvoorbereider."
+            },
+            {
+               "JobTitle": "productieleider",
+               "StartDate": "2008-09-01",
+               "EndDate": "",
+               "ExperienceYears": "0",
+               "EmployerName": "Firma Wienerberger",
+               "Description": "Ruim een jaar in dienst geweest bij de \n, hier was ik naast de kwaliteit, kwantiteit,\n                inkoop\n                en personeel ook verantwoordelijk voor de techniek. Door recessie en lange reis\n                tijden\n                   helaas genoodzaakt om iets anders te zoeken."
+            },
+            {
+               "JobTitle": "Installatie manager",
+               "StartDate": "2009-11-01",
+               "EndDate": "",
+               "ExperienceYears": "0",
+               "EmployerName": "Carrier UTC",
+               "Description": "tot            periode met een reorganisatie heb ik afscheid moeten nemen van 22 monteurs en was ik\nSept 2011      verantwoordelijk voor 30 monteurs en 2 planners. Door de er op volgende reorganisatie\n         werd uiteindelijk mijn functie overbodig."
+            },
+            {
+               "JobTitle": "hoofd afdeling Service",
+               "StartDate": "2011-09-01",
+               "EndDate": "",
+               "ExperienceYears": "0",
+               "EmployerName": "Carrier UTC",
+               "Description": ", Onderhoud, validatie en consultancy, hier heb ik de\n       tot            nieuwe afdeling opgebouwd, de klantenkring uitgebouwd, de diensten uitgebreid en de\n                procedures\n       Heden            geborgd. Door een verschil van mening tussen de groepsdirectie en mijn manager is er\n                besloten om de afdeling toch weer terug te brengen naar een kleinere groep met\n                minder taken, hierdoor wordt mijn functie wederom overbodig. Het niveau binnen de\n                afdeling verschilt van MBO tot academisch. Daarnaast ben ik MT lid en KAM\n                coördinator."
+            }
+         ]
+      },
+      "Skills": {
+         "ComputerSkills": {
+            "ComputerSkill": [
+               {
+                  "ComputerSkillName": "Suzuki SJ410",
+                  "ComputerSkillDuration": ""
+               },
+               {
+                  "ComputerSkillName": "Saab 900",
+                  "ComputerSkillDuration": ""
+               },
+               {
+                  "ComputerSkillName": "Windows",
+                  "ComputerSkillDuration": ""
+               },
+               {
+                  "ComputerSkillName": "Word",
+                  "ComputerSkillDuration": ""
+               },
+               {
+                  "ComputerSkillName": "Excel",
+                  "ComputerSkillDuration": ""
+               },
+               {
+                  "ComputerSkillName": "Autocad",
+                  "ComputerSkillDuration": ""
+               },
+               {
+                  "ComputerSkillName": "Navision",
+                  "ComputerSkillDuration": ""
+               }
+            ]
+         },
+         "LanguageSkills": {
+            "LanguageSkill": [
+               {
+                  "LanguageSkillCode": "NL",
+                  "LanguageSkillCodeDescription": "Nederlands",
+                  "LanguageProficiencyCode": "",
+                  "LanguageProficiencyCodeDescription": ""
+               },
+               {
+                  "LanguageSkillCode": "EN",
+                  "LanguageSkillCodeDescription": "Engels",
+                  "LanguageProficiencyCode": "",
+                  "LanguageProficiencyCodeDescription": ""
+               },
+               {
+                  "LanguageSkillCode": "DE",
+                  "LanguageSkillCodeDescription": "Duits",
+                  "LanguageProficiencyCode": "",
+                  "LanguageProficiencyCodeDescription": ""
+               }
+            ]
+         },
+         "SoftSkills": {
+            "SoftSkill": [
+               {
+                  "SoftSkillName": "stress bestendig"
+               },
+               {
+                  "SoftSkillName": "verantwoordelijk"
+               },
+               {
+                  "SoftSkillName": "praktisch"
+               },
+               {
+                  "SoftSkillName": "gedreven"
+               },
+               {
+                  "SoftSkillName": "optimistisch"
+               },
+               {
+                  "SoftSkillName": "sociaal"
+               },
+               {
+                  "SoftSkillName": "empathisch"
+               },
+               {
+                  "SoftSkillName": "analytisch"
+               },
+               {
+                  "SoftSkillName": "reflecterend"
+               },
+               {
+                  "SoftSkillName": "pragmatisch"
+               },
+               {
+                  "SoftSkillName": "representatief"
+               },
+               {
+                  "SoftSkillName": "kennis"
+               }
+            ]
+         }
+      },
+      "Other": {
+         "Hobbies": {
+            "Hobby": [
+               "restaureren van",
+               "Hanmudo en Airsoft"
+            ]
+         },
+         "References": {
+            "Reference": ""
+         }
+      },
+      "CustomArea": {
+         "CVTitle": "",
+         "TotalExperienceYears": "5",
+         "CurrentJob": "hoofd afdeling Service",
+         "CurrentEmployer": "Carrier UTC",
+         "Last3Experiences": "service technicus cv/lb, Manager, Project engineer / project leider",
+         "HighestEducationLevelCode": "4",
+         "HighestEducationLevelCodeDescription": "HBO/Bachelor",
+         "SalaryCode": "",
+         "SalaryCodeDescription": "",
+         "CandidateStatusCode": "",
+         "CandidateStatusCodeDescription": "",
+         "AvailabilityCode": "",
+         "AvailabilityCodeDescription": "",
+         "CVComment": "",
+         "CandidatePermission": "",
+         "ExternalID": "",
+         "ProfilePicture": {
+            "Base64Content": "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",
+            "Filename": "out274401.jpg",
+            "ContentType": "image/jpeg"
+         },
+         "ExtraInfo": {
+            "TrxmlID": "21039727",
+            "ExtraInfo1": "",
+            "ExtraInfo2": "",
+            "ExtraInfo3": "",
+            "ExtraInfo4": ""
+         }
+      },
+      "DocumentText": "Bijlage 1:      M. Lindsen, Tjasker 18, Tiel.\n\n\n       Persoonlijke gegevens .\n\n\n       Naam                  : Lindsen\n       Voornaam            : Maikel\n       Adres                  : Tjasker 18\n       Postcode            : 4007 RN\n       Woonplaats            : Tiel\n       Telefoonnummer      : 0344-614822 / 06 - 15956670\n       Geboortedatum            : 15 mei 1972\n       Burgerlijke staat            : Gehuwd, 1 kind\n       Email adres            : m.lindsen@index4u.nl\n\n\n       Persoonlijke kwaliteiten .\n\n       Technisch zeer breed, stress bestendig, verantwoordelijk, praktisch, gedreven, optimistisch,\n      sociaal,\n       empathisch, analytisch, reflecterend, pragmatisch en representatief\n\n       Opleidingen .\n\n       S.S.G.N.                  M.A.V.O.-diploma behaald in 1989.\n       M.T.S.                        Werktuigbouwkunde diploma behaald in 1993.\n       S.O.I.                        Diploma Service Monteur cv behaald in 1994 (1 jr/opl.)\n                              Diploma Service Technicus cv behaald in 1996 (2jr/opl.)\n      R.O.V.C.                  Diploma elektrisch schakelen behaald in 1997 (1jr/opl.)\n      S.B.C.                        Diploma meet- en regeltechniek (MRKA) behaald in 1998 (1jr/opl.)\n       N.B.B.E.                  Bedrijfs Hulp Verlening (is \"up to date\")\n       Van den Boom                  Basale reanimatie en AED\n       S.V.H.                        Diploma Sociale hygiëne behaald in 2000\n       SKO /Fontys.                  Diploma Post-HBO keramiek Cum-Laude behaald in 2006\n       Huisman                  PLC opfris cursus siemens S5 & S7\n       SOI                        Opfris cursus service monteur koeltechniek\n       CenterView                  Veiligheid voor Operationeel Leidinggevenden, VCA**\n       Wienerberger                  Interne cursus OEE, 5S, SGA..\n       TNO                        Training voorkoming langdurig ziekte verzuim\n       Wienerberger                  IIP, Investors In People.\n       Carrier UTC                  ACE, (combinatie van six sigma, 5s, kaizen etc)\n                               EH&S Ambassadeur training MontLuel (Frankrijk)\n       365 Arbo                  Training voorkoming langdurig ziekte verzuim\n       Pharmatech                  GMP introductie training\n                               GMP voor technisch ondersteunende diensten\n       Kenneth Smith                  Commerciële training 4 dagen\n       ICM                        Effectief beïnvloeden 3 dagen\n      Veraart Werkend Ontwikkelen      Persoonlijk coachingstraject\n       Hogeschool Utrecht            Technische Bedrijfskunde nu mee bezig\n\n\n       Werkervaring .\n\n       Aug 1994      Ziekenhuis Rivierenland Tiel als onderhoudstechnicus\n       tot            Hier was ik oa verantwoordelijk voor de technische en medische gassen, de apparatuur\n       Nov 1996      van de CSA en de bedpan spoelers op de afdelingen\n\n       Nov 1996      GDW van Harn service technicus cv/lb.\n       tot            Naast de installaties in de woningbouw heb ik het grootste deel van de tijd doorgebracht\n       Jan 1999      binnen de utiliteitsbouw, voornamelijk onderhoud en service werkzaamheden.\n\n      Jan 1999      Manager bij Indoor Karting Den Bosch, Hier had ik de dagelijkse leiding over 5 fulltime\n      tot            en 20 parttime krachten. Begonnen met de racetrack, korte tijd daarna ook de Horeca\n      Apr 2000      overgenomen.\n\n\n\n      Apr 2000      Project engineer / project leider bij Sparkler Filters International.\n      tot            Verantwoordelijk voor het totale projectmanagement, van oriënterend gesprek met de klant\n      Feb 2004      naar engineering, calculatie, volgen van uitbesteed werk tot afname en in bedrijfstelling.\n\n      Feb 2004      2,5 jaar gewerkt als Technisch Bedrijfsleider bij Korevaar Steenfabrieken (Schipperswaard)\n      tot            Hier was ik verantwoordelijk voor het volledige machinepark en aanverwante zaken.\n      Aug 2006      Het rendement was mijn KPI\n\n      Aug 2006      2 jaar gewerkt als Projectleider bij Van Kempen Koudetechniek Tiel BV\n      tot            Hier was ik verantwoordelijk voor de totale afdeling koel- en vriescellenbouw.\n      Sept 2008      Ik stuurde 11 mensen aan waaronder 10 monteurs en één werkvoorbereider.\n      Sept 2008      Ruim een jaar in dienst geweest bij de Firma Wienerberger. Gestart als productieleider /\n       tot            hoofd techniek in Rijswijk, doordat mijn fabriek gesloten werd ik overgeplaatst naar Erlecom\n       Nov 2009      in de functie van Technisch Productie leider, hier was ik naast de kwaliteit, kwantiteit,\n                inkoop\n                en personeel ook verantwoordelijk voor de techniek. Door recessie en lange reis\n                tijden\n                   helaas genoodzaakt om iets anders te zoeken.\n\n       Nov 2009      Werkzaam bij Carrier UTC, in de functie van Installatie manager, na een hele roerige\n       tot            periode met een reorganisatie heb ik afscheid moeten nemen van 22 monteurs en was ik\n       Sept 2011      verantwoordelijk voor 30 monteurs en 2 planners. Door de er op volgende reorganisatie\n                werd uiteindelijk mijn functie overbodig.\n\n       Sept 2011      Werkzaam als hoofd afdeling Service, Onderhoud, validatie en consultancy, hier heb ik de\n       tot            nieuwe afdeling opgebouwd, de klantenkring uitgebouwd, de diensten uitgebreid en de\n                procedures\n       Heden            geborgd. Door een verschil van mening tussen de groepsdirectie en mijn manager is er\n                besloten om de afdeling toch weer terug te brengen naar een kleinere groep met\n                minder taken, hierdoor wordt mijn functie wederom overbodig. Het niveau binnen de\n                afdeling verschilt van MBO tot academisch. Daarnaast ben ik MT lid en KAM\n                coördinator.\n\n\n      Referenties .\n\n                  Email adressen en / of telefoon nummers zijn opvraagbaar\n\n                              Jan Huisman, Huisman beheer BV, technisch adviseur Wienerberger\n\n                 Marion de Haan, Carrier Holland Heating, voormalig hoofd P&O Carrier\n           Bedrijfskoeling\n\n                  Alex van den Berkt, directeur Lamit\n\n                  Margriet Veraart, Veraart Werkend Ontwikkelen, Persoonlijke Coach\n\n       Opmerkingen .\n\n             * Hobby's: restaureren van mijn oldtimers, Suzuki SJ410 en Saab 900\n             * Daarnaast beoefen ik actief Hanmudo en Airsoft\n            * Windows, Word, Excel en Autocad behoren tot mijn parate kennis.\n            * Ik ben bekend met Navision.\n              * Ik ben in het bezit van een rijbewijs B.\n              * Ik beheers de Nederlandse, Engelse en Duitse taal in woord en geschrift.\n                           * Een assessment door GITP (2009) is beschikbaar.",
+      "DocumentHtml": "<div><div style=\"position: relative;\"><p> </p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n<span style=\"font-family:&apos;Courier New&apos;;font-size:12pt;\">\t </span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\">Bijlage 1: \t M. Lindsen, Tjasker 18, Tiel.</span>\n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n \n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n \n</p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n<span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\">\t </span><span style=\"font-family:&apos;Arial&apos;;font-size:11pt;background-color:#c0c0c0;\"><span class=\"trxml-3\">Persoonlijke gegevens</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:11pt;color:#bfbfbf;background-color:#c0c0c0;\"><span class=\"trxml-3\">\n</span><span style=\"white-space:pre-wrap;\"><span class=\"trxml-3\">                                                                                                    .</span></span><span class=\"trxml-3\">\n</span></span><span class=\"trxml-3\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n \n</span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Courier New&apos;;font-size:12pt;color:#000000;\"><img alt=\"image\" height=\"147\" src=\"out274401.jpg\" width=\"140\"><span class=\"trxml-3\"> </span></img><br><span class=\"trxml-3\"> </span></br><span class=\"trxml-3\">\t </span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-3\">Naam\t \t \t : <span class=\"trxml-422\">Lindsen</span></span></span><span class=\"trxml-3\">\n</span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-3\">\t Voornaam\t \t : <span class=\"trxml-423\"><span class=\"trxml-61\">Maikel</span></span></span></span><span class=\"trxml-3\">\n</span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-3\">\t Adres\t \t \t : <span class=\"trxml-79\">Tjasker 18</span></span></span><span class=\"trxml-3\">\n</span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-3\">\t Postcode\t \t : <span class=\"trxml-80\">4007 RN</span></span></span><span class=\"trxml-3\">\n</span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-3\">\t Woonplaats\t \t : <span class=\"trxml-81\">Tiel</span></span></span><span class=\"trxml-3\">\n</span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-3\">\t Telefoonnummer\t : <span class=\"trxml-64\">0344-614822</span>  /  <span class=\"trxml-65\">06 - 15956670</span></span></span><span class=\"trxml-3\">\n</span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-3\">\t Geboortedatum\t \t : <span class=\"trxml-82\">15 mei 1972</span></span></span><span class=\"trxml-3\">\n</span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-3\">\t Burgerlijke staat\t \t : <span class=\"trxml-62\">Gehuwd, 1 kind</span></span></span><span class=\"trxml-3\">\n</span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-3\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-3\">\t Email adres\t \t : <span class=\"trxml-71\">m.lindsen@index4u.nl</span></span></span>\n</p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n \n</p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n \n</p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n<span style=\"font-family:&apos;Arial&apos;;font-size:11pt;\">\t </span><span style=\"font-family:&apos;Arial&apos;;font-size:11pt;background-color:#c0c0c0;\"><span class=\"trxml-5\">Persoonlijke kwaliteiten</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:11pt;color:#bfbfbf;background-color:#c0c0c0;\"><span class=\"trxml-5\">\n</span><span style=\"white-space:pre-wrap;\"><span class=\"trxml-5\">                                                                                                    .</span></span><span class=\"trxml-5\">\n</span></span><span class=\"trxml-5\">\n</span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-5\">\n \n</span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-5\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;color:#000000;\"><span class=\"trxml-5\">\t Technisch zeer breed, <span class=\"trxml-39\">stress bestendig</span>, <span class=\"trxml-40\">verantwoordelijk</span>, <span class=\"trxml-41\">praktisch</span>, <span class=\"trxml-42\">gedreven</span>, <span class=\"trxml-43\">optimistisch</span>, <span class=\"trxml-44\">sociaal</span>, </span></span><span class=\"trxml-5\">\n</span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-5\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-5\">\t <span class=\"trxml-45\">empathisch</span>, <span class=\"trxml-46\">analytisch</span>, <span class=\"trxml-47\">reflecterend</span>, <span class=\"trxml-48\">pragmatisch</span> en <span class=\"trxml-49\">representatief</span></span></span>\n</p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n \n</p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n<span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\">\t </span><span style=\"font-family:&apos;Arial&apos;;font-size:11pt;background-color:#c0c0c0;\"><span class=\"trxml-7\">Opleidingen   </span><b><span class=\"trxml-7\">\n</span><span style=\"white-space:pre-wrap;\"><span class=\"trxml-7\"> </span></span><span class=\"trxml-7\">\n</span></b></span><span style=\"font-family:&apos;Arial&apos;;font-size:11pt;color:#bfbfbf;background-color:#c0c0c0;\"><b><span class=\"trxml-7\">.</span></b></span><span class=\"trxml-7\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n \n</span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;color:#000000;\"><span class=\"trxml-7\">\t <span class=\"trxml-269\">S.S.G.N.\t \t \t <span class=\"trxml-181\">M.A.V.O.</span>-<span class=\"trxml-165\">diploma behaald</span> in <span class=\"trxml-211\">1989</span></span>.</span></span><span class=\"trxml-7\">\n</span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-7\">\t <span class=\"trxml-270\"><span class=\"trxml-182\">M.T.S.\t \t \t \t Werktuigbouwkunde</span> <span class=\"trxml-166\">diploma behaald</span> in <span class=\"trxml-212\">1993</span></span>.</span></span><span class=\"trxml-7\">\n</span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-7\">\t <span class=\"trxml-271\"><span class=\"trxml-183\">S.O.I.\t \t \t \t Diploma Service Monteur cv</span> <span class=\"trxml-167\">behaald in 1994 (1 jr/opl</span>.)</span></span></span><span class=\"trxml-271\"><span class=\"trxml-7\">\n</span></span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-271\"><span class=\"trxml-7\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-271\"><span class=\"trxml-7\">\t \t \t \t \t Diploma <span class=\"trxml-184\">Service Technicus cv</span> <span class=\"trxml-168\">behaald in 1996 (2jr/opl</span>.)\t </span></span></span><span class=\"trxml-271\"><span class=\"trxml-7\">\n</span></span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-271\"><span class=\"trxml-7\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-271\"><span class=\"trxml-7\">\t <span class=\"trxml-185\">R.O.V.C.</span>\t \t \t Diploma <span class=\"trxml-169\">elektrisch schakelen behaald</span> in <span class=\"trxml-213\">1997</span> (1jr/opl.)</span></span></span><span class=\"trxml-271\"><span class=\"trxml-7\">\n</span></span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-271\"><span class=\"trxml-7\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-7\"><span class=\"trxml-271\">\t S.B.C.\t \t \t \t Diploma meet- en regeltechniek  (MRKA) behaald in 1998 (1jr/opl</span>.)</span></span><span class=\"trxml-7\">\n</span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-7\">\t <span class=\"trxml-272\"><span class=\"trxml-186\">N.B.B.E.\t \t \t Bedrijfs Hulp Verlening</span> (is “up to date</span>”)</span></span><span class=\"trxml-7\">\n</span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-7\">\t <span class=\"trxml-273\"><span class=\"trxml-175\">Van den Boom\t \t \t Basale</span> <span class=\"trxml-187\">reanimatie en AED</span></span> </span></span><span class=\"trxml-7\">\n</span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-7\">\t <span class=\"trxml-274\"><span class=\"trxml-188\">S.V.H.\t \t \t \t Diploma Sociale</span> hygiëne behaald in <span class=\"trxml-214\">2000</span></span> </span></span><span class=\"trxml-7\">\n</span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-7\">\t <span class=\"trxml-275\"><span class=\"trxml-189\">SKO</span> /<span class=\"trxml-176\">Fontys</span>.\t \t \t <span class=\"trxml-170\">Diploma</span> <span class=\"trxml-190\">Post-HBO keramiek Cum-Laude</span> behaald in <span class=\"trxml-215\">2006</span></span></span></span><span class=\"trxml-7\">\n</span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-7\">\t <span class=\"trxml-191\"><span class=\"trxml-276\">Huisman\t \t \t PLC opfris cursus siemens S5 &amp; S7</span></span></span></span><span class=\"trxml-7\">\n</span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-7\">\t <span class=\"trxml-277\">SOI\t \t \t \t <span class=\"trxml-192\">Opfris cursus service monteur koeltechniek</span></span></span></span><span class=\"trxml-7\">\n</span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-7\">\t <span class=\"trxml-193\"><span class=\"trxml-278\">CenterView\t \t \t Veiligheid voor Operationeel Leidinggevenden, VCA</span></span>**</span></span><span class=\"trxml-7\">\n</span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-7\">\t <span class=\"trxml-279\"><span class=\"trxml-194\">Wienerberger\t \t \t Interne cursus OEE</span>, 5S, SGA..</span></span></span><span class=\"trxml-279\"><span class=\"trxml-7\">\n</span></span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-279\"><span class=\"trxml-7\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-279\"><span class=\"trxml-7\">\t TNO \t \t \t \t Training voorkoming langdurig ziekte verzuim</span></span></span><span class=\"trxml-279\"><span class=\"trxml-7\">\n</span></span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-279\"><span class=\"trxml-7\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-279\"><span class=\"trxml-7\">\t Wienerberger\t \t \t IIP, Investors In People.</span></span></span><span class=\"trxml-279\"><span class=\"trxml-7\">\n</span></span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-279\"><span class=\"trxml-7\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-279\"><span class=\"trxml-7\">\t Carrier UTC\t \t \t ACE, (combinatie van six sigma, 5s, kaizen etc)</span></span></span><span class=\"trxml-279\"><span class=\"trxml-7\">\n</span></span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-279\"><span class=\"trxml-7\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-279\"><span class=\"trxml-7\">\t \t \t \t \t EH&amp;S Ambassadeur training MontLuel (Frankrijk)</span></span></span><span class=\"trxml-279\"><span class=\"trxml-7\">\n</span></span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-279\"><span class=\"trxml-7\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-279\"><span class=\"trxml-7\">\t 365 Arbo\t \t \t Training voorkoming langdurig ziekte verzuim</span></span></span><span class=\"trxml-279\"><span class=\"trxml-7\">\n</span></span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-279\"><span class=\"trxml-7\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-279\"><span class=\"trxml-7\">\t Pharmatech\t \t \t GMP <span class=\"trxml-195\">introductie training</span></span></span></span><span class=\"trxml-195\"><span class=\"trxml-279\"><span class=\"trxml-7\">\n</span></span></span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-195\"><span class=\"trxml-279\"><span class=\"trxml-7\">\n</span></span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-195\"><span class=\"trxml-279\"><span class=\"trxml-7\">\t \t \t \t \t GMP voor technisch ondersteunende diensten</span></span></span></span><span class=\"trxml-279\"><span class=\"trxml-7\">\n</span></span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-279\"><span class=\"trxml-7\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-279\"><span class=\"trxml-7\">\t <span class=\"trxml-177\">Kenneth Smith</span>\t \t \t <span class=\"trxml-196\">Commerciële training 4 dagen</span></span></span></span><span class=\"trxml-7\">\n</span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-7\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-7\">\t <span class=\"trxml-197\"><span class=\"trxml-280\">ICM\t \t \t \t Effectief beïnvloeden 3 dagen</span></span></span><br><span class=\"trxml-7\"> </span></br><span class=\"trxml-7\">\n<span class=\"trxml-198\"><span class=\"trxml-281\">Veraart Werkend Ontwikkelen\t Persoonlijk coachingstraject</span></span></span></span><span class=\"trxml-281\"><span class=\"trxml-7\">\n</span></span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-281\"><span class=\"trxml-7\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-281\"><span class=\"trxml-7\">\t <span class=\"trxml-178\">Hogeschool Utrecht</span>\t \t <span class=\"trxml-199\">Technische Bedrijfskunde</span> <span class=\"trxml-164\">nu</span> mee <span class=\"trxml-200\">bezig</span></span></span> <br> </br>\n\t \t </span>\n</p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n \n</p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n<span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\">\t </span><span style=\"font-family:&apos;Arial&apos;;font-size:11pt;background-color:#c0c0c0;\"><span class=\"trxml-9\">Werkervaring </span><b><span class=\"trxml-9\">\n</span><span style=\"white-space:pre-wrap;\"><span class=\"trxml-9\"> </span></span><span class=\"trxml-9\">\n</span></b></span><span style=\"font-family:&apos;Arial&apos;;font-size:11pt;color:#bfbfbf;background-color:#c0c0c0;\"><b><span class=\"trxml-9\">.</span></b></span><span class=\"trxml-9\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-9\">\n \n</span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-9\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;color:#000000;\"><span class=\"trxml-9\">\t <span class=\"trxml-248\"><span class=\"trxml-282\">Aug 1994</span>\t <span class=\"trxml-305\">Ziekenhuis Rivierenland Tiel</span> <span class=\"trxml-313\">als onderhoudstechnicus\t </span></span></span></span><span class=\"trxml-248\"><span class=\"trxml-313\"><span class=\"trxml-9\">\n</span></span></span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-248\"><span class=\"trxml-313\"><span class=\"trxml-9\">\n</span></span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-248\"><span class=\"trxml-313\"><span class=\"trxml-9\">\t tot\t \t Hier was ik oa verantwoordelijk voor de technische en medische gassen, de apparatuur</span></span></span></span><span class=\"trxml-248\"><span class=\"trxml-313\"><span class=\"trxml-9\">\n</span></span></span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-248\"><span class=\"trxml-313\"><span class=\"trxml-9\">\n</span></span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-248\"><span class=\"trxml-313\"><span class=\"trxml-9\">\t Nov 1996\t van de CSA en de bedpan spoelers op de afdelingen</span></span></span></span><span class=\"trxml-9\">\n</span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-9\">\n \n</span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-9\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-9\">\t <span class=\"trxml-250\"><span class=\"trxml-283\">Nov 1996</span>\t <span class=\"trxml-306\">GDW van Harn</span> <span class=\"trxml-296\">service technicus cv/lb</span>. \t </span></span></span><span class=\"trxml-250\"><span class=\"trxml-9\">\n</span></span></p><p style=\"margin-left:1.50in;text-indent:-1.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-250\"><span class=\"trxml-9\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-250\"><span class=\"trxml-9\">\t tot\t \t Naast de installaties in de woningbouw <span class=\"trxml-314\">heb ik het grootste deel van de tijd doorgebracht </span></span></span></span><span class=\"trxml-250\"><span class=\"trxml-314\"><span class=\"trxml-9\">\n</span></span></span></p><p style=\"margin-left:1.50in;text-indent:-1.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-250\"><span class=\"trxml-314\"><span class=\"trxml-9\">\n</span></span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-9\"><span class=\"trxml-250\"><span class=\"trxml-314\">\t Jan 1999\t binnen de utiliteitsbouw, voornamelijk onderhoud en service werkzaamheden</span></span>.</span></span><span class=\"trxml-9\">\n</span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-9\">\n \n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-9\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-9\">\t <span class=\"trxml-252\"><span class=\"trxml-284\">Jan 1999</span>\t <span class=\"trxml-297\">Manager</span> bij <span class=\"trxml-307\">Indoor Karting Den Bosch</span>, Hier had ik de dagelijkse leiding over 5 fulltime</span></span></span><span class=\"trxml-252\"><span class=\"trxml-9\">\n</span></span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-252\"><span class=\"trxml-9\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-252\"><span class=\"trxml-9\">\t tot\t \t <span class=\"trxml-315\">en 20 parttime krachten. Begonnen met de racetrack, korte tijd daarna ook de Horeca</span> </span></span></span><span class=\"trxml-252\"><span class=\"trxml-9\">\n</span></span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-252\"><span class=\"trxml-9\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-9\"><span class=\"trxml-252\">\t <span class=\"trxml-285\">Apr 2000</span>\t <span class=\"trxml-316\">overgenomen</span></span>. </span></span><span class=\"trxml-9\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-9\">\n \n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-9\">\n \n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-9\">\n \n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-9\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-9\">\t <span class=\"trxml-254\"><span class=\"trxml-286\">Apr 2000</span>\t <span class=\"trxml-298\">Project engineer / project leider</span> bij <span class=\"trxml-308\">Sparkler Filters International</span>.</span></span></span><span class=\"trxml-254\"><span class=\"trxml-9\">\n</span></span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-254\"><span class=\"trxml-9\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-254\"><span class=\"trxml-9\">\t tot\t \t <span class=\"trxml-317\">Verantwoordelijk voor het totale projectmanagement, van oriënterend gesprek met de klant </span></span></span></span><span class=\"trxml-254\"><span class=\"trxml-317\"><span class=\"trxml-9\">\n</span></span></span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-254\"><span class=\"trxml-317\"><span class=\"trxml-9\">\n</span></span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-9\"><span class=\"trxml-254\"><span class=\"trxml-317\">\t Feb 2004\t naar engineering, calculatie, volgen van uitbesteed werk tot afname en in bedrijfstelling</span></span>.</span></span><span class=\"trxml-9\">\n</span></p><p style=\"margin-left:1.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-9\">\n \n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-9\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-9\">\t <span class=\"trxml-256\"><span class=\"trxml-287\">Feb 2004</span>\t <span class=\"trxml-288\">2,5 jaar</span> gewerkt als <span class=\"trxml-299\">Technisch Bedrijfsleider</span> bij <span class=\"trxml-309\">Korevaar Steenfabrieken</span> (Schipperswaard)</span></span><br><span class=\"trxml-256\"><span class=\"trxml-9\"> </span></span></br><span class=\"trxml-256\"><span class=\"trxml-9\">\n\t tot\t \t Hier was ik verantwoordelijk voor het volledige machinepark en aanverwante zaken. </span></span></span><span class=\"trxml-256\"><span class=\"trxml-9\">\n</span></span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-256\"><span class=\"trxml-9\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-256\"><span class=\"trxml-9\">\t <span class=\"trxml-289\">Aug 2006</span>\t <span class=\"trxml-318\">Het rendement was mijn KPI</span></span></span></span><span class=\"trxml-9\">\n</span></p><p style=\"margin-left:1.00in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-9\">\n \n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-9\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-9\">\t <span class=\"trxml-258\"><span class=\"trxml-290\">Aug 2006</span>\t 2 jaar gewerkt als <span class=\"trxml-300\">Projectleider</span> bij <span class=\"trxml-310\">Van Kempen Koudetechniek Tiel BV</span></span></span></span><span class=\"trxml-258\"><span class=\"trxml-9\">\n</span></span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-258\"><span class=\"trxml-9\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-9\"><span class=\"trxml-258\">\t <span class=\"trxml-291\">tot</span>\t \t Hier was ik <span class=\"trxml-319\">verantwoordelijk voor de totale afdeling koel- en vriescellenbouw</span></span>.</span></span><span class=\"trxml-9\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-9\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-9\">\t <span class=\"trxml-259\"><span class=\"trxml-292\">Sept 2008</span>\t <span class=\"trxml-320\">Ik stuurde 11 mensen aan waaronder 10 monteurs en één werkvoorbereider</span></span>.</span><br><span class=\"trxml-9\"> </span></br><span class=\"trxml-9\">\n</span></span><span class=\"trxml-9\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-9\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-9\">\t <span class=\"trxml-260\"><span class=\"trxml-293\">Sept 2008</span>\t <span class=\"trxml-321\">Ruim</span> een jaar in dienst geweest bij de <span class=\"trxml-311\">Firma Wienerberger</span>. Gestart als <span class=\"trxml-301\">productieleider</span> /</span></span></span><span class=\"trxml-260\"><span class=\"trxml-9\">\n</span></span></p><p style=\"margin-left:1.50in;text-indent:-1.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-260\"><span class=\"trxml-9\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-260\"><span class=\"trxml-9\">\t tot\t \t hoofd techniek in Rijswijk, doordat mijn fabriek gesloten werd ik overgeplaatst naar Erlecom\t </span></span></span><span class=\"trxml-260\"><span class=\"trxml-9\">\n</span></span></p><p style=\"margin-left:1.50in;text-indent:-1.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-260\"><span class=\"trxml-9\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-260\"><span class=\"trxml-9\">\t Nov 2009\t in de functie van <span class=\"trxml-302\">Technisch Productie leider</span>, <span class=\"trxml-322\">hier was ik naast de kwaliteit, kwantiteit, inkoop </span></span></span><br><span class=\"trxml-260\"><span class=\"trxml-322\"><span class=\"trxml-9\"> </span></span></span></br><span class=\"trxml-260\"><span class=\"trxml-322\"><span class=\"trxml-9\">\nen personeel ook verantwoordelijk voor de techniek. Door recessie en lange reis tijden </span></span></span></span><span class=\"trxml-260\"><span class=\"trxml-322\"><span class=\"trxml-9\">\n</span></span></span></p><p style=\"margin-left:1.50in;text-indent:-1.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-260\"><span class=\"trxml-322\"><span class=\"trxml-9\">\n</span></span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-9\"><span class=\"trxml-260\"><span class=\"trxml-322\">\t \t \t helaas genoodzaakt om iets anders te zoeken</span></span>.</span></span><span class=\"trxml-9\">\n</span></p><p style=\"margin-left:1.50in;text-indent:-1.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-9\">\n \n</span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-9\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-9\">\t <span class=\"trxml-262\"><span class=\"trxml-294\">Nov 2009</span> \t Werkzaam bij <span class=\"trxml-312\">Carrier UTC</span>, in de functie van <span class=\"trxml-303\">Installatie manager</span>, na een hele roerige </span></span></span><span class=\"trxml-262\"><span class=\"trxml-9\">\n</span></span></p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-262\"><span class=\"trxml-9\">\n</span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-262\"><span class=\"trxml-9\">\t tot\t \t periode <span class=\"trxml-323\">met een reorganisatie heb ik afscheid moeten nemen van 22 monteurs en was ik  </span></span></span></span><span class=\"trxml-262\"><span class=\"trxml-323\"><span class=\"trxml-9\">\n</span></span></span></p><p style=\"margin-left:1.50in;text-indent:-1.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-262\"><span class=\"trxml-323\"><span class=\"trxml-9\">\n</span></span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-262\"><span class=\"trxml-323\"><span class=\"trxml-9\">\t Sept 2011\t verantwoordelijk voor 30 monteurs en 2 planners. Door de er op volgende reorganisatie </span></span></span><br><span class=\"trxml-262\"><span class=\"trxml-323\"><span class=\"trxml-9\"> </span></span></span></br><span class=\"trxml-9\"><span class=\"trxml-262\"><span class=\"trxml-323\">\nwerd uiteindelijk mijn functie overbodig</span></span>.</span></span><span class=\"trxml-9\">\n</span></p><p style=\"margin-left:1.50in;text-indent:-1.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-9\">\n \n</span></p><p style=\"margin-left:1.50in;text-indent:-1.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-9\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-9\">\t <span class=\"trxml-264\"><span class=\"trxml-295\">Sept 2011</span> \t Werkzaam als <span class=\"trxml-304\">hoofd afdeling Service</span>, <span class=\"trxml-324\">Onderhoud, validatie en consultancy, hier heb ik de </span></span></span></span><span class=\"trxml-264\"><span class=\"trxml-324\"><span class=\"trxml-9\">\n</span></span></span></p><p style=\"margin-left:1.50in;text-indent:-1.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-264\"><span class=\"trxml-324\"><span class=\"trxml-9\">\n</span></span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-264\"><span class=\"trxml-324\"><span class=\"trxml-9\">\t tot\t \t nieuwe afdeling opgebouwd, de klantenkring uitgebouwd, de diensten uitgebreid en de procedures </span></span></span></span><span class=\"trxml-264\"><span class=\"trxml-324\"><span class=\"trxml-9\">\n</span></span></span></p><p style=\"margin-left:1.50in;text-indent:-1.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-264\"><span class=\"trxml-324\"><span class=\"trxml-9\">\n</span></span></span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-264\"><span class=\"trxml-9\"><span class=\"trxml-324\">\t Heden\t \t geborgd. Door een verschil van mening tussen de groepsdirectie en mijn manager</span> <span class=\"trxml-326\">is er besloten om de afdeling toch weer terug te brengen naar een kleinere groep met</span> <span class=\"trxml-325\">minder taken, hierdoor wordt mijn functie wederom overbodig. Het niveau binnen de afdeling verschilt van MBO tot academisch. Daarnaast ben ik MT lid en KAM coördinator</span></span></span>.</span>\n</p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n \n</p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n \n</p><p style=\"margin-left:1.08in;text-indent:-0.58in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n<span style=\"font-family:&apos;Arial&apos;;font-size:11pt;background-color:#c0c0c0;\">Referenties     <b>\n<span style=\"white-space:pre-wrap;\"> </span>\n</b></span><span style=\"font-family:&apos;Arial&apos;;font-size:11pt;color:#bfbfbf;background-color:#c0c0c0;\"><b>.</b></span>\n</p><p style=\"margin-left:1.08in;text-indent:-0.58in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n \n</p><p style=\"margin-left:1.08in;text-indent:-0.58in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n<span style=\"font-family:&apos;Arial&apos;;font-size:10pt;color:#000000;\">\t \t <b><i>Email adressen en / of telefoon nummers zijn opvraagbaar</i></b></span>\n</p><p style=\"margin-left:1.08in;text-indent:-0.58in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n \n</p><p style=\"margin-left:1.08in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n<span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\">\t \t \t Jan Huisman, Huisman beheer BV, technisch adviseur Wienerberger</span>\n</p><p style=\"margin-left:1.00in;text-indent:0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n \n</p><p style=\"margin-left:1.00in;text-indent:0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n<span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\">Marion de Haan, Carrier Holland Heating, voormalig hoofd P&amp;O Carrier Bedrijfskoeling</span>\n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n \n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n<span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\">\t \t \t Alex van den Berkt, directeur Lamit <br> </br>\n<br> </br>\n\t \t \t Margriet Veraart, Veraart Werkend Ontwikkelen, Persoonlijke Coach</span>\n</p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n \n</p><p style=\"margin-left:0.50in;text-indent:-0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n<span style=\"font-family:&apos;Arial&apos;;font-size:11pt;\"><b>\t </b></span><span style=\"font-family:&apos;Arial&apos;;font-size:11pt;background-color:#c0c0c0;\"><span class=\"trxml-11\">Opmerkingen </span><b><span class=\"trxml-11\">\n</span><span style=\"white-space:pre-wrap;\"><span class=\"trxml-11\"> </span></span><span class=\"trxml-11\">\n</span></b></span><span style=\"font-family:&apos;Arial&apos;;font-size:11pt;color:#bfbfbf;background-color:#c0c0c0;\"><b><span class=\"trxml-11\">.</span></b></span><span class=\"trxml-11\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-11\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:11pt;color:#000000;\"><span class=\"trxml-11\"> \t </span></span><span class=\"trxml-11\">\n</span></p><p style=\"margin-left:1.50in;text-indent:-1.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-11\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-11\">\t \t -\t Hobby’s: <span class=\"trxml-450\">restaureren van</span> mijn oldtimers, <span class=\"trxml-21\">Suzuki SJ410</span> en <span class=\"trxml-22\">Saab 900</span></span></span><span class=\"trxml-11\">\n</span></p><p style=\"margin-left:1.50in;text-indent:-1.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-11\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-11\">\t \t -\t Daarnaast beoefen ik actief <span class=\"trxml-451\">Hanmudo en Airsoft</span></span></span><span class=\"trxml-11\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-11\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-11\">\t \t -\t <span class=\"trxml-23\">Windows</span>, <span class=\"trxml-24\">Word</span>, <span class=\"trxml-25\">Excel</span> en <span class=\"trxml-26\">Autocad</span> behoren tot mijn parate <span class=\"trxml-466\">kennis</span>. </span></span><span class=\"trxml-11\">\n</span></p><p style=\"text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-11\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-11\">\t \t -\t Ik ben <span class=\"trxml-418\">bekend</span> met <span class=\"trxml-27\">Navision</span>.</span></span><span class=\"trxml-11\">\n</span></p><p style=\"margin-left:1.08in;text-indent:-0.98in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-11\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-11\"> \t \t -\t Ik ben in het bezit van een rijbewijs <span class=\"trxml-29\">B.</span></span></span><span class=\"trxml-11\">\n</span></p><p style=\"margin-left:1.08in;text-indent:-0.98in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-11\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-11\">\t \t -\t Ik beheers de <span class=\"trxml-12\">Nederlandse</span>, <span class=\"trxml-13\">Engelse</span> en <span class=\"trxml-14\">Duitse taal</span> <span class=\"trxml-15\">in woord en geschrift</span>.\t \t </span></span><span class=\"trxml-11\">\n</span></p><p style=\"margin-left:1.08in;text-indent:-0.98in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\"><span class=\"trxml-11\">\n</span><span style=\"font-family:&apos;Arial&apos;;font-size:10pt;\"><span class=\"trxml-11\">\n</span><span style=\"white-space:pre-wrap;\"><span class=\"trxml-11\">                         -</span></span><span class=\"trxml-11\">\n\t Een assessment door GITP (2009) is beschikbaar</span>.\t </span>\n</p><p style=\"margin-left:1.08in;text-indent:-0.98in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n \n</p><p style=\"margin-left:1.08in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;\">\n </p>\n </div></div>",
+      "Performance": {
+         "PreProcessingTime": "1.021",
+         "ProcessingTime": "3.986",
+         "NormalizationTime": "0.727",
+         "TemplatingTime": "0.743",
+         "TotalTime": "6.477"
+      },
+      "_xmlns": "http://home.textkernel.nl/2013-08-01",
+      "_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "_lang": "dutch",
+      "_file": "/home/vanoort1/domains/eminentgroep.nl/public_html/crm/../uploads/efcv/3496263_Lindsen, Maikel.doc",
+      "_xsi:schemaLocation": "http://mx.textkernel.nl/xsd/tkprofile.xsd"
+   }
+}
